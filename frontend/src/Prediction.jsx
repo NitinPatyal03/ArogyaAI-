@@ -42,7 +42,7 @@ function Prediction() {
 
   useEffect(() => {
 
-    fetch("http://127.0.0.1:5000/symptoms")
+    fetch("https://arogyaai-backend-wudu.onrender.com/symptoms")
 
         .then(res => res.json())
 
@@ -320,7 +320,7 @@ if (transcript) {
       setLoading(true);
 
       const response = await fetch(
-        "http://127.0.0.1:5000/predict",
+        "https://arogyaai-backend-wudu.onrender.com/predict",
 
         {
           method: "POST",

@@ -36,7 +36,7 @@ function Profile() {
 
   const [profileImage, setProfileImage] = useState(
     imageName
-      ? `http://127.0.0.1:5000/profile-image/${imageName}`
+      ? `https://arogyaai-backend-wudu.onrender.com/profile-image/${imageName}`
       : `https://ui-avatars.com/api/?name=${encodeURIComponent(
           localStorage.getItem("name") || "User",
         )}&background=2563eb&color=fff`,
@@ -66,7 +66,7 @@ function Profile() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/upload-profile-image",
+        "https://arogyaai-backend-wudu.onrender.com/upload-profile-image",
 
         {
           method: "POST",
@@ -81,7 +81,7 @@ function Profile() {
         localStorage.setItem("profileImage", data.image);
 
         setProfileImage(
-          `http://127.0.0.1:5000/profile-image/${data.image}?t=${Date.now()}`,
+          `https://arogyaai-backend-wudu.onrender.com/profile-image/${data.image}?t=${Date.now()}`,
         );
 
         toast.success("Profile Picture Updated");
@@ -93,7 +93,7 @@ function Profile() {
   const saveProfile = async () => {
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/update-profile",
+        "https://arogyaai-backend-wudu.onrender.com/update-profile",
 
         {
           method: "POST",

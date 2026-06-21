@@ -23,7 +23,7 @@ function EmergencySOS() {
 
       // Emergency Email
       await fetch(
-        "http://127.0.0.1:5000/send-sos-email",
+        "https://arogyaai-backend-wudu.onrender.com/send-sos-email",
 
         {
           method: "POST",
