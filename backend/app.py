@@ -335,7 +335,18 @@ def get_users():
             "error": str(e)
 
         }), 500
-
+@app.route("/testdb")
+def testdb():
+    try:
+        count = users_collection.count_documents({})
+        return jsonify({
+            "status": "Connected",
+            "users": count
+        })
+    except Exception as e:
+        return jsonify({
+            "error": str(e)
+        }), 500
 # -----------------------------------
 # Signup API
 # -----------------------------------
