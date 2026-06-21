@@ -6,7 +6,6 @@ load_dotenv()
 from flask import Flask, request, jsonify, send_file
 from flask_cors import CORS
 from bson.objectid import ObjectId
-from google import genai
 from reportlab.platypus import (
     SimpleDocTemplate,
     Paragraph,
@@ -55,15 +54,15 @@ app.config["SECRET_KEY"] = os.getenv("JWT_SECRET_KEY")
 # -----------------------------------
 # Gemini AI Configuration
 # -----------------------------------
-GEMINI_API_KEY = "AIzaSyAzuHyPrgicK7w4rRKu4xdhqvy7Xhub62w"
+# GEMINI_API_KEY = "AIzaSyAzuHyPrgicK7w4rRKu4xdhqvy7Xhub62w"
 
-client_ai = genai.Client(
-    api_key=GEMINI_API_KEY
-)
+# client_ai = genai.Client(
+#     api_key=GEMINI_API_KEY
+# )
 
-UPLOAD_FOLDER = "uploadss/profile"
-os.makedirs(UPLOAD_FOLDER, exist_ok=True)
-app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
+# UPLOAD_FOLDER = "uploadss/profile"
+# os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+# app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 
 # -----------------------------------
 # MongoDB Connection
