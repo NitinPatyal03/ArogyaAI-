@@ -68,8 +68,13 @@ app.config["SECRET_KEY"] = os.getenv("JWT_SECRET_KEY")
 # MongoDB Connection
 # -----------------------------------
 client = MongoClient(
-    os.getenv("MONGO_URI")
+    os.getenv("MONGO_URI"),
+    serverSelectionTimeoutMS=5000
 )
+
+client.admin.command("ping")
+
+print("MongoDB Connected Successfully")
 
 db = client["arogyaai"]
 
@@ -88,9 +93,17 @@ prediction_history_collection = db["prediction_history"]
 # -----------------------------------
 # Production Model V2
 
-model = joblib.load("models/model_v2.pkl")
+model = None
+mlb = None
 
-mlb = joblib.load("models/mlb_v2.pkl")
+def load_model():
+    global model, mlb
+
+    if model is None:
+        model = joblib.load("models/model_v2.pkl")
+
+    if mlb is None:
+        mlb = joblib.load("models/mlb_v2.pkl")
 
 # -----------------------------------
 # Load Dataset
@@ -1284,7 +1297,7 @@ def google_fit_data():
 # -----------------------------------
 @app.route("/predict", methods=["POST"])
 def predict():
-
+   load_model()
     try:
 
         data = request.get_json()
