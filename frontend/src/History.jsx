@@ -14,7 +14,7 @@ function History() {
   const fetchHistory = async () => {
     const email = localStorage.getItem("email");
 
-    const response = await fetch(`https://arogyaai-backend-wudu.onrender.com/history/${email}`);
+    const response = await fetch(`https://arogyaai-backend-dic1.onrender.com/history/${email}`);
 
     const data = await response.json();
 
@@ -27,7 +27,7 @@ function History() {
     if (!confirmDelete) return;
 
     await fetch(
-      `https://arogyaai-backend-wudu.onrender.com/history/delete/${id}`,
+      `https://arogyaai-backend-dic1.onrender.com/history/delete/${id}`,
 
       {
         method: "DELETE",

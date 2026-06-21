@@ -253,7 +253,7 @@ function PredictionSection() {
       setLoading(true);
 
       const response = await fetch(
-        "https://arogyaai-backend-wudu.onrender.com/predict",
+        "https://arogyaai-backend-dic1.onrender.com/predict",
 
         {
           method: "POST",

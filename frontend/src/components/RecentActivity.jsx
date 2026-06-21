@@ -8,7 +8,7 @@ function RecentActivity() {
       const email = localStorage.getItem("email");
 
       const res = await fetch(
-        `https://arogyaai-backend-wudu.onrender.com/recent-activity?email=${email}`,
+        `https://arogyaai-backend-dic1.onrender.com/recent-activity?email=${email}`,
       );
 
       const data = await res.json();

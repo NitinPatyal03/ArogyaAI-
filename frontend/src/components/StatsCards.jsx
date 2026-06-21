@@ -17,7 +17,7 @@ function StatsCards() {
         const email = localStorage.getItem("email");
 
         const response = await fetch(
-          `https://arogyaai-backend-wudu.onrender.com/dashboard?email=${email}`,
+          `https://arogyaai-backend-dic1.onrender.com/dashboard?email=${email}`,
         );
 
         const data = await response.json();

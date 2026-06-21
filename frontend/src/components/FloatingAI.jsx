@@ -48,7 +48,7 @@ function FloatingAI() {
 
     try {
       const response = await fetch(
-        "https://arogyaai-backend-wudu.onrender.com/ai-chat",
+        "https://arogyaai-backend-dic1.onrender.com/ai-chat",
 
         {
           method: "POST",

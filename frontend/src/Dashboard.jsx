@@ -31,7 +31,7 @@ function Dashboard() {
 
   const fetchHistory = async () => {
     try {
-      const response = await fetch("https://arogyaai-backend-wudu.onrender.com/history");
+      const response = await fetch("https://arogyaai-backend-dic1.onrender.com/history");
 
       const data = await response.json();
 

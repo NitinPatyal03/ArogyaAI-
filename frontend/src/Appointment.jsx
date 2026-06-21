@@ -19,7 +19,7 @@ function Appointment() {
   
   const [doctors, setDoctors] = useState([]);
   useEffect(() => {
-  fetch("https://arogyaai-backend-wudu.onrender.com/doctors")
+  fetch("https://arogyaai-backend-dic1.onrender.com/doctors")
     .then((res) => res.json())
     .then((data) => {
       setDoctors(data);
@@ -33,7 +33,7 @@ function Appointment() {
   // -----------------------------------
   const fetchAppointments = async () => {
     try {
-      const response = await fetch("https://arogyaai-backend-wudu.onrender.com/appointment");
+      const response = await fetch("https://arogyaai-backend-dic1.onrender.com/appointment");
 
       const data = await response.json();
 
@@ -55,7 +55,7 @@ function Appointment() {
 
     try {
       const response = await fetch(
-        "https://arogyaai-backend-wudu.onrender.com/book-appointment",
+        "https://arogyaai-backend-dic1.onrender.com/book-appointment",
 
         {
           method: "POST",
@@ -98,7 +98,7 @@ function Appointment() {
   const cancelAppointment = async (id) => {
     try {
       const response = await fetch(
-        `https://arogyaai-backend-wudu.onrender.com/delete-appointment/${id}`,
+        `https://arogyaai-backend-dic1.onrender.com/delete-appointment/${id}`,
 
         {
           method: "DELETE",

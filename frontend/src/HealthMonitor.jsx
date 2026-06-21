@@ -13,7 +13,7 @@ function HealthMonitor() {
 
   const saveHealth = async () => {
     await fetch(
-      "https://arogyaai-backend-wudu.onrender.com/save-health",
+      "https://arogyaai-backend-dic1.onrender.com/save-health",
 
       {
         method: "POST",
@@ -50,7 +50,7 @@ function HealthMonitor() {
     try {
       const token = localStorage.getItem("google_access_token");
 
-      const response = await fetch("https://arogyaai-backend-wudu.onrender.com/google-fit-data", {
+      const response = await fetch("https://arogyaai-backend-dic1.onrender.com//google-fit-data", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

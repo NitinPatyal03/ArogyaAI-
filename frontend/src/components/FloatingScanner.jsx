@@ -27,7 +27,7 @@ function FloatingScanner() {
       });
 
       const response = await fetch(
-        "https://arogyaai-backend-wudu.onrender.com/scan-prescription",
+        "https://arogyaai-backend-dic1.onrender.com/scan-prescription",
 
         {
           method: "POST",

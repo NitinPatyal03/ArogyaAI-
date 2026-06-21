@@ -56,7 +56,7 @@ function MedicineReminder() {
 
           // Email API
           fetch(
-            "https://arogyaai-backend-wudu.onrender.com/send-medicine-email",
+            "https://arogyaai-backend-dic1.onrender.com/send-medicine-email",
 
             {
               method: "POST",

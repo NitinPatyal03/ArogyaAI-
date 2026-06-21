@@ -15,7 +15,7 @@ function Signup() {
     }
 
     try {
-      const response = await fetch("https://arogyaai-backend-wudu.onrender.com/signup", {
+      const response = await fetch("https://arogyaai-backend-dic1.onrender.com/signup", {
         method: "POST",
 
         headers: {
