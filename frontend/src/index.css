@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@keyframes floating {
+  0% {
+    transform: translateY(0px);
+  }
+
+  50% {
+    transform: translateY(-8px);
+  }
+
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.floating-camera {
+  animation: floating 2.5s ease-in-out infinite;
+}

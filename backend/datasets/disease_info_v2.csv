@@ -1,0 +1,2501 @@
+Disease,Symptoms,Severity
+Common Cold,"cough,sneezing,headache,runny nose,sore throat,fatigue",Low
+Common Cold,"fatigue,nasal congestion,mild fever,cough,runny nose,sore throat,headache,sneezing",Low
+Common Cold,"cough,mild fever,runny nose,headache,sore throat,fatigue,sneezing",Low
+Common Cold,"cough,runny nose,nasal congestion,sneezing,headache,mild fever,fatigue,sore throat",Low
+Common Cold,"sneezing,cough,headache,sore throat,runny nose",Low
+Common Cold,"sore throat,sneezing,runny nose,cough,headache",Low
+Common Cold,"fatigue,mild fever,headache,runny nose,sore throat,nasal congestion,cough,sneezing",Low
+Common Cold,"sore throat,mild fever,sneezing,runny nose",Low
+Common Cold,"runny nose,mild fever,sneezing,nasal congestion,sore throat",Low
+Common Cold,"sore throat,runny nose,cough,sneezing",Low
+Common Cold,"fatigue,nasal congestion,cough,runny nose,sneezing,headache,sore throat",Low
+Common Cold,"fatigue,nasal congestion,sore throat,cough,sneezing,headache,mild fever,runny nose",Low
+Common Cold,"sore throat,cough,runny nose,headache,sneezing",Low
+Common Cold,"sore throat,cough,sneezing,runny nose,mild fever,fatigue",Low
+Common Cold,"cough,headache,mild fever,runny nose,sore throat,sneezing",Low
+Common Cold,"sneezing,fatigue,headache,sore throat,runny nose,mild fever,cough",Low
+Common Cold,"runny nose,sneezing,sore throat,headache",Low
+Common Cold,"nasal congestion,mild fever,headache,fatigue,cough,sore throat,sneezing,runny nose",Low
+Common Cold,"headache,sneezing,runny nose,sore throat,cough,mild fever",Low
+Common Cold,"runny nose,fatigue,mild fever,cough,sore throat,sneezing",Low
+Common Cold,"sneezing,sore throat,headache,fatigue,runny nose,nasal congestion,mild fever,cough",Low
+Common Cold,"sore throat,sneezing,runny nose,nasal congestion",Low
+Common Cold,"sneezing,fatigue,mild fever,cough,runny nose,sore throat",Low
+Common Cold,"nasal congestion,cough,fatigue,headache,runny nose,sneezing,sore throat",Low
+Common Cold,"sore throat,nasal congestion,sneezing,runny nose,mild fever,headache",Low
+Common Cold,"sneezing,fatigue,headache,cough,sore throat,nasal congestion,runny nose",Low
+Common Cold,"sore throat,fatigue,sneezing,runny nose",Low
+Common Cold,"sneezing,mild fever,runny nose,nasal congestion,sore throat,cough,fatigue,headache",Low
+Common Cold,"runny nose,sore throat,mild fever,headache,nasal congestion,sneezing,cough",Low
+Common Cold,"cough,mild fever,sneezing,runny nose,sore throat,headache",Low
+Common Cold,"sore throat,fatigue,headache,sneezing,runny nose",Low
+Common Cold,"sore throat,runny nose,cough,sneezing",Low
+Common Cold,"runny nose,sore throat,sneezing,fatigue",Low
+Common Cold,"nasal congestion,headache,runny nose,sneezing,sore throat,cough,mild fever,fatigue",Low
+Common Cold,"sneezing,cough,sore throat,runny nose",Low
+Common Cold,"sneezing,sore throat,runny nose,nasal congestion",Low
+Common Cold,"runny nose,sore throat,sneezing,nasal congestion,headache,mild fever,cough,fatigue",Low
+Common Cold,"sneezing,runny nose,mild fever,sore throat",Low
+Common Cold,"runny nose,mild fever,fatigue,sore throat,sneezing",Low
+Common Cold,"headache,mild fever,sore throat,nasal congestion,cough,fatigue,sneezing,runny nose",Low
+Common Cold,"runny nose,sore throat,nasal congestion,sneezing",Low
+Common Cold,"runny nose,sneezing,cough,sore throat",Low
+Common Cold,"headache,cough,sneezing,mild fever,sore throat,runny nose,nasal congestion",Low
+Common Cold,"sneezing,headache,cough,runny nose,nasal congestion,sore throat,mild fever",Low
+Common Cold,"sneezing,nasal congestion,fatigue,mild fever,runny nose,sore throat,cough",Low
+Common Cold,"nasal congestion,runny nose,fatigue,sneezing,sore throat,mild fever,headache",Low
+Common Cold,"sore throat,fatigue,nasal congestion,runny nose,sneezing",Low
+Common Cold,"cough,fatigue,sore throat,nasal congestion,runny nose,headache,sneezing",Low
+Common Cold,"runny nose,mild fever,headache,cough,sore throat,sneezing,fatigue,nasal congestion",Low
+Common Cold,"sneezing,mild fever,sore throat,fatigue,runny nose",Low
+Influenza,"high fever,sore throat,body ache,fatigue,chills",Medium
+Influenza,"loss of appetite,body ache,chills,high fever",Medium
+Influenza,"loss of appetite,cough,headache,body ache,fatigue,chills,high fever,sore throat",Medium
+Influenza,"chills,high fever,loss of appetite,body ache",Medium
+Influenza,"high fever,sore throat,chills,loss of appetite,fatigue,cough,body ache",Medium
+Influenza,"headache,body ache,cough,fatigue,sore throat,chills,high fever,loss of appetite",Medium
+Influenza,"loss of appetite,chills,high fever,headache,body ache",Medium
+Influenza,"chills,cough,body ache,high fever",Medium
+Influenza,"body ache,chills,fatigue,high fever",Medium
+Influenza,"high fever,chills,body ache,loss of appetite",Medium
+Influenza,"chills,high fever,fatigue,body ache",Medium
+Influenza,"headache,body ache,high fever,chills,sore throat",Medium
+Influenza,"body ache,high fever,chills,loss of appetite",Medium
+Influenza,"headache,loss of appetite,high fever,chills,fatigue,sore throat,body ache",Medium
+Influenza,"loss of appetite,fatigue,sore throat,cough,high fever,chills,headache,body ache",Medium
+Influenza,"headache,chills,high fever,body ache",Medium
+Influenza,"cough,chills,high fever,loss of appetite,fatigue,body ache,sore throat",Medium
+Influenza,"headache,body ache,high fever,sore throat,cough,chills",Medium
+Influenza,"chills,sore throat,body ache,loss of appetite,cough,high fever",Medium
+Influenza,"body ache,loss of appetite,cough,high fever,chills,fatigue,sore throat,headache",Medium
+Influenza,"chills,high fever,body ache,sore throat",Medium
+Influenza,"body ache,high fever,chills,cough,loss of appetite",Medium
+Influenza,"fatigue,high fever,body ache,chills",Medium
+Influenza,"chills,body ache,high fever,cough",Medium
+Influenza,"high fever,fatigue,body ache,chills,sore throat",Medium
+Influenza,"high fever,chills,loss of appetite,sore throat,headache,body ache,cough",Medium
+Influenza,"cough,headache,loss of appetite,high fever,chills,body ache",Medium
+Influenza,"high fever,chills,body ache,loss of appetite,cough,sore throat",Medium
+Influenza,"high fever,fatigue,body ache,headache,chills",Medium
+Influenza,"cough,high fever,chills,loss of appetite,body ache",Medium
+Influenza,"fatigue,chills,high fever,body ache",Medium
+Influenza,"high fever,chills,fatigue,body ache,sore throat",Medium
+Influenza,"fatigue,chills,high fever,cough,sore throat,headache,loss of appetite,body ache",Medium
+Influenza,"body ache,high fever,headache,cough,chills,loss of appetite",Medium
+Influenza,"headache,high fever,cough,chills,body ache,sore throat",Medium
+Influenza,"loss of appetite,fatigue,chills,sore throat,body ache,high fever,cough",Medium
+Influenza,"body ache,fatigue,high fever,cough,loss of appetite,chills,sore throat",Medium
+Influenza,"headache,chills,high fever,cough,body ache,sore throat,loss of appetite",Medium
+Influenza,"fatigue,high fever,body ache,sore throat,chills",Medium
+Influenza,"body ache,headache,chills,loss of appetite,high fever",Medium
+Influenza,"body ache,high fever,sore throat,chills",Medium
+Influenza,"cough,chills,high fever,sore throat,body ache",Medium
+Influenza,"body ache,cough,chills,high fever",Medium
+Influenza,"fatigue,high fever,body ache,loss of appetite,chills,headache,cough,sore throat",Medium
+Influenza,"body ache,chills,headache,sore throat,high fever,fatigue,cough",Medium
+Influenza,"chills,sore throat,body ache,high fever",Medium
+Influenza,"high fever,loss of appetite,sore throat,cough,chills,headache,body ache,fatigue",Medium
+Influenza,"sore throat,cough,fatigue,chills,loss of appetite,body ache,high fever",Medium
+Influenza,"sore throat,fatigue,chills,cough,headache,body ache,loss of appetite,high fever",Medium
+Influenza,"high fever,chills,body ache,sore throat,headache",Medium
+COVID-19,"fever,sore throat,fatigue,loss of smell,dry cough",High
+COVID-19,"fatigue,dry cough,headache,loss of taste,shortness of breath,fever,loss of smell,sore throat",High
+COVID-19,"fatigue,fever,sore throat,headache,shortness of breath,dry cough,loss of smell,loss of taste",High
+COVID-19,"dry cough,headache,fever,shortness of breath,loss of smell",High
+COVID-19,"loss of taste,shortness of breath,sore throat,headache,fatigue,fever,loss of smell,dry cough",High
+COVID-19,"shortness of breath,headache,loss of smell,dry cough,fever",High
+COVID-19,"sore throat,headache,loss of taste,fever,loss of smell,fatigue,dry cough",High
+COVID-19,"fatigue,dry cough,headache,loss of taste,shortness of breath,fever,sore throat,loss of smell",High
+COVID-19,"dry cough,sore throat,fever,loss of smell,shortness of breath",High
+COVID-19,"loss of smell,dry cough,fatigue,shortness of breath,fever,headache",High
+COVID-19,"fatigue,fever,dry cough,loss of smell,loss of taste",High
+COVID-19,"headache,dry cough,shortness of breath,sore throat,fatigue,fever,loss of smell",High
+COVID-19,"fatigue,fever,dry cough,loss of smell,shortness of breath,loss of taste",High
+COVID-19,"loss of smell,headache,shortness of breath,dry cough,sore throat,fatigue,fever",High
+COVID-19,"loss of smell,dry cough,sore throat,fever",High
+COVID-19,"fever,sore throat,fatigue,shortness of breath,loss of smell,headache,dry cough",High
+COVID-19,"loss of smell,sore throat,dry cough,fever",High
+COVID-19,"loss of smell,dry cough,shortness of breath,fever",High
+COVID-19,"headache,fatigue,shortness of breath,sore throat,loss of smell,dry cough,fever,loss of taste",High
+COVID-19,"headache,loss of taste,dry cough,fever,loss of smell",High
+COVID-19,"fatigue,dry cough,fever,loss of smell",High
+COVID-19,"headache,sore throat,loss of taste,shortness of breath,dry cough,fever,loss of smell",High
+COVID-19,"loss of smell,sore throat,fever,dry cough,shortness of breath",High
+COVID-19,"loss of taste,headache,shortness of breath,loss of smell,fatigue,dry cough,fever",High
+COVID-19,"loss of taste,fatigue,sore throat,fever,dry cough,loss of smell,headache,shortness of breath",High
+COVID-19,"headache,fatigue,sore throat,shortness of breath,fever,loss of taste,dry cough,loss of smell",High
+COVID-19,"sore throat,dry cough,shortness of breath,headache,fatigue,loss of taste,loss of smell,fever",High
+COVID-19,"loss of smell,dry cough,shortness of breath,sore throat,fatigue,fever,loss of taste",High
+COVID-19,"headache,fever,loss of smell,dry cough,loss of taste,shortness of breath",High
+COVID-19,"loss of smell,loss of taste,fever,dry cough,fatigue",High
+COVID-19,"fatigue,dry cough,fever,loss of smell",High
+COVID-19,"loss of taste,loss of smell,fever,dry cough,shortness of breath,sore throat",High
+COVID-19,"fever,loss of smell,headache,dry cough",High
+COVID-19,"dry cough,fever,fatigue,loss of smell,shortness of breath",High
+COVID-19,"sore throat,loss of taste,dry cough,headache,fever,shortness of breath,loss of smell",High
+COVID-19,"loss of smell,fever,headache,shortness of breath,dry cough,loss of taste,sore throat,fatigue",High
+COVID-19,"headache,sore throat,loss of taste,fever,loss of smell,shortness of breath,dry cough",High
+COVID-19,"fatigue,loss of smell,headache,loss of taste,dry cough,shortness of breath,sore throat,fever",High
+COVID-19,"dry cough,headache,fever,loss of smell,sore throat,fatigue,shortness of breath",High
+COVID-19,"fever,sore throat,shortness of breath,loss of smell,dry cough",High
+COVID-19,"loss of taste,headache,shortness of breath,sore throat,loss of smell,dry cough,fever,fatigue",High
+COVID-19,"loss of smell,fatigue,loss of taste,shortness of breath,dry cough,fever,sore throat,headache",High
+COVID-19,"fatigue,sore throat,loss of taste,fever,loss of smell,headache,shortness of breath,dry cough",High
+COVID-19,"loss of taste,loss of smell,fever,shortness of breath,dry cough",High
+COVID-19,"fever,dry cough,sore throat,headache,fatigue,loss of taste,shortness of breath,loss of smell",High
+COVID-19,"sore throat,loss of smell,fatigue,fever,loss of taste,headache,dry cough",High
+COVID-19,"loss of smell,dry cough,fatigue,shortness of breath,fever,sore throat",High
+COVID-19,"fever,sore throat,loss of smell,dry cough",High
+COVID-19,"loss of smell,dry cough,loss of taste,fever,fatigue,sore throat",High
+COVID-19,"dry cough,sore throat,loss of smell,fever",High
+Malaria,"high fever,sweating,chills,nausea,headache,body ache,fatigue",High
+Malaria,"nausea,sweating,body ache,vomiting,high fever,headache,chills",High
+Malaria,"vomiting,chills,fatigue,nausea,headache,sweating,high fever,body ache",High
+Malaria,"nausea,fatigue,body ache,headache,sweating,high fever,chills,vomiting",High
+Malaria,"sweating,chills,vomiting,high fever",High
+Malaria,"high fever,sweating,vomiting,chills",High
+Malaria,"high fever,headache,body ache,sweating,nausea,fatigue,chills",High
+Malaria,"high fever,fatigue,chills,vomiting,body ache,headache,nausea,sweating",High
+Malaria,"nausea,sweating,chills,high fever",High
+Malaria,"headache,vomiting,high fever,body ache,nausea,chills,fatigue,sweating",High
+Malaria,"chills,high fever,sweating,nausea",High
+Malaria,"chills,sweating,body ache,high fever,vomiting,fatigue",High
+Malaria,"headache,nausea,high fever,fatigue,chills,sweating",High
+Malaria,"nausea,chills,high fever,fatigue,vomiting,sweating,body ache",High
+Malaria,"high fever,fatigue,sweating,chills",High
+Malaria,"body ache,headache,fatigue,sweating,high fever,vomiting,chills",High
+Malaria,"high fever,headache,body ache,fatigue,chills,nausea,sweating",High
+Malaria,"headache,vomiting,sweating,nausea,chills,fatigue,body ache,high fever",High
+Malaria,"body ache,chills,sweating,high fever",High
+Malaria,"high fever,fatigue,chills,sweating",High
+Malaria,"sweating,chills,high fever,vomiting,body ache,headache",High
+Malaria,"body ache,chills,high fever,headache,sweating",High
+Malaria,"chills,high fever,body ache,nausea,sweating",High
+Malaria,"chills,sweating,headache,fatigue,high fever,nausea,body ache,vomiting",High
+Malaria,"body ache,sweating,high fever,vomiting,fatigue,chills",High
+Malaria,"fatigue,chills,vomiting,body ache,high fever,sweating",High
+Malaria,"headache,high fever,sweating,chills",High
+Malaria,"chills,sweating,vomiting,body ache,fatigue,high fever",High
+Malaria,"headache,chills,sweating,high fever",High
+Malaria,"chills,vomiting,body ache,nausea,high fever,sweating,headache",High
+Malaria,"headache,high fever,fatigue,nausea,chills,body ache,sweating,vomiting",High
+Malaria,"high fever,nausea,vomiting,sweating,chills",High
+Malaria,"vomiting,chills,fatigue,sweating,nausea,body ache,headache,high fever",High
+Malaria,"headache,nausea,sweating,body ache,vomiting,chills,high fever,fatigue",High
+Malaria,"high fever,chills,body ache,sweating,headache,fatigue",High
+Malaria,"fatigue,high fever,chills,sweating",High
+Malaria,"chills,nausea,fatigue,high fever,vomiting,body ache,sweating",High
+Malaria,"chills,sweating,headache,body ache,nausea,vomiting,fatigue,high fever",High
+Malaria,"sweating,high fever,chills,vomiting",High
+Malaria,"headache,chills,vomiting,fatigue,nausea,high fever,body ache,sweating",High
+Malaria,"high fever,nausea,body ache,sweating,fatigue,chills",High
+Malaria,"chills,high fever,vomiting,nausea,sweating,headache",High
+Malaria,"headache,high fever,sweating,chills",High
+Malaria,"nausea,chills,high fever,sweating",High
+Malaria,"body ache,high fever,vomiting,fatigue,headache,sweating,chills",High
+Malaria,"headache,vomiting,high fever,sweating,fatigue,chills",High
+Malaria,"body ache,high fever,sweating,chills,vomiting,nausea",High
+Malaria,"headache,high fever,chills,nausea,body ache,sweating",High
+Malaria,"sweating,chills,nausea,fatigue,high fever",High
+Malaria,"vomiting,nausea,high fever,chills,body ache,sweating,headache",High
+Dengue,"muscle pain,skin rash,high fever,vomiting,joint pain",High
+Dengue,"skin rash,headache,joint pain,high fever",High
+Dengue,"skin rash,headache,high fever,joint pain",High
+Dengue,"fatigue,vomiting,skin rash,muscle pain,high fever,headache,nausea,joint pain",High
+Dengue,"joint pain,vomiting,headache,high fever,skin rash,muscle pain,fatigue,nausea",High
+Dengue,"nausea,high fever,skin rash,joint pain,headache",High
+Dengue,"high fever,nausea,joint pain,headache,muscle pain,vomiting,skin rash",High
+Dengue,"high fever,skin rash,muscle pain,joint pain",High
+Dengue,"high fever,nausea,joint pain,skin rash",High
+Dengue,"joint pain,headache,fatigue,skin rash,vomiting,high fever,nausea",High
+Dengue,"fatigue,nausea,high fever,joint pain,headache,muscle pain,skin rash,vomiting",High
+Dengue,"muscle pain,nausea,headache,skin rash,vomiting,joint pain,high fever",High
+Dengue,"vomiting,skin rash,high fever,joint pain",High
+Dengue,"joint pain,muscle pain,nausea,skin rash,vomiting,high fever",High
+Dengue,"headache,joint pain,high fever,vomiting,muscle pain,fatigue,skin rash,nausea",High
+Dengue,"fatigue,high fever,skin rash,joint pain",High
+Dengue,"skin rash,muscle pain,joint pain,nausea,high fever,fatigue",High
+Dengue,"nausea,joint pain,skin rash,high fever",High
+Dengue,"skin rash,headache,muscle pain,high fever,joint pain,nausea,fatigue",High
+Dengue,"high fever,headache,skin rash,joint pain",High
+Dengue,"skin rash,headache,vomiting,nausea,joint pain,fatigue,high fever",High
+Dengue,"fatigue,high fever,skin rash,muscle pain,joint pain,nausea,vomiting,headache",High
+Dengue,"vomiting,high fever,fatigue,skin rash,headache,joint pain,muscle pain",High
+Dengue,"nausea,joint pain,headache,skin rash,high fever",High
+Dengue,"skin rash,fatigue,joint pain,muscle pain,nausea,headache,high fever",High
+Dengue,"joint pain,muscle pain,headache,skin rash,nausea,high fever",High
+Dengue,"joint pain,skin rash,fatigue,high fever",High
+Dengue,"high fever,muscle pain,skin rash,joint pain",High
+Dengue,"skin rash,high fever,vomiting,fatigue,muscle pain,joint pain,headache",High
+Dengue,"vomiting,muscle pain,high fever,skin rash,fatigue,nausea,joint pain",High
+Dengue,"headache,vomiting,muscle pain,fatigue,joint pain,nausea,skin rash,high fever",High
+Dengue,"vomiting,high fever,joint pain,skin rash",High
+Dengue,"nausea,vomiting,joint pain,high fever,skin rash",High
+Dengue,"nausea,high fever,headache,fatigue,skin rash,muscle pain,joint pain",High
+Dengue,"headache,fatigue,high fever,skin rash,joint pain,nausea,muscle pain,vomiting",High
+Dengue,"headache,fatigue,muscle pain,skin rash,joint pain,high fever",High
+Dengue,"muscle pain,headache,high fever,nausea,vomiting,skin rash,fatigue,joint pain",High
+Dengue,"skin rash,high fever,nausea,vomiting,joint pain",High
+Dengue,"skin rash,fatigue,vomiting,joint pain,high fever",High
+Dengue,"nausea,high fever,headache,skin rash,joint pain,fatigue",High
+Dengue,"fatigue,skin rash,high fever,joint pain,nausea,muscle pain,headache",High
+Dengue,"skin rash,high fever,headache,nausea,joint pain,fatigue",High
+Dengue,"fatigue,high fever,skin rash,joint pain,nausea",High
+Dengue,"skin rash,joint pain,high fever,fatigue",High
+Dengue,"vomiting,fatigue,joint pain,skin rash,high fever,muscle pain",High
+Dengue,"skin rash,joint pain,high fever,muscle pain,headache",High
+Dengue,"vomiting,headache,joint pain,skin rash,high fever",High
+Dengue,"joint pain,high fever,skin rash,fatigue",High
+Dengue,"headache,skin rash,nausea,fatigue,high fever,joint pain,muscle pain",High
+Dengue,"headache,skin rash,muscle pain,joint pain,vomiting,high fever",High
+Typhoid,"weakness,prolonged fever,fatigue,constipation,abdominal pain",High
+Typhoid,"loss of appetite,abdominal pain,prolonged fever,constipation,weakness,headache",High
+Typhoid,"fatigue,weakness,abdominal pain,prolonged fever",High
+Typhoid,"abdominal pain,prolonged fever,constipation,fatigue,weakness",High
+Typhoid,"loss of appetite,prolonged fever,abdominal pain,weakness,headache,constipation",High
+Typhoid,"abdominal pain,prolonged fever,weakness,headache",High
+Typhoid,"prolonged fever,weakness,constipation,abdominal pain",High
+Typhoid,"fatigue,abdominal pain,loss of appetite,constipation,weakness,headache,prolonged fever",High
+Typhoid,"loss of appetite,abdominal pain,headache,constipation,weakness,prolonged fever",High
+Typhoid,"abdominal pain,constipation,prolonged fever,fatigue,weakness",High
+Typhoid,"prolonged fever,fatigue,headache,loss of appetite,weakness,abdominal pain,constipation",High
+Typhoid,"loss of appetite,constipation,weakness,prolonged fever,fatigue,headache,abdominal pain",High
+Typhoid,"weakness,prolonged fever,abdominal pain,fatigue",High
+Typhoid,"fatigue,loss of appetite,prolonged fever,constipation,abdominal pain,weakness",High
+Typhoid,"prolonged fever,abdominal pain,loss of appetite,constipation,fatigue,weakness,headache",High
+Typhoid,"weakness,headache,abdominal pain,prolonged fever",High
+Typhoid,"fatigue,weakness,prolonged fever,abdominal pain,headache,constipation",High
+Typhoid,"loss of appetite,constipation,fatigue,weakness,headache,abdominal pain,prolonged fever",High
+Typhoid,"weakness,constipation,prolonged fever,loss of appetite,abdominal pain,fatigue",High
+Typhoid,"abdominal pain,weakness,constipation,loss of appetite,prolonged fever,fatigue,headache",High
+Typhoid,"prolonged fever,abdominal pain,fatigue,weakness",High
+Typhoid,"headache,prolonged fever,abdominal pain,weakness,loss of appetite,fatigue",High
+Typhoid,"prolonged fever,weakness,fatigue,headache,abdominal pain",High
+Typhoid,"weakness,loss of appetite,abdominal pain,fatigue,prolonged fever",High
+Typhoid,"headache,abdominal pain,loss of appetite,prolonged fever,fatigue,constipation,weakness",High
+Typhoid,"abdominal pain,loss of appetite,fatigue,prolonged fever,weakness,constipation",High
+Typhoid,"headache,prolonged fever,weakness,abdominal pain,constipation,loss of appetite,fatigue",High
+Typhoid,"loss of appetite,abdominal pain,weakness,headache,fatigue,prolonged fever,constipation",High
+Typhoid,"loss of appetite,weakness,headache,fatigue,abdominal pain,prolonged fever,constipation",High
+Typhoid,"loss of appetite,abdominal pain,prolonged fever,weakness,constipation",High
+Typhoid,"fatigue,prolonged fever,constipation,headache,abdominal pain,weakness",High
+Typhoid,"prolonged fever,abdominal pain,weakness,fatigue,constipation",High
+Typhoid,"fatigue,headache,constipation,prolonged fever,loss of appetite,weakness,abdominal pain",High
+Typhoid,"abdominal pain,loss of appetite,headache,weakness,prolonged fever,constipation,fatigue",High
+Typhoid,"fatigue,weakness,abdominal pain,headache,prolonged fever",High
+Typhoid,"fatigue,abdominal pain,weakness,prolonged fever,headache",High
+Typhoid,"prolonged fever,headache,loss of appetite,weakness,constipation,abdominal pain",High
+Typhoid,"headache,prolonged fever,constipation,abdominal pain,weakness",High
+Typhoid,"weakness,prolonged fever,abdominal pain,fatigue,loss of appetite,constipation",High
+Typhoid,"prolonged fever,headache,abdominal pain,constipation,weakness",High
+Typhoid,"headache,prolonged fever,abdominal pain,weakness,loss of appetite",High
+Typhoid,"abdominal pain,weakness,loss of appetite,constipation,prolonged fever,fatigue,headache",High
+Typhoid,"loss of appetite,abdominal pain,prolonged fever,headache,constipation,weakness",High
+Typhoid,"constipation,loss of appetite,weakness,prolonged fever,abdominal pain,fatigue,headache",High
+Typhoid,"fatigue,prolonged fever,abdominal pain,constipation,weakness,loss of appetite",High
+Typhoid,"constipation,abdominal pain,weakness,prolonged fever",High
+Typhoid,"prolonged fever,abdominal pain,fatigue,weakness,loss of appetite,constipation",High
+Typhoid,"headache,prolonged fever,loss of appetite,weakness,abdominal pain",High
+Typhoid,"constipation,fatigue,headache,loss of appetite,prolonged fever,abdominal pain,weakness",High
+Typhoid,"loss of appetite,abdominal pain,weakness,prolonged fever",High
+Tuberculosis,"fatigue,weight loss,persistent cough,night sweats,chest pain,loss of appetite",High
+Tuberculosis,"persistent cough,night sweats,chest pain,weight loss",High
+Tuberculosis,"weight loss,night sweats,fatigue,persistent cough,fever,loss of appetite",High
+Tuberculosis,"weight loss,night sweats,fatigue,persistent cough",High
+Tuberculosis,"fatigue,persistent cough,loss of appetite,fever,weight loss,night sweats",High
+Tuberculosis,"weight loss,fever,loss of appetite,night sweats,persistent cough",High
+Tuberculosis,"chest pain,fatigue,fever,loss of appetite,night sweats,weight loss,persistent cough",High
+Tuberculosis,"fatigue,weight loss,chest pain,fever,night sweats,persistent cough,loss of appetite",High
+Tuberculosis,"night sweats,chest pain,fatigue,weight loss,persistent cough,fever",High
+Tuberculosis,"night sweats,persistent cough,fever,weight loss,fatigue",High
+Tuberculosis,"persistent cough,night sweats,fever,fatigue,weight loss,loss of appetite",High
+Tuberculosis,"night sweats,chest pain,persistent cough,weight loss,fatigue,fever",High
+Tuberculosis,"persistent cough,loss of appetite,weight loss,night sweats,fatigue",High
+Tuberculosis,"loss of appetite,fever,persistent cough,night sweats,fatigue,weight loss",High
+Tuberculosis,"night sweats,weight loss,persistent cough,chest pain",High
+Tuberculosis,"weight loss,loss of appetite,fever,night sweats,persistent cough",High
+Tuberculosis,"persistent cough,night sweats,weight loss,chest pain",High
+Tuberculosis,"loss of appetite,fatigue,fever,persistent cough,weight loss,night sweats",High
+Tuberculosis,"night sweats,weight loss,persistent cough,fatigue",High
+Tuberculosis,"weight loss,fever,fatigue,persistent cough,night sweats",High
+Tuberculosis,"loss of appetite,persistent cough,weight loss,night sweats,fever",High
+Tuberculosis,"fatigue,night sweats,persistent cough,weight loss",High
+Tuberculosis,"fatigue,night sweats,fever,loss of appetite,chest pain,weight loss,persistent cough",High
+Tuberculosis,"weight loss,chest pain,night sweats,fever,persistent cough",High
+Tuberculosis,"night sweats,weight loss,fever,persistent cough",High
+Tuberculosis,"loss of appetite,night sweats,chest pain,fatigue,persistent cough,weight loss,fever",High
+Tuberculosis,"night sweats,persistent cough,weight loss,fever,chest pain",High
+Tuberculosis,"fever,loss of appetite,fatigue,night sweats,persistent cough,chest pain,weight loss",High
+Tuberculosis,"night sweats,chest pain,weight loss,persistent cough",High
+Tuberculosis,"chest pain,weight loss,persistent cough,loss of appetite,fatigue,night sweats,fever",High
+Tuberculosis,"loss of appetite,fatigue,chest pain,persistent cough,weight loss,night sweats",High
+Tuberculosis,"loss of appetite,fatigue,persistent cough,weight loss,night sweats,chest pain,fever",High
+Tuberculosis,"persistent cough,chest pain,night sweats,weight loss",High
+Tuberculosis,"fatigue,chest pain,night sweats,persistent cough,loss of appetite,fever,weight loss",High
+Tuberculosis,"night sweats,weight loss,persistent cough,fatigue,fever,loss of appetite",High
+Tuberculosis,"chest pain,weight loss,night sweats,persistent cough",High
+Tuberculosis,"chest pain,loss of appetite,fatigue,persistent cough,night sweats,fever,weight loss",High
+Tuberculosis,"fever,chest pain,loss of appetite,night sweats,persistent cough,weight loss",High
+Tuberculosis,"night sweats,fever,weight loss,persistent cough,fatigue",High
+Tuberculosis,"chest pain,night sweats,persistent cough,weight loss",High
+Tuberculosis,"weight loss,chest pain,fever,fatigue,night sweats,persistent cough,loss of appetite",High
+Tuberculosis,"persistent cough,weight loss,night sweats,fever,fatigue,chest pain,loss of appetite",High
+Tuberculosis,"night sweats,chest pain,weight loss,loss of appetite,persistent cough,fatigue",High
+Tuberculosis,"chest pain,weight loss,persistent cough,loss of appetite,fatigue,night sweats,fever",High
+Tuberculosis,"weight loss,persistent cough,night sweats,chest pain,loss of appetite,fever",High
+Tuberculosis,"night sweats,persistent cough,weight loss,fatigue,fever,loss of appetite",High
+Tuberculosis,"weight loss,persistent cough,night sweats,fever",High
+Tuberculosis,"loss of appetite,fever,weight loss,night sweats,chest pain,persistent cough,fatigue",High
+Tuberculosis,"night sweats,persistent cough,weight loss,fatigue",High
+Tuberculosis,"weight loss,loss of appetite,chest pain,night sweats,fever,persistent cough",High
+Pneumonia,"shortness of breath,chills,fever,fatigue,difficulty breathing,chest pain,cough",High
+Pneumonia,"cough,fever,chest pain,difficulty breathing,fatigue",High
+Pneumonia,"chest pain,fatigue,cough,fever",High
+Pneumonia,"chest pain,chills,shortness of breath,fever,fatigue,cough",High
+Pneumonia,"shortness of breath,chills,cough,fatigue,chest pain,difficulty breathing,fever",High
+Pneumonia,"shortness of breath,fever,cough,chest pain",High
+Pneumonia,"cough,fever,fatigue,chest pain",High
+Pneumonia,"fever,cough,difficulty breathing,fatigue,shortness of breath,chest pain",High
+Pneumonia,"fever,chills,difficulty breathing,cough,chest pain,fatigue",High
+Pneumonia,"fatigue,fever,chest pain,cough,shortness of breath,chills",High
+Pneumonia,"fatigue,cough,fever,chest pain,chills,shortness of breath,difficulty breathing",High
+Pneumonia,"chest pain,fever,cough,chills,difficulty breathing,fatigue",High
+Pneumonia,"cough,fever,chills,chest pain",High
+Pneumonia,"difficulty breathing,chills,cough,chest pain,fever",High
+Pneumonia,"shortness of breath,cough,fever,chest pain",High
+Pneumonia,"difficulty breathing,cough,chest pain,fever",High
+Pneumonia,"fatigue,chills,shortness of breath,difficulty breathing,fever,chest pain,cough",High
+Pneumonia,"chest pain,fever,cough,chills",High
+Pneumonia,"shortness of breath,fever,chest pain,difficulty breathing,cough,fatigue",High
+Pneumonia,"difficulty breathing,cough,shortness of breath,fatigue,fever,chest pain",High
+Pneumonia,"cough,chest pain,chills,difficulty breathing,shortness of breath,fever,fatigue",High
+Pneumonia,"chills,cough,difficulty breathing,chest pain,fever,fatigue",High
+Pneumonia,"chest pain,fever,chills,fatigue,shortness of breath,cough,difficulty breathing",High
+Pneumonia,"cough,fatigue,shortness of breath,chills,chest pain,fever",High
+Pneumonia,"fever,shortness of breath,chest pain,cough",High
+Pneumonia,"fever,fatigue,shortness of breath,difficulty breathing,cough,chest pain,chills",High
+Pneumonia,"shortness of breath,chills,cough,difficulty breathing,fatigue,fever,chest pain",High
+Pneumonia,"fever,chills,cough,chest pain",High
+Pneumonia,"chest pain,cough,fever,fatigue",High
+Pneumonia,"cough,fatigue,fever,chest pain",High
+Pneumonia,"difficulty breathing,chest pain,shortness of breath,cough,chills,fever",High
+Pneumonia,"fatigue,difficulty breathing,shortness of breath,chest pain,fever,cough",High
+Pneumonia,"difficulty breathing,fatigue,cough,chills,fever,chest pain",High
+Pneumonia,"chest pain,chills,fever,cough",High
+Pneumonia,"cough,shortness of breath,fatigue,fever,chest pain",High
+Pneumonia,"chills,shortness of breath,cough,fatigue,fever,chest pain",High
+Pneumonia,"fever,difficulty breathing,cough,chest pain,fatigue,chills",High
+Pneumonia,"shortness of breath,difficulty breathing,fatigue,chest pain,cough,fever,chills",High
+Pneumonia,"difficulty breathing,chills,cough,chest pain,fatigue,shortness of breath,fever",High
+Pneumonia,"chills,cough,fever,chest pain",High
+Pneumonia,"chest pain,fever,cough,difficulty breathing,shortness of breath,chills",High
+Pneumonia,"chest pain,chills,cough,fatigue,fever,difficulty breathing",High
+Pneumonia,"fever,shortness of breath,chest pain,cough",High
+Pneumonia,"cough,fever,chest pain,fatigue,shortness of breath",High
+Pneumonia,"difficulty breathing,fatigue,chills,shortness of breath,chest pain,cough,fever",High
+Pneumonia,"shortness of breath,chills,cough,chest pain,difficulty breathing,fatigue,fever",High
+Pneumonia,"cough,chills,fatigue,fever,chest pain,shortness of breath",High
+Pneumonia,"fever,chest pain,cough,fatigue",High
+Pneumonia,"cough,shortness of breath,fever,fatigue,chest pain,difficulty breathing",High
+Pneumonia,"difficulty breathing,chest pain,fatigue,fever,cough",High
+Bronchitis,"chest discomfort,mucus production,persistent cough,shortness of breath,fatigue",Medium
+Bronchitis,"fatigue,mucus production,mild fever,persistent cough,chest discomfort,shortness of breath",Medium
+Bronchitis,"shortness of breath,chest discomfort,mucus production,persistent cough",Medium
+Bronchitis,"shortness of breath,chest discomfort,persistent cough,mucus production,fatigue,mild fever",Medium
+Bronchitis,"persistent cough,chest discomfort,fatigue,mucus production",Medium
+Bronchitis,"persistent cough,mucus production,chest discomfort",Medium
+Bronchitis,"persistent cough,mucus production,fatigue",Medium
+Bronchitis,"persistent cough,mild fever,chest discomfort,mucus production,fatigue,shortness of breath",Medium
+Bronchitis,"chest discomfort,mucus production,persistent cough",Medium
+Bronchitis,"fatigue,mild fever,mucus production,shortness of breath,chest discomfort,persistent cough",Medium
+Bronchitis,"mild fever,mucus production,shortness of breath,persistent cough",Medium
+Bronchitis,"fatigue,shortness of breath,persistent cough,mucus production",Medium
+Bronchitis,"shortness of breath,persistent cough,mucus production,fatigue",Medium
+Bronchitis,"persistent cough,mild fever,mucus production",Medium
+Bronchitis,"mild fever,persistent cough,chest discomfort,mucus production",Medium
+Bronchitis,"mucus production,persistent cough,shortness of breath",Medium
+Bronchitis,"mucus production,persistent cough,chest discomfort,mild fever,shortness of breath",Medium
+Bronchitis,"mild fever,persistent cough,mucus production,shortness of breath,chest discomfort",Medium
+Bronchitis,"persistent cough,shortness of breath,mild fever,mucus production,fatigue",Medium
+Bronchitis,"mild fever,persistent cough,fatigue,mucus production",Medium
+Bronchitis,"persistent cough,fatigue,chest discomfort,shortness of breath,mucus production,mild fever",Medium
+Bronchitis,"fatigue,chest discomfort,shortness of breath,persistent cough,mild fever,mucus production",Medium
+Bronchitis,"shortness of breath,fatigue,chest discomfort,mucus production,persistent cough",Medium
+Bronchitis,"persistent cough,chest discomfort,mucus production,fatigue,shortness of breath",Medium
+Bronchitis,"mucus production,shortness of breath,persistent cough,chest discomfort",Medium
+Bronchitis,"chest discomfort,persistent cough,mucus production",Medium
+Bronchitis,"fatigue,mucus production,chest discomfort,shortness of breath,mild fever,persistent cough",Medium
+Bronchitis,"fatigue,mucus production,chest discomfort,shortness of breath,persistent cough",Medium
+Bronchitis,"persistent cough,mucus production,chest discomfort",Medium
+Bronchitis,"persistent cough,mucus production,shortness of breath,mild fever,fatigue",Medium
+Bronchitis,"mucus production,chest discomfort,mild fever,persistent cough,fatigue",Medium
+Bronchitis,"shortness of breath,mucus production,fatigue,persistent cough,chest discomfort,mild fever",Medium
+Bronchitis,"mild fever,chest discomfort,persistent cough,mucus production,fatigue",Medium
+Bronchitis,"persistent cough,fatigue,chest discomfort,mucus production,shortness of breath",Medium
+Bronchitis,"chest discomfort,mild fever,persistent cough,fatigue,mucus production,shortness of breath",Medium
+Bronchitis,"mucus production,mild fever,shortness of breath,persistent cough,chest discomfort",Medium
+Bronchitis,"mild fever,mucus production,shortness of breath,persistent cough,chest discomfort",Medium
+Bronchitis,"fatigue,mild fever,mucus production,persistent cough,shortness of breath,chest discomfort",Medium
+Bronchitis,"mucus production,shortness of breath,persistent cough,chest discomfort",Medium
+Bronchitis,"chest discomfort,mucus production,persistent cough,mild fever",Medium
+Bronchitis,"shortness of breath,mucus production,persistent cough",Medium
+Bronchitis,"mucus production,persistent cough,fatigue,mild fever,shortness of breath",Medium
+Bronchitis,"mild fever,shortness of breath,persistent cough,fatigue,mucus production",Medium
+Bronchitis,"mild fever,persistent cough,mucus production",Medium
+Bronchitis,"persistent cough,mild fever,shortness of breath,mucus production,chest discomfort",Medium
+Bronchitis,"shortness of breath,mucus production,persistent cough,fatigue",Medium
+Bronchitis,"mucus production,shortness of breath,persistent cough",Medium
+Bronchitis,"mucus production,persistent cough,chest discomfort",Medium
+Bronchitis,"chest discomfort,fatigue,mucus production,persistent cough,mild fever,shortness of breath",Medium
+Bronchitis,"fatigue,mild fever,mucus production,shortness of breath,persistent cough",Medium
+Asthma,"fatigue,difficulty breathing,chest tightness,shortness of breath,wheezing",Medium
+Asthma,"cough,wheezing,chest tightness,fatigue,shortness of breath",Medium
+Asthma,"wheezing,difficulty breathing,shortness of breath,chest tightness",Medium
+Asthma,"wheezing,chest tightness,difficulty breathing,shortness of breath",Medium
+Asthma,"wheezing,cough,shortness of breath,chest tightness",Medium
+Asthma,"wheezing,fatigue,shortness of breath,cough,difficulty breathing,chest tightness",Medium
+Asthma,"chest tightness,wheezing,cough,shortness of breath",Medium
+Asthma,"shortness of breath,wheezing,cough,chest tightness,fatigue,difficulty breathing",Medium
+Asthma,"shortness of breath,chest tightness,cough,difficulty breathing,wheezing",Medium
+Asthma,"chest tightness,difficulty breathing,wheezing,shortness of breath",Medium
+Asthma,"difficulty breathing,chest tightness,shortness of breath,wheezing,fatigue",Medium
+Asthma,"cough,fatigue,shortness of breath,chest tightness,wheezing",Medium
+Asthma,"fatigue,difficulty breathing,chest tightness,shortness of breath,wheezing",Medium
+Asthma,"cough,shortness of breath,wheezing,chest tightness,fatigue,difficulty breathing",Medium
+Asthma,"chest tightness,wheezing,shortness of breath,fatigue",Medium
+Asthma,"shortness of breath,wheezing,chest tightness,fatigue",Medium
+Asthma,"wheezing,cough,shortness of breath,chest tightness,difficulty breathing",Medium
+Asthma,"wheezing,shortness of breath,difficulty breathing,fatigue,cough,chest tightness",Medium
+Asthma,"fatigue,shortness of breath,chest tightness,wheezing,cough",Medium
+Asthma,"wheezing,shortness of breath,chest tightness,fatigue",Medium
+Asthma,"fatigue,wheezing,shortness of breath,chest tightness,cough,difficulty breathing",Medium
+Asthma,"cough,wheezing,chest tightness,shortness of breath,difficulty breathing",Medium
+Asthma,"cough,chest tightness,shortness of breath,fatigue,wheezing",Medium
+Asthma,"shortness of breath,chest tightness,difficulty breathing,wheezing,fatigue",Medium
+Asthma,"cough,difficulty breathing,wheezing,shortness of breath,chest tightness,fatigue",Medium
+Asthma,"chest tightness,wheezing,cough,shortness of breath,fatigue,difficulty breathing",Medium
+Asthma,"chest tightness,shortness of breath,fatigue,wheezing,cough",Medium
+Asthma,"wheezing,chest tightness,shortness of breath,cough,fatigue,difficulty breathing",Medium
+Asthma,"shortness of breath,chest tightness,fatigue,wheezing",Medium
+Asthma,"shortness of breath,wheezing,difficulty breathing,chest tightness",Medium
+Asthma,"cough,shortness of breath,chest tightness,wheezing,fatigue",Medium
+Asthma,"chest tightness,shortness of breath,wheezing,difficulty breathing,fatigue",Medium
+Asthma,"fatigue,wheezing,chest tightness,shortness of breath",Medium
+Asthma,"shortness of breath,chest tightness,fatigue,cough,difficulty breathing,wheezing",Medium
+Asthma,"chest tightness,difficulty breathing,wheezing,shortness of breath,fatigue",Medium
+Asthma,"wheezing,chest tightness,fatigue,shortness of breath,cough,difficulty breathing",Medium
+Asthma,"difficulty breathing,chest tightness,wheezing,fatigue,shortness of breath",Medium
+Asthma,"difficulty breathing,wheezing,cough,chest tightness,shortness of breath",Medium
+Asthma,"difficulty breathing,wheezing,shortness of breath,chest tightness",Medium
+Asthma,"difficulty breathing,shortness of breath,wheezing,chest tightness",Medium
+Asthma,"fatigue,wheezing,shortness of breath,chest tightness",Medium
+Asthma,"wheezing,fatigue,shortness of breath,chest tightness",Medium
+Asthma,"cough,fatigue,shortness of breath,wheezing,chest tightness,difficulty breathing",Medium
+Asthma,"wheezing,shortness of breath,chest tightness,fatigue,difficulty breathing",Medium
+Asthma,"wheezing,fatigue,chest tightness,shortness of breath",Medium
+Asthma,"difficulty breathing,wheezing,shortness of breath,chest tightness",Medium
+Asthma,"chest tightness,fatigue,difficulty breathing,wheezing,shortness of breath",Medium
+Asthma,"fatigue,cough,wheezing,chest tightness,difficulty breathing,shortness of breath",Medium
+Asthma,"difficulty breathing,fatigue,chest tightness,cough,wheezing,shortness of breath",Medium
+Asthma,"cough,difficulty breathing,wheezing,fatigue,chest tightness,shortness of breath",Medium
+Sinusitis,"sneezing,facial pain,nasal congestion",Low
+Sinusitis,"runny nose,loss of smell,facial pain,nasal congestion,headache,sneezing",Low
+Sinusitis,"nasal congestion,headache,facial pain,runny nose",Low
+Sinusitis,"sneezing,loss of smell,nasal congestion,facial pain",Low
+Sinusitis,"nasal congestion,sneezing,runny nose,headache,loss of smell,facial pain",Low
+Sinusitis,"sneezing,loss of smell,runny nose,nasal congestion,facial pain,headache",Low
+Sinusitis,"headache,facial pain,nasal congestion,loss of smell,runny nose",Low
+Sinusitis,"nasal congestion,headache,sneezing,facial pain,loss of smell",Low
+Sinusitis,"runny nose,nasal congestion,facial pain,sneezing",Low
+Sinusitis,"nasal congestion,facial pain,sneezing",Low
+Sinusitis,"sneezing,nasal congestion,headache,loss of smell,runny nose,facial pain",Low
+Sinusitis,"nasal congestion,loss of smell,facial pain",Low
+Sinusitis,"sneezing,nasal congestion,facial pain",Low
+Sinusitis,"facial pain,headache,nasal congestion",Low
+Sinusitis,"headache,loss of smell,runny nose,facial pain,nasal congestion",Low
+Sinusitis,"sneezing,facial pain,loss of smell,headache,runny nose,nasal congestion",Low
+Sinusitis,"loss of smell,nasal congestion,facial pain",Low
+Sinusitis,"sneezing,facial pain,loss of smell,runny nose,nasal congestion,headache",Low
+Sinusitis,"facial pain,runny nose,nasal congestion",Low
+Sinusitis,"nasal congestion,facial pain,headache",Low
+Sinusitis,"nasal congestion,runny nose,facial pain",Low
+Sinusitis,"facial pain,nasal congestion,headache",Low
+Sinusitis,"headache,nasal congestion,runny nose,loss of smell,facial pain",Low
+Sinusitis,"nasal congestion,sneezing,runny nose,facial pain",Low
+Sinusitis,"headache,runny nose,nasal congestion,sneezing,loss of smell,facial pain",Low
+Sinusitis,"loss of smell,nasal congestion,facial pain",Low
+Sinusitis,"sneezing,facial pain,nasal congestion,loss of smell",Low
+Sinusitis,"nasal congestion,loss of smell,facial pain",Low
+Sinusitis,"facial pain,sneezing,nasal congestion",Low
+Sinusitis,"loss of smell,facial pain,runny nose,nasal congestion,headache",Low
+Sinusitis,"sneezing,headache,loss of smell,facial pain,nasal congestion",Low
+Sinusitis,"facial pain,nasal congestion,loss of smell,runny nose",Low
+Sinusitis,"nasal congestion,sneezing,facial pain",Low
+Sinusitis,"nasal congestion,facial pain,loss of smell,sneezing",Low
+Sinusitis,"runny nose,headache,facial pain,sneezing,nasal congestion",Low
+Sinusitis,"facial pain,headache,nasal congestion",Low
+Sinusitis,"nasal congestion,sneezing,facial pain,headache,runny nose",Low
+Sinusitis,"nasal congestion,facial pain,headache,sneezing",Low
+Sinusitis,"runny nose,headache,nasal congestion,facial pain,sneezing,loss of smell",Low
+Sinusitis,"headache,nasal congestion,facial pain,sneezing,runny nose,loss of smell",Low
+Sinusitis,"loss of smell,facial pain,nasal congestion",Low
+Sinusitis,"nasal congestion,runny nose,sneezing,facial pain",Low
+Sinusitis,"sneezing,nasal congestion,headache,runny nose,loss of smell,facial pain",Low
+Sinusitis,"facial pain,loss of smell,sneezing,headache,nasal congestion,runny nose",Low
+Sinusitis,"loss of smell,headache,runny nose,sneezing,nasal congestion,facial pain",Low
+Sinusitis,"sneezing,runny nose,nasal congestion,headache,loss of smell,facial pain",Low
+Sinusitis,"facial pain,nasal congestion,runny nose",Low
+Sinusitis,"sneezing,headache,nasal congestion,facial pain,runny nose",Low
+Sinusitis,"runny nose,nasal congestion,facial pain,loss of smell",Low
+Sinusitis,"nasal congestion,runny nose,sneezing,loss of smell,facial pain",Low
+Migraine,"severe headache,nausea,dizziness,blurred vision",Medium
+Migraine,"light sensitivity,severe headache,dizziness,blurred vision,nausea",Medium
+Migraine,"severe headache,nausea,blurred vision",Medium
+Migraine,"blurred vision,nausea,dizziness,severe headache,vomiting",Medium
+Migraine,"dizziness,nausea,vomiting,severe headache,light sensitivity",Medium
+Migraine,"blurred vision,nausea,severe headache",Medium
+Migraine,"nausea,vomiting,severe headache",Medium
+Migraine,"nausea,vomiting,dizziness,blurred vision,light sensitivity,severe headache",Medium
+Migraine,"light sensitivity,severe headache,nausea,blurred vision,dizziness,vomiting",Medium
+Migraine,"severe headache,light sensitivity,vomiting,nausea",Medium
+Migraine,"vomiting,nausea,dizziness,severe headache",Medium
+Migraine,"nausea,vomiting,severe headache,light sensitivity",Medium
+Migraine,"light sensitivity,severe headache,nausea",Medium
+Migraine,"light sensitivity,severe headache,nausea,dizziness",Medium
+Migraine,"nausea,severe headache,vomiting",Medium
+Migraine,"nausea,severe headache,light sensitivity,vomiting,dizziness",Medium
+Migraine,"nausea,severe headache,vomiting,dizziness,blurred vision",Medium
+Migraine,"dizziness,light sensitivity,vomiting,nausea,severe headache,blurred vision",Medium
+Migraine,"severe headache,vomiting,dizziness,light sensitivity,nausea,blurred vision",Medium
+Migraine,"severe headache,nausea,light sensitivity",Medium
+Migraine,"nausea,dizziness,blurred vision,vomiting,light sensitivity,severe headache",Medium
+Migraine,"blurred vision,nausea,severe headache",Medium
+Migraine,"severe headache,dizziness,vomiting,blurred vision,light sensitivity,nausea",Medium
+Migraine,"vomiting,nausea,severe headache,light sensitivity,blurred vision,dizziness",Medium
+Migraine,"severe headache,blurred vision,nausea,vomiting",Medium
+Migraine,"dizziness,nausea,severe headache",Medium
+Migraine,"blurred vision,nausea,severe headache,dizziness",Medium
+Migraine,"vomiting,dizziness,blurred vision,severe headache,light sensitivity,nausea",Medium
+Migraine,"light sensitivity,nausea,severe headache",Medium
+Migraine,"severe headache,dizziness,nausea,light sensitivity",Medium
+Migraine,"light sensitivity,vomiting,dizziness,severe headache,nausea",Medium
+Migraine,"severe headache,blurred vision,nausea,dizziness",Medium
+Migraine,"vomiting,severe headache,blurred vision,dizziness,nausea,light sensitivity",Medium
+Migraine,"dizziness,blurred vision,severe headache,light sensitivity,vomiting,nausea",Medium
+Migraine,"light sensitivity,nausea,severe headache,dizziness",Medium
+Migraine,"vomiting,light sensitivity,nausea,severe headache,blurred vision,dizziness",Medium
+Migraine,"dizziness,light sensitivity,nausea,vomiting,blurred vision,severe headache",Medium
+Migraine,"severe headache,light sensitivity,nausea,blurred vision,dizziness",Medium
+Migraine,"severe headache,nausea,blurred vision",Medium
+Migraine,"vomiting,nausea,severe headache,dizziness,blurred vision",Medium
+Migraine,"nausea,blurred vision,vomiting,light sensitivity,dizziness,severe headache",Medium
+Migraine,"blurred vision,light sensitivity,nausea,severe headache,dizziness,vomiting",Medium
+Migraine,"severe headache,blurred vision,nausea",Medium
+Migraine,"severe headache,blurred vision,nausea,light sensitivity,vomiting",Medium
+Migraine,"light sensitivity,dizziness,blurred vision,vomiting,nausea,severe headache",Medium
+Migraine,"vomiting,light sensitivity,nausea,blurred vision,severe headache,dizziness",Medium
+Migraine,"nausea,severe headache,dizziness,blurred vision",Medium
+Migraine,"severe headache,vomiting,nausea",Medium
+Migraine,"nausea,light sensitivity,severe headache,blurred vision,vomiting,dizziness",Medium
+Migraine,"nausea,light sensitivity,vomiting,severe headache,dizziness",Medium
+Hypertension,"dizziness,headache,blurred vision",Medium
+Hypertension,"dizziness,fatigue,nosebleed,chest pain,headache",Medium
+Hypertension,"dizziness,nosebleed,chest pain,headache,blurred vision,fatigue",Medium
+Hypertension,"chest pain,dizziness,fatigue,headache,blurred vision",Medium
+Hypertension,"dizziness,blurred vision,headache",Medium
+Hypertension,"dizziness,nosebleed,headache,fatigue,chest pain",Medium
+Hypertension,"headache,fatigue,blurred vision,chest pain,nosebleed,dizziness",Medium
+Hypertension,"fatigue,headache,blurred vision,dizziness,nosebleed",Medium
+Hypertension,"headache,fatigue,dizziness,nosebleed,blurred vision",Medium
+Hypertension,"dizziness,fatigue,nosebleed,headache,chest pain",Medium
+Hypertension,"headache,fatigue,nosebleed,dizziness,blurred vision",Medium
+Hypertension,"fatigue,headache,chest pain,dizziness,blurred vision",Medium
+Hypertension,"blurred vision,headache,dizziness",Medium
+Hypertension,"fatigue,headache,nosebleed,blurred vision,dizziness",Medium
+Hypertension,"nosebleed,dizziness,headache",Medium
+Hypertension,"fatigue,headache,nosebleed,dizziness",Medium
+Hypertension,"headache,chest pain,dizziness,fatigue,nosebleed",Medium
+Hypertension,"dizziness,fatigue,blurred vision,headache",Medium
+Hypertension,"headache,blurred vision,nosebleed,dizziness,fatigue",Medium
+Hypertension,"chest pain,blurred vision,fatigue,headache,dizziness,nosebleed",Medium
+Hypertension,"blurred vision,dizziness,nosebleed,headache,chest pain",Medium
+Hypertension,"chest pain,blurred vision,fatigue,nosebleed,headache,dizziness",Medium
+Hypertension,"nosebleed,blurred vision,dizziness,headache",Medium
+Hypertension,"headache,blurred vision,fatigue,dizziness,nosebleed",Medium
+Hypertension,"dizziness,fatigue,chest pain,headache,blurred vision",Medium
+Hypertension,"dizziness,headache,nosebleed,blurred vision,chest pain",Medium
+Hypertension,"chest pain,headache,dizziness",Medium
+Hypertension,"headache,dizziness,blurred vision",Medium
+Hypertension,"fatigue,blurred vision,nosebleed,chest pain,headache,dizziness",Medium
+Hypertension,"blurred vision,dizziness,headache",Medium
+Hypertension,"dizziness,headache,nosebleed",Medium
+Hypertension,"nosebleed,headache,fatigue,dizziness,blurred vision,chest pain",Medium
+Hypertension,"headache,dizziness,nosebleed",Medium
+Hypertension,"fatigue,dizziness,chest pain,blurred vision,headache",Medium
+Hypertension,"headache,blurred vision,dizziness",Medium
+Hypertension,"blurred vision,chest pain,fatigue,nosebleed,headache,dizziness",Medium
+Hypertension,"dizziness,headache,blurred vision,nosebleed,fatigue",Medium
+Hypertension,"chest pain,blurred vision,headache,dizziness",Medium
+Hypertension,"headache,blurred vision,fatigue,dizziness",Medium
+Hypertension,"chest pain,nosebleed,dizziness,blurred vision,fatigue,headache",Medium
+Hypertension,"headache,dizziness,nosebleed",Medium
+Hypertension,"headache,dizziness,nosebleed,blurred vision",Medium
+Hypertension,"nosebleed,chest pain,headache,fatigue,dizziness",Medium
+Hypertension,"dizziness,blurred vision,headache",Medium
+Hypertension,"dizziness,fatigue,headache,blurred vision",Medium
+Hypertension,"headache,chest pain,dizziness,fatigue",Medium
+Hypertension,"dizziness,headache,fatigue",Medium
+Hypertension,"dizziness,nosebleed,headache",Medium
+Hypertension,"dizziness,headache,fatigue",Medium
+Hypertension,"dizziness,nosebleed,headache",Medium
+Hypotension,"dizziness,fatigue,nausea,low blood pressure,blurred vision",Medium
+Hypotension,"low blood pressure,fatigue,dizziness,blurred vision,fainting",Medium
+Hypotension,"blurred vision,fainting,low blood pressure,nausea,dizziness,fatigue",Medium
+Hypotension,"dizziness,nausea,fatigue,fainting,low blood pressure",Medium
+Hypotension,"fatigue,nausea,blurred vision,dizziness,low blood pressure,fainting",Medium
+Hypotension,"dizziness,low blood pressure,nausea,fainting,fatigue,blurred vision",Medium
+Hypotension,"dizziness,fainting,low blood pressure",Medium
+Hypotension,"nausea,dizziness,low blood pressure,fatigue,fainting",Medium
+Hypotension,"fatigue,nausea,low blood pressure,dizziness,fainting",Medium
+Hypotension,"dizziness,nausea,low blood pressure,blurred vision,fatigue",Medium
+Hypotension,"fatigue,nausea,fainting,low blood pressure,dizziness",Medium
+Hypotension,"blurred vision,low blood pressure,fainting,nausea,dizziness",Medium
+Hypotension,"nausea,low blood pressure,dizziness",Medium
+Hypotension,"dizziness,nausea,fainting,fatigue,blurred vision,low blood pressure",Medium
+Hypotension,"low blood pressure,nausea,fatigue,fainting,dizziness",Medium
+Hypotension,"low blood pressure,nausea,blurred vision,dizziness,fainting",Medium
+Hypotension,"low blood pressure,fainting,dizziness,blurred vision",Medium
+Hypotension,"dizziness,blurred vision,fatigue,low blood pressure",Medium
+Hypotension,"blurred vision,low blood pressure,dizziness",Medium
+Hypotension,"dizziness,nausea,blurred vision,low blood pressure,fatigue",Medium
+Hypotension,"blurred vision,dizziness,fatigue,low blood pressure,nausea",Medium
+Hypotension,"dizziness,blurred vision,fainting,fatigue,low blood pressure",Medium
+Hypotension,"dizziness,low blood pressure,nausea,fatigue",Medium
+Hypotension,"nausea,fainting,blurred vision,fatigue,dizziness,low blood pressure",Medium
+Hypotension,"dizziness,fatigue,blurred vision,low blood pressure",Medium
+Hypotension,"dizziness,low blood pressure,nausea,fainting,blurred vision",Medium
+Hypotension,"dizziness,blurred vision,low blood pressure",Medium
+Hypotension,"dizziness,low blood pressure,blurred vision",Medium
+Hypotension,"fatigue,dizziness,low blood pressure,nausea,blurred vision,fainting",Medium
+Hypotension,"dizziness,fainting,low blood pressure,blurred vision",Medium
+Hypotension,"dizziness,blurred vision,low blood pressure,fainting",Medium
+Hypotension,"nausea,fainting,low blood pressure,fatigue,dizziness",Medium
+Hypotension,"fatigue,blurred vision,low blood pressure,dizziness",Medium
+Hypotension,"nausea,low blood pressure,blurred vision,fatigue,dizziness,fainting",Medium
+Hypotension,"blurred vision,fainting,fatigue,dizziness,low blood pressure",Medium
+Hypotension,"fainting,low blood pressure,dizziness",Medium
+Hypotension,"low blood pressure,dizziness,fatigue,blurred vision,fainting",Medium
+Hypotension,"dizziness,fainting,fatigue,blurred vision,low blood pressure",Medium
+Hypotension,"low blood pressure,fainting,dizziness,nausea",Medium
+Hypotension,"fatigue,dizziness,nausea,low blood pressure,blurred vision",Medium
+Hypotension,"nausea,dizziness,low blood pressure,blurred vision,fainting,fatigue",Medium
+Hypotension,"dizziness,blurred vision,low blood pressure,nausea,fainting",Medium
+Hypotension,"low blood pressure,fatigue,dizziness",Medium
+Hypotension,"nausea,fainting,dizziness,blurred vision,fatigue,low blood pressure",Medium
+Hypotension,"dizziness,fainting,nausea,low blood pressure",Medium
+Hypotension,"dizziness,low blood pressure,nausea,fainting,fatigue,blurred vision",Medium
+Hypotension,"blurred vision,nausea,low blood pressure,fainting,dizziness",Medium
+Hypotension,"blurred vision,nausea,low blood pressure,dizziness",Medium
+Hypotension,"blurred vision,dizziness,fainting,low blood pressure",Medium
+Hypotension,"nausea,low blood pressure,dizziness",Medium
+Diabetes,"blurred vision,increased appetite,frequent urination,weight loss,increased thirst",High
+Diabetes,"frequent urination,increased thirst,increased appetite",High
+Diabetes,"frequent urination,increased thirst,increased appetite,weight loss,blurred vision",High
+Diabetes,"increased thirst,frequent urination,weight loss,blurred vision,fatigue,increased appetite",High
+Diabetes,"increased thirst,frequent urination,fatigue",High
+Diabetes,"fatigue,frequent urination,increased thirst",High
+Diabetes,"increased thirst,frequent urination,weight loss",High
+Diabetes,"frequent urination,blurred vision,fatigue,increased thirst,weight loss",High
+Diabetes,"blurred vision,frequent urination,fatigue,weight loss,increased thirst",High
+Diabetes,"frequent urination,blurred vision,increased appetite,increased thirst",High
+Diabetes,"blurred vision,fatigue,frequent urination,weight loss,increased thirst,increased appetite",High
+Diabetes,"weight loss,fatigue,blurred vision,frequent urination,increased appetite,increased thirst",High
+Diabetes,"increased thirst,blurred vision,frequent urination,increased appetite",High
+Diabetes,"blurred vision,increased appetite,increased thirst,weight loss,frequent urination",High
+Diabetes,"increased appetite,increased thirst,frequent urination,blurred vision,fatigue,weight loss",High
+Diabetes,"increased thirst,frequent urination,increased appetite",High
+Diabetes,"increased thirst,fatigue,frequent urination,blurred vision",High
+Diabetes,"frequent urination,fatigue,increased appetite,blurred vision,increased thirst",High
+Diabetes,"frequent urination,increased thirst,weight loss,increased appetite,blurred vision",High
+Diabetes,"fatigue,increased thirst,frequent urination",High
+Diabetes,"blurred vision,increased thirst,frequent urination",High
+Diabetes,"frequent urination,weight loss,increased thirst,fatigue",High
+Diabetes,"frequent urination,increased thirst,blurred vision,increased appetite",High
+Diabetes,"weight loss,fatigue,increased thirst,blurred vision,frequent urination",High
+Diabetes,"increased appetite,increased thirst,blurred vision,fatigue,frequent urination,weight loss",High
+Diabetes,"frequent urination,weight loss,increased thirst,increased appetite,fatigue",High
+Diabetes,"increased thirst,blurred vision,frequent urination,weight loss,increased appetite",High
+Diabetes,"increased thirst,frequent urination,increased appetite,weight loss,fatigue",High
+Diabetes,"weight loss,frequent urination,increased thirst,blurred vision,increased appetite,fatigue",High
+Diabetes,"fatigue,increased thirst,frequent urination",High
+Diabetes,"increased thirst,frequent urination,weight loss,blurred vision",High
+Diabetes,"frequent urination,increased thirst,weight loss,increased appetite,blurred vision,fatigue",High
+Diabetes,"frequent urination,blurred vision,increased appetite,increased thirst",High
+Diabetes,"weight loss,blurred vision,frequent urination,increased thirst",High
+Diabetes,"frequent urination,blurred vision,increased appetite,fatigue,increased thirst,weight loss",High
+Diabetes,"fatigue,blurred vision,frequent urination,increased thirst",High
+Diabetes,"blurred vision,frequent urination,increased thirst,increased appetite",High
+Diabetes,"fatigue,frequent urination,increased appetite,increased thirst,blurred vision",High
+Diabetes,"weight loss,blurred vision,increased thirst,fatigue,frequent urination",High
+Diabetes,"frequent urination,blurred vision,increased thirst",High
+Diabetes,"increased thirst,frequent urination,increased appetite,weight loss",High
+Diabetes,"frequent urination,blurred vision,increased thirst,weight loss,increased appetite,fatigue",High
+Diabetes,"fatigue,frequent urination,weight loss,increased thirst,increased appetite",High
+Diabetes,"increased appetite,frequent urination,increased thirst,blurred vision",High
+Diabetes,"increased appetite,increased thirst,fatigue,frequent urination,weight loss,blurred vision",High
+Diabetes,"frequent urination,increased appetite,fatigue,increased thirst,weight loss,blurred vision",High
+Diabetes,"frequent urination,increased thirst,fatigue",High
+Diabetes,"frequent urination,fatigue,increased thirst",High
+Diabetes,"frequent urination,increased thirst,fatigue,blurred vision",High
+Diabetes,"blurred vision,weight loss,increased thirst,frequent urination",High
+Anemia,"dizziness,fatigue,shortness of breath,cold hands,pale skin,weakness",Medium
+Anemia,"pale skin,fatigue,weakness",Medium
+Anemia,"fatigue,shortness of breath,weakness,dizziness,cold hands,pale skin",Medium
+Anemia,"fatigue,weakness,pale skin",Medium
+Anemia,"pale skin,weakness,fatigue,cold hands",Medium
+Anemia,"cold hands,weakness,fatigue,dizziness,shortness of breath,pale skin",Medium
+Anemia,"weakness,fatigue,pale skin,cold hands",Medium
+Anemia,"cold hands,weakness,pale skin,dizziness,fatigue",Medium
+Anemia,"weakness,dizziness,cold hands,fatigue,shortness of breath,pale skin",Medium
+Anemia,"dizziness,pale skin,fatigue",Medium
+Anemia,"pale skin,fatigue,shortness of breath",Medium
+Anemia,"weakness,shortness of breath,fatigue,pale skin,dizziness",Medium
+Anemia,"pale skin,shortness of breath,cold hands,fatigue",Medium
+Anemia,"shortness of breath,fatigue,pale skin",Medium
+Anemia,"shortness of breath,dizziness,fatigue,pale skin",Medium
+Anemia,"fatigue,cold hands,shortness of breath,dizziness,weakness,pale skin",Medium
+Anemia,"fatigue,cold hands,weakness,dizziness,pale skin",Medium
+Anemia,"cold hands,fatigue,shortness of breath,dizziness,weakness,pale skin",Medium
+Anemia,"dizziness,pale skin,cold hands,fatigue,shortness of breath,weakness",Medium
+Anemia,"shortness of breath,dizziness,fatigue,weakness,pale skin",Medium
+Anemia,"pale skin,fatigue,dizziness",Medium
+Anemia,"dizziness,fatigue,pale skin",Medium
+Anemia,"weakness,shortness of breath,dizziness,pale skin,fatigue",Medium
+Anemia,"pale skin,cold hands,shortness of breath,fatigue",Medium
+Anemia,"pale skin,fatigue,cold hands,weakness",Medium
+Anemia,"fatigue,weakness,pale skin",Medium
+Anemia,"pale skin,weakness,fatigue,shortness of breath,cold hands",Medium
+Anemia,"pale skin,cold hands,dizziness,fatigue",Medium
+Anemia,"fatigue,shortness of breath,weakness,dizziness,pale skin",Medium
+Anemia,"dizziness,shortness of breath,cold hands,fatigue,pale skin",Medium
+Anemia,"pale skin,weakness,fatigue",Medium
+Anemia,"shortness of breath,fatigue,weakness,pale skin",Medium
+Anemia,"fatigue,dizziness,cold hands,pale skin,weakness",Medium
+Anemia,"shortness of breath,cold hands,fatigue,weakness,pale skin",Medium
+Anemia,"fatigue,shortness of breath,cold hands,dizziness,pale skin",Medium
+Anemia,"weakness,dizziness,fatigue,shortness of breath,pale skin,cold hands",Medium
+Anemia,"shortness of breath,dizziness,pale skin,weakness,fatigue",Medium
+Anemia,"fatigue,pale skin,shortness of breath,dizziness,weakness,cold hands",Medium
+Anemia,"cold hands,fatigue,pale skin,shortness of breath",Medium
+Anemia,"pale skin,fatigue,dizziness",Medium
+Anemia,"dizziness,cold hands,weakness,fatigue,pale skin,shortness of breath",Medium
+Anemia,"fatigue,pale skin,weakness",Medium
+Anemia,"fatigue,cold hands,shortness of breath,pale skin",Medium
+Anemia,"dizziness,pale skin,cold hands,fatigue,shortness of breath",Medium
+Anemia,"pale skin,shortness of breath,fatigue,cold hands",Medium
+Anemia,"weakness,fatigue,shortness of breath,cold hands,pale skin,dizziness",Medium
+Anemia,"weakness,pale skin,fatigue,shortness of breath",Medium
+Anemia,"pale skin,fatigue,dizziness",Medium
+Anemia,"cold hands,pale skin,weakness,fatigue,shortness of breath,dizziness",Medium
+Anemia,"cold hands,fatigue,weakness,dizziness,shortness of breath,pale skin",Medium
+Chickenpox,"skin rash,itching,loss of appetite,blisters,fever",Medium
+Chickenpox,"fatigue,itching,blisters,skin rash",Medium
+Chickenpox,"blisters,fatigue,skin rash,itching",Medium
+Chickenpox,"itching,fever,blisters,skin rash",Medium
+Chickenpox,"skin rash,itching,blisters,fever",Medium
+Chickenpox,"skin rash,fever,loss of appetite,fatigue,blisters,itching",Medium
+Chickenpox,"skin rash,blisters,itching,fatigue",Medium
+Chickenpox,"loss of appetite,skin rash,fatigue,fever,itching,blisters",Medium
+Chickenpox,"blisters,skin rash,fatigue,loss of appetite,fever,itching",Medium
+Chickenpox,"itching,blisters,skin rash,fatigue,fever",Medium
+Chickenpox,"blisters,itching,skin rash,loss of appetite,fever,fatigue",Medium
+Chickenpox,"itching,blisters,fatigue,skin rash,fever",Medium
+Chickenpox,"skin rash,itching,loss of appetite,blisters,fever,fatigue",Medium
+Chickenpox,"blisters,fever,skin rash,loss of appetite,itching",Medium
+Chickenpox,"skin rash,fever,itching,blisters,loss of appetite,fatigue",Medium
+Chickenpox,"blisters,itching,loss of appetite,skin rash,fatigue",Medium
+Chickenpox,"fever,itching,loss of appetite,blisters,fatigue,skin rash",Medium
+Chickenpox,"itching,skin rash,fever,blisters,loss of appetite",Medium
+Chickenpox,"itching,loss of appetite,blisters,skin rash",Medium
+Chickenpox,"itching,fever,skin rash,blisters",Medium
+Chickenpox,"itching,fatigue,loss of appetite,blisters,skin rash",Medium
+Chickenpox,"skin rash,fatigue,itching,blisters,fever",Medium
+Chickenpox,"fever,loss of appetite,itching,skin rash,blisters",Medium
+Chickenpox,"itching,fever,skin rash,blisters,fatigue",Medium
+Chickenpox,"itching,fatigue,loss of appetite,fever,blisters,skin rash",Medium
+Chickenpox,"blisters,skin rash,fatigue,loss of appetite,itching",Medium
+Chickenpox,"loss of appetite,fatigue,itching,skin rash,fever,blisters",Medium
+Chickenpox,"blisters,loss of appetite,itching,skin rash",Medium
+Chickenpox,"skin rash,blisters,fever,itching",Medium
+Chickenpox,"skin rash,blisters,fever,itching",Medium
+Chickenpox,"fatigue,skin rash,itching,blisters",Medium
+Chickenpox,"itching,skin rash,blisters,loss of appetite",Medium
+Chickenpox,"fatigue,itching,blisters,skin rash,loss of appetite",Medium
+Chickenpox,"fatigue,itching,blisters,loss of appetite,fever,skin rash",Medium
+Chickenpox,"blisters,fever,itching,skin rash",Medium
+Chickenpox,"itching,blisters,fever,skin rash",Medium
+Chickenpox,"blisters,loss of appetite,itching,skin rash",Medium
+Chickenpox,"itching,loss of appetite,fever,skin rash,fatigue,blisters",Medium
+Chickenpox,"itching,loss of appetite,blisters,skin rash,fever",Medium
+Chickenpox,"itching,skin rash,blisters,fatigue",Medium
+Chickenpox,"itching,fever,fatigue,blisters,loss of appetite,skin rash",Medium
+Chickenpox,"itching,loss of appetite,blisters,skin rash",Medium
+Chickenpox,"blisters,itching,fever,skin rash",Medium
+Chickenpox,"skin rash,blisters,fever,itching,loss of appetite",Medium
+Chickenpox,"blisters,itching,loss of appetite,fatigue,skin rash,fever",Medium
+Chickenpox,"skin rash,fever,itching,loss of appetite,blisters",Medium
+Chickenpox,"skin rash,loss of appetite,fatigue,itching,blisters,fever",Medium
+Chickenpox,"fatigue,itching,skin rash,loss of appetite,blisters",Medium
+Chickenpox,"blisters,skin rash,itching,fever",Medium
+Chickenpox,"fatigue,skin rash,itching,blisters",Medium
+Measles,"fever,cough,skin rash,red eyes,runny nose,sore throat",High
+Measles,"sore throat,fever,red eyes,skin rash,runny nose,cough",High
+Measles,"red eyes,runny nose,skin rash,cough,sore throat,fever",High
+Measles,"red eyes,fever,sore throat,skin rash",High
+Measles,"skin rash,fever,cough,red eyes",High
+Measles,"sore throat,fever,red eyes,cough,skin rash",High
+Measles,"cough,fever,red eyes,sore throat,skin rash",High
+Measles,"cough,sore throat,fever,skin rash,red eyes",High
+Measles,"fever,sore throat,skin rash,red eyes",High
+Measles,"sore throat,skin rash,runny nose,fever,cough,red eyes",High
+Measles,"fever,sore throat,skin rash,cough,red eyes",High
+Measles,"red eyes,runny nose,skin rash,fever",High
+Measles,"runny nose,skin rash,cough,fever,sore throat,red eyes",High
+Measles,"fever,runny nose,red eyes,skin rash",High
+Measles,"skin rash,red eyes,sore throat,fever",High
+Measles,"sore throat,fever,skin rash,red eyes,cough",High
+Measles,"runny nose,fever,sore throat,cough,skin rash,red eyes",High
+Measles,"fever,skin rash,red eyes,cough,sore throat",High
+Measles,"cough,skin rash,red eyes,runny nose,fever",High
+Measles,"skin rash,fever,cough,sore throat,red eyes",High
+Measles,"cough,fever,runny nose,red eyes,skin rash",High
+Measles,"red eyes,sore throat,skin rash,fever",High
+Measles,"red eyes,sore throat,runny nose,fever,skin rash,cough",High
+Measles,"red eyes,skin rash,runny nose,fever,sore throat",High
+Measles,"sore throat,fever,red eyes,skin rash",High
+Measles,"fever,skin rash,red eyes,runny nose",High
+Measles,"red eyes,fever,runny nose,skin rash",High
+Measles,"red eyes,skin rash,sore throat,fever",High
+Measles,"fever,cough,skin rash,red eyes",High
+Measles,"runny nose,red eyes,fever,cough,sore throat,skin rash",High
+Measles,"cough,fever,red eyes,skin rash",High
+Measles,"sore throat,fever,red eyes,skin rash,cough",High
+Measles,"skin rash,runny nose,fever,red eyes",High
+Measles,"fever,skin rash,cough,red eyes",High
+Measles,"runny nose,red eyes,sore throat,fever,skin rash",High
+Measles,"skin rash,cough,fever,red eyes",High
+Measles,"red eyes,skin rash,runny nose,fever,cough,sore throat",High
+Measles,"fever,skin rash,sore throat,red eyes,cough,runny nose",High
+Measles,"fever,cough,runny nose,skin rash,red eyes",High
+Measles,"skin rash,fever,sore throat,cough,red eyes",High
+Measles,"fever,sore throat,cough,runny nose,skin rash,red eyes",High
+Measles,"red eyes,skin rash,cough,fever,sore throat",High
+Measles,"skin rash,red eyes,fever,sore throat",High
+Measles,"cough,sore throat,skin rash,red eyes,runny nose,fever",High
+Measles,"cough,fever,red eyes,skin rash",High
+Measles,"cough,fever,skin rash,runny nose,sore throat,red eyes",High
+Measles,"sore throat,skin rash,runny nose,red eyes,fever",High
+Measles,"sore throat,red eyes,skin rash,fever,cough",High
+Measles,"red eyes,skin rash,fever,sore throat",High
+Measles,"fever,red eyes,skin rash,runny nose,sore throat",High
+Mumps,"loss of appetite,swollen glands,fever,fatigue,muscle pain,headache",Medium
+Mumps,"headache,fatigue,muscle pain,loss of appetite,fever,swollen glands",Medium
+Mumps,"fever,loss of appetite,muscle pain,fatigue,headache,swollen glands",Medium
+Mumps,"fever,loss of appetite,swollen glands",Medium
+Mumps,"fever,headache,swollen glands",Medium
+Mumps,"muscle pain,fatigue,headache,loss of appetite,fever,swollen glands",Medium
+Mumps,"swollen glands,fatigue,fever",Medium
+Mumps,"fever,swollen glands,headache",Medium
+Mumps,"headache,swollen glands,fever",Medium
+Mumps,"fever,swollen glands,loss of appetite",Medium
+Mumps,"swollen glands,fatigue,fever",Medium
+Mumps,"fever,loss of appetite,swollen glands,muscle pain,headache,fatigue",Medium
+Mumps,"muscle pain,swollen glands,headache,fatigue,fever,loss of appetite",Medium
+Mumps,"muscle pain,fatigue,loss of appetite,fever,swollen glands",Medium
+Mumps,"headache,fever,swollen glands,loss of appetite,muscle pain",Medium
+Mumps,"fatigue,fever,swollen glands,headache",Medium
+Mumps,"fatigue,swollen glands,fever",Medium
+Mumps,"fever,swollen glands,headache,fatigue",Medium
+Mumps,"fever,swollen glands,loss of appetite",Medium
+Mumps,"fatigue,swollen glands,headache,muscle pain,fever",Medium
+Mumps,"fever,swollen glands,loss of appetite,fatigue,headache,muscle pain",Medium
+Mumps,"fever,muscle pain,loss of appetite,swollen glands,fatigue,headache",Medium
+Mumps,"loss of appetite,swollen glands,fever,muscle pain",Medium
+Mumps,"fatigue,fever,swollen glands,muscle pain",Medium
+Mumps,"fever,loss of appetite,swollen glands",Medium
+Mumps,"muscle pain,fever,swollen glands,headache,loss of appetite",Medium
+Mumps,"headache,fatigue,fever,swollen glands,muscle pain",Medium
+Mumps,"headache,fatigue,fever,swollen glands",Medium
+Mumps,"headache,muscle pain,fever,fatigue,swollen glands",Medium
+Mumps,"muscle pain,loss of appetite,fever,fatigue,headache,swollen glands",Medium
+Mumps,"fever,headache,fatigue,loss of appetite,muscle pain,swollen glands",Medium
+Mumps,"fatigue,muscle pain,headache,fever,loss of appetite,swollen glands",Medium
+Mumps,"loss of appetite,fever,muscle pain,headache,fatigue,swollen glands",Medium
+Mumps,"muscle pain,fever,swollen glands",Medium
+Mumps,"swollen glands,fever,headache",Medium
+Mumps,"fatigue,loss of appetite,swollen glands,fever,headache",Medium
+Mumps,"loss of appetite,swollen glands,muscle pain,fever,fatigue,headache",Medium
+Mumps,"headache,fever,swollen glands,muscle pain,loss of appetite,fatigue",Medium
+Mumps,"headache,loss of appetite,fatigue,fever,swollen glands",Medium
+Mumps,"loss of appetite,fever,swollen glands,fatigue",Medium
+Mumps,"fever,muscle pain,swollen glands",Medium
+Mumps,"muscle pain,swollen glands,fever,headache",Medium
+Mumps,"fever,loss of appetite,swollen glands",Medium
+Mumps,"loss of appetite,muscle pain,swollen glands,fever",Medium
+Mumps,"muscle pain,loss of appetite,fever,swollen glands,fatigue",Medium
+Mumps,"fever,fatigue,swollen glands",Medium
+Mumps,"muscle pain,fever,swollen glands",Medium
+Mumps,"fatigue,loss of appetite,fever,headache,swollen glands",Medium
+Mumps,"muscle pain,swollen glands,fever,headache,fatigue",Medium
+Mumps,"headache,fever,swollen glands,fatigue,loss of appetite",Medium
+Hepatitis A,"vomiting,dark urine,jaundice,fatigue",High
+Hepatitis A,"jaundice,dark urine,abdominal pain",High
+Hepatitis A,"jaundice,dark urine,abdominal pain",High
+Hepatitis A,"abdominal pain,jaundice,dark urine,nausea",High
+Hepatitis A,"dark urine,jaundice,fatigue",High
+Hepatitis A,"abdominal pain,dark urine,fatigue,nausea,jaundice,vomiting",High
+Hepatitis A,"dark urine,nausea,jaundice",High
+Hepatitis A,"fatigue,dark urine,jaundice",High
+Hepatitis A,"dark urine,vomiting,jaundice,fatigue",High
+Hepatitis A,"dark urine,nausea,abdominal pain,jaundice,fatigue,vomiting",High
+Hepatitis A,"dark urine,abdominal pain,jaundice",High
+Hepatitis A,"jaundice,abdominal pain,nausea,dark urine",High
+Hepatitis A,"jaundice,dark urine,vomiting",High
+Hepatitis A,"jaundice,dark urine,nausea",High
+Hepatitis A,"jaundice,dark urine,vomiting",High
+Hepatitis A,"dark urine,jaundice,abdominal pain,vomiting,nausea,fatigue",High
+Hepatitis A,"jaundice,nausea,fatigue,vomiting,dark urine",High
+Hepatitis A,"abdominal pain,dark urine,vomiting,jaundice,nausea,fatigue",High
+Hepatitis A,"nausea,dark urine,jaundice,fatigue,abdominal pain",High
+Hepatitis A,"jaundice,fatigue,vomiting,dark urine,abdominal pain",High
+Hepatitis A,"abdominal pain,jaundice,fatigue,vomiting,dark urine,nausea",High
+Hepatitis A,"vomiting,dark urine,jaundice",High
+Hepatitis A,"fatigue,jaundice,dark urine,nausea",High
+Hepatitis A,"fatigue,dark urine,jaundice",High
+Hepatitis A,"dark urine,jaundice,nausea,vomiting",High
+Hepatitis A,"fatigue,vomiting,abdominal pain,jaundice,nausea,dark urine",High
+Hepatitis A,"fatigue,abdominal pain,nausea,dark urine,jaundice",High
+Hepatitis A,"jaundice,nausea,dark urine,vomiting",High
+Hepatitis A,"vomiting,abdominal pain,dark urine,nausea,jaundice",High
+Hepatitis A,"fatigue,dark urine,jaundice",High
+Hepatitis A,"dark urine,vomiting,jaundice",High
+Hepatitis A,"nausea,abdominal pain,fatigue,jaundice,vomiting,dark urine",High
+Hepatitis A,"jaundice,vomiting,nausea,fatigue,dark urine",High
+Hepatitis A,"nausea,dark urine,jaundice",High
+Hepatitis A,"jaundice,dark urine,vomiting,fatigue",High
+Hepatitis A,"dark urine,nausea,vomiting,jaundice,fatigue",High
+Hepatitis A,"fatigue,jaundice,nausea,dark urine",High
+Hepatitis A,"jaundice,dark urine,fatigue,vomiting,abdominal pain",High
+Hepatitis A,"fatigue,abdominal pain,vomiting,jaundice,dark urine",High
+Hepatitis A,"fatigue,nausea,dark urine,jaundice,vomiting,abdominal pain",High
+Hepatitis A,"fatigue,nausea,abdominal pain,vomiting,jaundice,dark urine",High
+Hepatitis A,"dark urine,abdominal pain,nausea,jaundice",High
+Hepatitis A,"dark urine,fatigue,abdominal pain,jaundice",High
+Hepatitis A,"jaundice,fatigue,nausea,dark urine",High
+Hepatitis A,"dark urine,vomiting,jaundice,abdominal pain,nausea,fatigue",High
+Hepatitis A,"jaundice,fatigue,abdominal pain,dark urine",High
+Hepatitis A,"fatigue,vomiting,jaundice,abdominal pain,dark urine",High
+Hepatitis A,"vomiting,dark urine,jaundice,nausea",High
+Hepatitis A,"jaundice,nausea,dark urine",High
+Hepatitis A,"jaundice,fatigue,dark urine",High
+Appendicitis,"loss of appetite,abdominal pain,nausea",High
+Appendicitis,"abdominal pain,vomiting,loss of appetite,nausea",High
+Appendicitis,"abdominal pain,vomiting,nausea,loss of appetite,fever",High
+Appendicitis,"abdominal pain,vomiting,loss of appetite,nausea,fever",High
+Appendicitis,"vomiting,abdominal pain,nausea",High
+Appendicitis,"fever,loss of appetite,abdominal pain,vomiting,nausea",High
+Appendicitis,"loss of appetite,nausea,abdominal pain",High
+Appendicitis,"loss of appetite,abdominal pain,nausea",High
+Appendicitis,"loss of appetite,nausea,fever,abdominal pain,vomiting",High
+Appendicitis,"nausea,vomiting,abdominal pain",High
+Appendicitis,"nausea,abdominal pain,vomiting",High
+Appendicitis,"vomiting,nausea,abdominal pain",High
+Appendicitis,"abdominal pain,fever,nausea",High
+Appendicitis,"nausea,loss of appetite,vomiting,abdominal pain",High
+Appendicitis,"nausea,loss of appetite,fever,abdominal pain,vomiting",High
+Appendicitis,"abdominal pain,nausea,fever",High
+Appendicitis,"vomiting,nausea,fever,abdominal pain",High
+Appendicitis,"loss of appetite,abdominal pain,nausea,vomiting",High
+Appendicitis,"vomiting,nausea,abdominal pain",High
+Appendicitis,"vomiting,nausea,abdominal pain",High
+Appendicitis,"abdominal pain,nausea,vomiting",High
+Appendicitis,"nausea,abdominal pain,fever",High
+Appendicitis,"nausea,abdominal pain,vomiting,fever",High
+Appendicitis,"abdominal pain,nausea,vomiting,fever,loss of appetite",High
+Appendicitis,"vomiting,fever,nausea,loss of appetite,abdominal pain",High
+Appendicitis,"loss of appetite,fever,vomiting,nausea,abdominal pain",High
+Appendicitis,"nausea,loss of appetite,abdominal pain",High
+Appendicitis,"abdominal pain,nausea,fever",High
+Appendicitis,"abdominal pain,fever,nausea",High
+Appendicitis,"vomiting,nausea,abdominal pain,fever,loss of appetite",High
+Appendicitis,"loss of appetite,fever,abdominal pain,nausea",High
+Appendicitis,"fever,abdominal pain,nausea,vomiting",High
+Appendicitis,"nausea,loss of appetite,vomiting,abdominal pain",High
+Appendicitis,"nausea,abdominal pain,fever,loss of appetite,vomiting",High
+Appendicitis,"nausea,fever,abdominal pain",High
+Appendicitis,"abdominal pain,vomiting,nausea,loss of appetite,fever",High
+Appendicitis,"fever,nausea,abdominal pain,vomiting",High
+Appendicitis,"fever,nausea,loss of appetite,vomiting,abdominal pain",High
+Appendicitis,"abdominal pain,fever,nausea,vomiting",High
+Appendicitis,"fever,nausea,vomiting,loss of appetite,abdominal pain",High
+Appendicitis,"nausea,vomiting,abdominal pain,fever",High
+Appendicitis,"nausea,abdominal pain,vomiting",High
+Appendicitis,"loss of appetite,nausea,abdominal pain",High
+Appendicitis,"abdominal pain,vomiting,nausea",High
+Appendicitis,"nausea,abdominal pain,vomiting,loss of appetite",High
+Appendicitis,"vomiting,loss of appetite,fever,abdominal pain,nausea",High
+Appendicitis,"vomiting,nausea,fever,abdominal pain,loss of appetite",High
+Appendicitis,"loss of appetite,fever,vomiting,nausea,abdominal pain",High
+Appendicitis,"loss of appetite,fever,nausea,abdominal pain,vomiting",High
+Appendicitis,"fever,vomiting,nausea,loss of appetite,abdominal pain",High
+Gastritis,"heartburn,abdominal pain,bloating,vomiting",Medium
+Gastritis,"abdominal pain,heartburn,bloating",Medium
+Gastritis,"heartburn,abdominal pain,nausea",Medium
+Gastritis,"heartburn,vomiting,abdominal pain,bloating,loss of appetite",Medium
+Gastritis,"vomiting,abdominal pain,loss of appetite,heartburn,nausea,bloating",Medium
+Gastritis,"vomiting,abdominal pain,heartburn,nausea,bloating",Medium
+Gastritis,"abdominal pain,nausea,heartburn,loss of appetite,bloating",Medium
+Gastritis,"abdominal pain,loss of appetite,nausea,heartburn,bloating,vomiting",Medium
+Gastritis,"abdominal pain,heartburn,loss of appetite,nausea,bloating,vomiting",Medium
+Gastritis,"nausea,heartburn,abdominal pain",Medium
+Gastritis,"abdominal pain,nausea,heartburn",Medium
+Gastritis,"heartburn,abdominal pain,bloating",Medium
+Gastritis,"bloating,loss of appetite,nausea,abdominal pain,heartburn",Medium
+Gastritis,"loss of appetite,abdominal pain,heartburn,bloating,nausea",Medium
+Gastritis,"loss of appetite,nausea,heartburn,bloating,vomiting,abdominal pain",Medium
+Gastritis,"heartburn,loss of appetite,bloating,abdominal pain,vomiting",Medium
+Gastritis,"heartburn,vomiting,abdominal pain",Medium
+Gastritis,"heartburn,bloating,abdominal pain",Medium
+Gastritis,"loss of appetite,heartburn,abdominal pain",Medium
+Gastritis,"abdominal pain,nausea,vomiting,loss of appetite,bloating,heartburn",Medium
+Gastritis,"nausea,bloating,loss of appetite,abdominal pain,vomiting,heartburn",Medium
+Gastritis,"loss of appetite,bloating,abdominal pain,vomiting,heartburn",Medium
+Gastritis,"abdominal pain,nausea,heartburn",Medium
+Gastritis,"bloating,heartburn,abdominal pain",Medium
+Gastritis,"abdominal pain,loss of appetite,nausea,heartburn",Medium
+Gastritis,"vomiting,nausea,heartburn,loss of appetite,abdominal pain",Medium
+Gastritis,"heartburn,bloating,vomiting,abdominal pain",Medium
+Gastritis,"abdominal pain,nausea,vomiting,heartburn,loss of appetite,bloating",Medium
+Gastritis,"vomiting,nausea,abdominal pain,heartburn,loss of appetite",Medium
+Gastritis,"abdominal pain,vomiting,heartburn",Medium
+Gastritis,"heartburn,loss of appetite,abdominal pain,bloating,vomiting,nausea",Medium
+Gastritis,"heartburn,vomiting,bloating,nausea,abdominal pain",Medium
+Gastritis,"abdominal pain,bloating,nausea,loss of appetite,heartburn",Medium
+Gastritis,"bloating,vomiting,loss of appetite,heartburn,abdominal pain",Medium
+Gastritis,"vomiting,abdominal pain,heartburn",Medium
+Gastritis,"abdominal pain,nausea,loss of appetite,bloating,heartburn",Medium
+Gastritis,"bloating,heartburn,abdominal pain",Medium
+Gastritis,"bloating,heartburn,loss of appetite,abdominal pain,nausea,vomiting",Medium
+Gastritis,"heartburn,bloating,loss of appetite,abdominal pain",Medium
+Gastritis,"heartburn,bloating,abdominal pain",Medium
+Gastritis,"abdominal pain,loss of appetite,heartburn",Medium
+Gastritis,"loss of appetite,nausea,heartburn,vomiting,abdominal pain",Medium
+Gastritis,"heartburn,vomiting,abdominal pain,bloating",Medium
+Gastritis,"bloating,heartburn,vomiting,nausea,loss of appetite,abdominal pain",Medium
+Gastritis,"loss of appetite,bloating,vomiting,heartburn,abdominal pain,nausea",Medium
+Gastritis,"abdominal pain,nausea,heartburn,vomiting,loss of appetite",Medium
+Gastritis,"heartburn,nausea,loss of appetite,abdominal pain",Medium
+Gastritis,"bloating,heartburn,abdominal pain,loss of appetite",Medium
+Gastritis,"nausea,abdominal pain,vomiting,bloating,loss of appetite,heartburn",Medium
+Gastritis,"heartburn,nausea,vomiting,abdominal pain,loss of appetite",Medium
+GERD,"difficulty swallowing,acid reflux,heartburn",Medium
+GERD,"heartburn,acid reflux,sore throat",Medium
+GERD,"acid reflux,difficulty swallowing,sore throat,heartburn",Medium
+GERD,"heartburn,difficulty swallowing,acid reflux",Medium
+GERD,"heartburn,sore throat,difficulty swallowing,acid reflux",Medium
+GERD,"sore throat,heartburn,difficulty swallowing,acid reflux,chest pain",Medium
+GERD,"heartburn,acid reflux,chest pain",Medium
+GERD,"difficulty swallowing,acid reflux,chest pain,sore throat,heartburn",Medium
+GERD,"heartburn,chest pain,acid reflux,sore throat",Medium
+GERD,"difficulty swallowing,acid reflux,heartburn",Medium
+GERD,"sore throat,acid reflux,chest pain,heartburn,difficulty swallowing",Medium
+GERD,"chest pain,difficulty swallowing,acid reflux,heartburn",Medium
+GERD,"difficulty swallowing,chest pain,heartburn,acid reflux",Medium
+GERD,"chest pain,sore throat,acid reflux,heartburn,difficulty swallowing",Medium
+GERD,"sore throat,acid reflux,heartburn",Medium
+GERD,"acid reflux,heartburn,chest pain,difficulty swallowing,sore throat",Medium
+GERD,"chest pain,heartburn,acid reflux",Medium
+GERD,"sore throat,heartburn,chest pain,difficulty swallowing,acid reflux",Medium
+GERD,"chest pain,heartburn,acid reflux,difficulty swallowing,sore throat",Medium
+GERD,"difficulty swallowing,sore throat,heartburn,chest pain,acid reflux",Medium
+GERD,"acid reflux,sore throat,heartburn,chest pain",Medium
+GERD,"heartburn,sore throat,chest pain,acid reflux",Medium
+GERD,"chest pain,heartburn,acid reflux",Medium
+GERD,"sore throat,chest pain,acid reflux,heartburn",Medium
+GERD,"acid reflux,heartburn,sore throat",Medium
+GERD,"sore throat,heartburn,chest pain,acid reflux",Medium
+GERD,"chest pain,sore throat,difficulty swallowing,heartburn,acid reflux",Medium
+GERD,"heartburn,chest pain,acid reflux",Medium
+GERD,"acid reflux,sore throat,heartburn,difficulty swallowing,chest pain",Medium
+GERD,"acid reflux,heartburn,sore throat",Medium
+GERD,"heartburn,acid reflux,difficulty swallowing",Medium
+GERD,"sore throat,heartburn,chest pain,acid reflux",Medium
+GERD,"heartburn,chest pain,acid reflux,difficulty swallowing,sore throat",Medium
+GERD,"acid reflux,heartburn,sore throat",Medium
+GERD,"difficulty swallowing,acid reflux,heartburn,chest pain",Medium
+GERD,"difficulty swallowing,acid reflux,heartburn",Medium
+GERD,"heartburn,sore throat,acid reflux",Medium
+GERD,"heartburn,sore throat,acid reflux,difficulty swallowing,chest pain",Medium
+GERD,"sore throat,acid reflux,heartburn",Medium
+GERD,"acid reflux,chest pain,heartburn",Medium
+GERD,"heartburn,chest pain,acid reflux,sore throat",Medium
+GERD,"heartburn,chest pain,acid reflux",Medium
+GERD,"sore throat,heartburn,difficulty swallowing,acid reflux",Medium
+GERD,"chest pain,heartburn,acid reflux",Medium
+GERD,"chest pain,acid reflux,heartburn,sore throat",Medium
+GERD,"heartburn,chest pain,sore throat,acid reflux",Medium
+GERD,"acid reflux,sore throat,heartburn",Medium
+GERD,"chest pain,sore throat,acid reflux,difficulty swallowing,heartburn",Medium
+GERD,"heartburn,acid reflux,chest pain",Medium
+GERD,"difficulty swallowing,acid reflux,heartburn,sore throat",Medium
+Peptic Ulcer,"heartburn,abdominal pain,bloating,black stool",High
+Peptic Ulcer,"black stool,vomiting,abdominal pain",High
+Peptic Ulcer,"abdominal pain,heartburn,vomiting,black stool",High
+Peptic Ulcer,"abdominal pain,black stool,nausea",High
+Peptic Ulcer,"bloating,abdominal pain,nausea,black stool,vomiting",High
+Peptic Ulcer,"heartburn,vomiting,nausea,black stool,abdominal pain,bloating",High
+Peptic Ulcer,"abdominal pain,vomiting,heartburn,bloating,nausea,black stool",High
+Peptic Ulcer,"black stool,abdominal pain,vomiting",High
+Peptic Ulcer,"black stool,bloating,nausea,abdominal pain",High
+Peptic Ulcer,"black stool,vomiting,bloating,abdominal pain",High
+Peptic Ulcer,"heartburn,nausea,black stool,bloating,abdominal pain,vomiting",High
+Peptic Ulcer,"heartburn,vomiting,black stool,nausea,abdominal pain",High
+Peptic Ulcer,"heartburn,black stool,abdominal pain,bloating,vomiting",High
+Peptic Ulcer,"abdominal pain,black stool,heartburn",High
+Peptic Ulcer,"vomiting,black stool,abdominal pain,nausea",High
+Peptic Ulcer,"bloating,abdominal pain,vomiting,black stool,nausea",High
+Peptic Ulcer,"vomiting,bloating,black stool,abdominal pain",High
+Peptic Ulcer,"nausea,abdominal pain,black stool",High
+Peptic Ulcer,"abdominal pain,bloating,black stool,vomiting",High
+Peptic Ulcer,"heartburn,nausea,black stool,abdominal pain",High
+Peptic Ulcer,"nausea,black stool,abdominal pain",High
+Peptic Ulcer,"abdominal pain,nausea,bloating,heartburn,black stool,vomiting",High
+Peptic Ulcer,"black stool,abdominal pain,bloating,nausea,heartburn,vomiting",High
+Peptic Ulcer,"abdominal pain,vomiting,bloating,heartburn,black stool",High
+Peptic Ulcer,"black stool,bloating,abdominal pain,vomiting",High
+Peptic Ulcer,"abdominal pain,vomiting,heartburn,black stool,bloating",High
+Peptic Ulcer,"heartburn,nausea,black stool,bloating,abdominal pain",High
+Peptic Ulcer,"heartburn,black stool,abdominal pain",High
+Peptic Ulcer,"vomiting,abdominal pain,black stool,nausea",High
+Peptic Ulcer,"bloating,black stool,abdominal pain",High
+Peptic Ulcer,"bloating,black stool,heartburn,abdominal pain",High
+Peptic Ulcer,"black stool,vomiting,abdominal pain,nausea,bloating",High
+Peptic Ulcer,"black stool,abdominal pain,bloating",High
+Peptic Ulcer,"bloating,abdominal pain,black stool",High
+Peptic Ulcer,"abdominal pain,black stool,vomiting,bloating,heartburn",High
+Peptic Ulcer,"black stool,vomiting,heartburn,bloating,nausea,abdominal pain",High
+Peptic Ulcer,"abdominal pain,black stool,vomiting",High
+Peptic Ulcer,"black stool,bloating,vomiting,abdominal pain",High
+Peptic Ulcer,"abdominal pain,bloating,nausea,black stool,heartburn",High
+Peptic Ulcer,"black stool,vomiting,bloating,abdominal pain",High
+Peptic Ulcer,"bloating,abdominal pain,heartburn,nausea,vomiting,black stool",High
+Peptic Ulcer,"abdominal pain,nausea,heartburn,black stool",High
+Peptic Ulcer,"black stool,nausea,abdominal pain,bloating,vomiting",High
+Peptic Ulcer,"bloating,black stool,heartburn,abdominal pain,nausea",High
+Peptic Ulcer,"abdominal pain,black stool,nausea,bloating,vomiting,heartburn",High
+Peptic Ulcer,"bloating,abdominal pain,black stool",High
+Peptic Ulcer,"black stool,heartburn,vomiting,abdominal pain,nausea,bloating",High
+Peptic Ulcer,"abdominal pain,vomiting,black stool",High
+Peptic Ulcer,"black stool,heartburn,abdominal pain",High
+Peptic Ulcer,"vomiting,black stool,abdominal pain",High
+Food Poisoning,"diarrhea,fever,nausea,vomiting,dehydration,abdominal pain",Medium
+Food Poisoning,"dehydration,abdominal pain,diarrhea,vomiting",Medium
+Food Poisoning,"diarrhea,fever,abdominal pain,dehydration,vomiting,nausea",Medium
+Food Poisoning,"nausea,diarrhea,abdominal pain,vomiting",Medium
+Food Poisoning,"diarrhea,dehydration,fever,vomiting,abdominal pain",Medium
+Food Poisoning,"fever,vomiting,diarrhea,dehydration,abdominal pain",Medium
+Food Poisoning,"vomiting,fever,nausea,diarrhea,abdominal pain,dehydration",Medium
+Food Poisoning,"nausea,abdominal pain,vomiting,diarrhea",Medium
+Food Poisoning,"fever,nausea,vomiting,diarrhea,abdominal pain,dehydration",Medium
+Food Poisoning,"diarrhea,abdominal pain,fever,vomiting",Medium
+Food Poisoning,"vomiting,fever,dehydration,abdominal pain,diarrhea",Medium
+Food Poisoning,"abdominal pain,nausea,diarrhea,vomiting,dehydration,fever",Medium
+Food Poisoning,"abdominal pain,dehydration,vomiting,nausea,diarrhea",Medium
+Food Poisoning,"diarrhea,dehydration,fever,abdominal pain,nausea,vomiting",Medium
+Food Poisoning,"diarrhea,dehydration,vomiting,nausea,abdominal pain,fever",Medium
+Food Poisoning,"vomiting,dehydration,diarrhea,abdominal pain",Medium
+Food Poisoning,"vomiting,nausea,fever,dehydration,diarrhea,abdominal pain",Medium
+Food Poisoning,"abdominal pain,dehydration,vomiting,fever,diarrhea",Medium
+Food Poisoning,"nausea,dehydration,fever,diarrhea,abdominal pain,vomiting",Medium
+Food Poisoning,"abdominal pain,vomiting,diarrhea,fever",Medium
+Food Poisoning,"vomiting,diarrhea,abdominal pain,dehydration",Medium
+Food Poisoning,"abdominal pain,dehydration,fever,vomiting,diarrhea",Medium
+Food Poisoning,"abdominal pain,diarrhea,vomiting,nausea,dehydration",Medium
+Food Poisoning,"diarrhea,fever,dehydration,nausea,vomiting,abdominal pain",Medium
+Food Poisoning,"nausea,fever,abdominal pain,vomiting,diarrhea",Medium
+Food Poisoning,"diarrhea,abdominal pain,nausea,vomiting",Medium
+Food Poisoning,"dehydration,vomiting,nausea,abdominal pain,diarrhea",Medium
+Food Poisoning,"abdominal pain,diarrhea,fever,vomiting,dehydration",Medium
+Food Poisoning,"vomiting,diarrhea,abdominal pain,dehydration",Medium
+Food Poisoning,"diarrhea,nausea,abdominal pain,vomiting",Medium
+Food Poisoning,"abdominal pain,vomiting,dehydration,diarrhea,fever",Medium
+Food Poisoning,"vomiting,diarrhea,nausea,dehydration,abdominal pain",Medium
+Food Poisoning,"dehydration,abdominal pain,vomiting,nausea,diarrhea",Medium
+Food Poisoning,"abdominal pain,diarrhea,vomiting,fever,dehydration",Medium
+Food Poisoning,"abdominal pain,diarrhea,vomiting,dehydration,fever",Medium
+Food Poisoning,"abdominal pain,vomiting,fever,nausea,diarrhea",Medium
+Food Poisoning,"vomiting,abdominal pain,diarrhea,fever",Medium
+Food Poisoning,"nausea,abdominal pain,vomiting,diarrhea",Medium
+Food Poisoning,"diarrhea,dehydration,abdominal pain,vomiting",Medium
+Food Poisoning,"abdominal pain,dehydration,vomiting,diarrhea",Medium
+Food Poisoning,"diarrhea,abdominal pain,nausea,dehydration,vomiting",Medium
+Food Poisoning,"dehydration,vomiting,nausea,diarrhea,fever,abdominal pain",Medium
+Food Poisoning,"diarrhea,fever,vomiting,abdominal pain",Medium
+Food Poisoning,"fever,diarrhea,vomiting,nausea,dehydration,abdominal pain",Medium
+Food Poisoning,"vomiting,abdominal pain,diarrhea,dehydration",Medium
+Food Poisoning,"vomiting,nausea,abdominal pain,diarrhea,dehydration",Medium
+Food Poisoning,"abdominal pain,diarrhea,fever,vomiting",Medium
+Food Poisoning,"diarrhea,fever,dehydration,nausea,vomiting,abdominal pain",Medium
+Food Poisoning,"diarrhea,nausea,dehydration,abdominal pain,fever,vomiting",Medium
+Food Poisoning,"vomiting,diarrhea,abdominal pain,nausea",Medium
+Heart Attack,"dizziness,nausea,shortness of breath,chest pain,sweating,left arm pain",Critical
+Heart Attack,"left arm pain,sweating,chest pain,shortness of breath",Critical
+Heart Attack,"shortness of breath,nausea,chest pain,dizziness,left arm pain",Critical
+Heart Attack,"left arm pain,chest pain,shortness of breath,sweating",Critical
+Heart Attack,"nausea,shortness of breath,chest pain,sweating,left arm pain,dizziness",Critical
+Heart Attack,"dizziness,chest pain,shortness of breath",Critical
+Heart Attack,"nausea,left arm pain,shortness of breath,dizziness,sweating,chest pain",Critical
+Heart Attack,"sweating,left arm pain,chest pain,shortness of breath",Critical
+Heart Attack,"nausea,left arm pain,shortness of breath,chest pain",Critical
+Heart Attack,"left arm pain,shortness of breath,chest pain,sweating,nausea",Critical
+Heart Attack,"chest pain,dizziness,shortness of breath",Critical
+Heart Attack,"sweating,left arm pain,dizziness,shortness of breath,nausea,chest pain",Critical
+Heart Attack,"shortness of breath,nausea,sweating,chest pain,dizziness",Critical
+Heart Attack,"nausea,left arm pain,shortness of breath,sweating,chest pain",Critical
+Heart Attack,"shortness of breath,sweating,chest pain",Critical
+Heart Attack,"shortness of breath,dizziness,nausea,chest pain",Critical
+Heart Attack,"shortness of breath,sweating,chest pain",Critical
+Heart Attack,"shortness of breath,chest pain,nausea,left arm pain",Critical
+Heart Attack,"left arm pain,chest pain,shortness of breath",Critical
+Heart Attack,"chest pain,shortness of breath,sweating",Critical
+Heart Attack,"dizziness,chest pain,sweating,shortness of breath,left arm pain,nausea",Critical
+Heart Attack,"chest pain,left arm pain,nausea,dizziness,sweating,shortness of breath",Critical
+Heart Attack,"chest pain,dizziness,shortness of breath,left arm pain,nausea",Critical
+Heart Attack,"shortness of breath,chest pain,sweating",Critical
+Heart Attack,"chest pain,sweating,shortness of breath",Critical
+Heart Attack,"dizziness,nausea,chest pain,sweating,left arm pain,shortness of breath",Critical
+Heart Attack,"left arm pain,sweating,shortness of breath,dizziness,nausea,chest pain",Critical
+Heart Attack,"nausea,dizziness,left arm pain,shortness of breath,chest pain,sweating",Critical
+Heart Attack,"nausea,shortness of breath,chest pain",Critical
+Heart Attack,"chest pain,nausea,shortness of breath,left arm pain",Critical
+Heart Attack,"chest pain,shortness of breath,dizziness,nausea",Critical
+Heart Attack,"nausea,shortness of breath,dizziness,chest pain,left arm pain",Critical
+Heart Attack,"chest pain,shortness of breath,sweating,dizziness,nausea,left arm pain",Critical
+Heart Attack,"nausea,sweating,chest pain,left arm pain,shortness of breath,dizziness",Critical
+Heart Attack,"shortness of breath,nausea,left arm pain,dizziness,chest pain,sweating",Critical
+Heart Attack,"shortness of breath,nausea,left arm pain,sweating,chest pain,dizziness",Critical
+Heart Attack,"left arm pain,nausea,chest pain,shortness of breath",Critical
+Heart Attack,"shortness of breath,chest pain,sweating,left arm pain",Critical
+Heart Attack,"left arm pain,dizziness,sweating,nausea,chest pain,shortness of breath",Critical
+Heart Attack,"sweating,shortness of breath,chest pain,nausea,left arm pain,dizziness",Critical
+Heart Attack,"nausea,chest pain,shortness of breath,left arm pain",Critical
+Heart Attack,"dizziness,shortness of breath,chest pain",Critical
+Heart Attack,"chest pain,sweating,dizziness,shortness of breath",Critical
+Heart Attack,"shortness of breath,chest pain,left arm pain,sweating",Critical
+Heart Attack,"dizziness,chest pain,shortness of breath",Critical
+Heart Attack,"sweating,chest pain,shortness of breath",Critical
+Heart Attack,"shortness of breath,chest pain,dizziness,left arm pain",Critical
+Heart Attack,"left arm pain,sweating,nausea,chest pain,shortness of breath,dizziness",Critical
+Heart Attack,"left arm pain,chest pain,shortness of breath,sweating",Critical
+Heart Attack,"chest pain,left arm pain,shortness of breath",Critical
+Angina,"chest tightness,shortness of breath,chest pain,dizziness,fatigue",High
+Angina,"dizziness,chest tightness,fatigue,chest pain",High
+Angina,"chest tightness,shortness of breath,chest pain,dizziness,fatigue",High
+Angina,"chest tightness,dizziness,fatigue,chest pain,shortness of breath",High
+Angina,"chest pain,chest tightness,dizziness,shortness of breath",High
+Angina,"dizziness,chest tightness,chest pain,shortness of breath",High
+Angina,"chest tightness,chest pain,shortness of breath,dizziness",High
+Angina,"fatigue,chest tightness,chest pain",High
+Angina,"dizziness,chest tightness,chest pain",High
+Angina,"chest tightness,shortness of breath,dizziness,chest pain,fatigue",High
+Angina,"dizziness,chest tightness,fatigue,chest pain,shortness of breath",High
+Angina,"dizziness,fatigue,chest pain,chest tightness",High
+Angina,"fatigue,chest pain,chest tightness,shortness of breath",High
+Angina,"dizziness,chest pain,chest tightness",High
+Angina,"fatigue,chest tightness,chest pain,shortness of breath,dizziness",High
+Angina,"chest tightness,fatigue,shortness of breath,chest pain,dizziness",High
+Angina,"fatigue,chest tightness,shortness of breath,chest pain",High
+Angina,"chest tightness,chest pain,fatigue,dizziness",High
+Angina,"shortness of breath,chest tightness,fatigue,dizziness,chest pain",High
+Angina,"shortness of breath,chest tightness,chest pain",High
+Angina,"chest pain,chest tightness,shortness of breath",High
+Angina,"dizziness,chest tightness,shortness of breath,chest pain",High
+Angina,"chest pain,shortness of breath,chest tightness,fatigue",High
+Angina,"chest tightness,shortness of breath,chest pain",High
+Angina,"dizziness,fatigue,chest tightness,chest pain",High
+Angina,"chest pain,dizziness,chest tightness,fatigue,shortness of breath",High
+Angina,"chest pain,chest tightness,dizziness,fatigue,shortness of breath",High
+Angina,"chest tightness,chest pain,fatigue,dizziness",High
+Angina,"fatigue,dizziness,shortness of breath,chest tightness,chest pain",High
+Angina,"chest pain,chest tightness,dizziness",High
+Angina,"chest pain,fatigue,shortness of breath,chest tightness",High
+Angina,"chest pain,chest tightness,shortness of breath,dizziness,fatigue",High
+Angina,"chest tightness,dizziness,chest pain",High
+Angina,"shortness of breath,chest pain,dizziness,fatigue,chest tightness",High
+Angina,"chest pain,shortness of breath,chest tightness",High
+Angina,"chest pain,dizziness,shortness of breath,chest tightness",High
+Angina,"shortness of breath,chest tightness,chest pain",High
+Angina,"fatigue,dizziness,chest tightness,shortness of breath,chest pain",High
+Angina,"chest pain,fatigue,chest tightness",High
+Angina,"dizziness,chest pain,chest tightness",High
+Angina,"chest pain,dizziness,chest tightness,fatigue,shortness of breath",High
+Angina,"chest pain,fatigue,shortness of breath,chest tightness,dizziness",High
+Angina,"chest tightness,shortness of breath,chest pain",High
+Angina,"chest tightness,chest pain,dizziness,fatigue",High
+Angina,"chest pain,shortness of breath,chest tightness,dizziness",High
+Angina,"chest pain,dizziness,shortness of breath,fatigue,chest tightness",High
+Angina,"chest pain,fatigue,chest tightness",High
+Angina,"fatigue,chest tightness,dizziness,chest pain",High
+Angina,"chest tightness,chest pain,shortness of breath",High
+Angina,"chest pain,chest tightness,fatigue",High
+Heart Failure,"fatigue,shortness of breath,persistent cough,swelling",High
+Heart Failure,"shortness of breath,persistent cough,fatigue",High
+Heart Failure,"chest pain,fatigue,swelling,shortness of breath",High
+Heart Failure,"fatigue,chest pain,persistent cough,shortness of breath",High
+Heart Failure,"persistent cough,chest pain,shortness of breath,fatigue",High
+Heart Failure,"chest pain,fatigue,shortness of breath,swelling",High
+Heart Failure,"shortness of breath,persistent cough,fatigue,swelling",High
+Heart Failure,"fatigue,swelling,shortness of breath",High
+Heart Failure,"shortness of breath,fatigue,swelling,persistent cough,chest pain",High
+Heart Failure,"chest pain,shortness of breath,fatigue",High
+Heart Failure,"persistent cough,chest pain,fatigue,swelling,shortness of breath",High
+Heart Failure,"shortness of breath,chest pain,fatigue",High
+Heart Failure,"persistent cough,chest pain,shortness of breath,fatigue",High
+Heart Failure,"chest pain,persistent cough,shortness of breath,fatigue",High
+Heart Failure,"chest pain,persistent cough,fatigue,shortness of breath",High
+Heart Failure,"chest pain,persistent cough,shortness of breath,fatigue",High
+Heart Failure,"chest pain,shortness of breath,fatigue,persistent cough",High
+Heart Failure,"persistent cough,fatigue,shortness of breath",High
+Heart Failure,"shortness of breath,fatigue,persistent cough",High
+Heart Failure,"chest pain,swelling,fatigue,persistent cough,shortness of breath",High
+Heart Failure,"chest pain,fatigue,shortness of breath",High
+Heart Failure,"fatigue,chest pain,shortness of breath",High
+Heart Failure,"fatigue,shortness of breath,persistent cough",High
+Heart Failure,"fatigue,persistent cough,shortness of breath,chest pain,swelling",High
+Heart Failure,"shortness of breath,persistent cough,fatigue,swelling,chest pain",High
+Heart Failure,"fatigue,shortness of breath,swelling",High
+Heart Failure,"shortness of breath,swelling,chest pain,fatigue,persistent cough",High
+Heart Failure,"fatigue,shortness of breath,persistent cough",High
+Heart Failure,"shortness of breath,fatigue,swelling",High
+Heart Failure,"chest pain,persistent cough,shortness of breath,swelling,fatigue",High
+Heart Failure,"fatigue,chest pain,shortness of breath,swelling",High
+Heart Failure,"swelling,shortness of breath,chest pain,persistent cough,fatigue",High
+Heart Failure,"persistent cough,swelling,chest pain,fatigue,shortness of breath",High
+Heart Failure,"shortness of breath,fatigue,chest pain",High
+Heart Failure,"fatigue,swelling,chest pain,persistent cough,shortness of breath",High
+Heart Failure,"fatigue,swelling,shortness of breath,persistent cough",High
+Heart Failure,"fatigue,swelling,shortness of breath,chest pain",High
+Heart Failure,"shortness of breath,chest pain,fatigue,swelling,persistent cough",High
+Heart Failure,"fatigue,swelling,shortness of breath",High
+Heart Failure,"fatigue,shortness of breath,swelling,persistent cough",High
+Heart Failure,"swelling,chest pain,fatigue,shortness of breath",High
+Heart Failure,"fatigue,shortness of breath,chest pain,persistent cough",High
+Heart Failure,"persistent cough,chest pain,swelling,shortness of breath,fatigue",High
+Heart Failure,"chest pain,fatigue,shortness of breath",High
+Heart Failure,"persistent cough,fatigue,shortness of breath",High
+Heart Failure,"fatigue,shortness of breath,swelling",High
+Heart Failure,"shortness of breath,swelling,fatigue",High
+Heart Failure,"fatigue,shortness of breath,persistent cough,chest pain",High
+Heart Failure,"fatigue,persistent cough,swelling,shortness of breath,chest pain",High
+Heart Failure,"chest pain,swelling,persistent cough,shortness of breath,fatigue",High
+Arrhythmia,"palpitations,dizziness,shortness of breath,chest pain",Medium
+Arrhythmia,"fainting,chest pain,dizziness,palpitations",Medium
+Arrhythmia,"shortness of breath,chest pain,palpitations,dizziness",Medium
+Arrhythmia,"palpitations,chest pain,dizziness",Medium
+Arrhythmia,"chest pain,palpitations,dizziness,shortness of breath",Medium
+Arrhythmia,"palpitations,shortness of breath,dizziness",Medium
+Arrhythmia,"dizziness,chest pain,palpitations,fainting",Medium
+Arrhythmia,"palpitations,chest pain,dizziness,fainting",Medium
+Arrhythmia,"chest pain,dizziness,shortness of breath,palpitations",Medium
+Arrhythmia,"shortness of breath,fainting,palpitations,chest pain,dizziness",Medium
+Arrhythmia,"shortness of breath,dizziness,palpitations,chest pain",Medium
+Arrhythmia,"dizziness,palpitations,shortness of breath",Medium
+Arrhythmia,"chest pain,fainting,dizziness,shortness of breath,palpitations",Medium
+Arrhythmia,"palpitations,dizziness,fainting",Medium
+Arrhythmia,"chest pain,palpitations,shortness of breath,dizziness",Medium
+Arrhythmia,"chest pain,fainting,dizziness,palpitations",Medium
+Arrhythmia,"palpitations,shortness of breath,dizziness",Medium
+Arrhythmia,"fainting,palpitations,chest pain,shortness of breath,dizziness",Medium
+Arrhythmia,"shortness of breath,palpitations,fainting,chest pain,dizziness",Medium
+Arrhythmia,"dizziness,fainting,palpitations",Medium
+Arrhythmia,"fainting,shortness of breath,palpitations,chest pain,dizziness",Medium
+Arrhythmia,"shortness of breath,chest pain,fainting,palpitations,dizziness",Medium
+Arrhythmia,"palpitations,chest pain,fainting,dizziness,shortness of breath",Medium
+Arrhythmia,"chest pain,dizziness,palpitations",Medium
+Arrhythmia,"chest pain,fainting,shortness of breath,palpitations,dizziness",Medium
+Arrhythmia,"dizziness,chest pain,palpitations",Medium
+Arrhythmia,"shortness of breath,dizziness,palpitations,chest pain,fainting",Medium
+Arrhythmia,"palpitations,dizziness,shortness of breath,chest pain",Medium
+Arrhythmia,"chest pain,dizziness,palpitations,fainting",Medium
+Arrhythmia,"dizziness,palpitations,fainting",Medium
+Arrhythmia,"shortness of breath,palpitations,chest pain,fainting,dizziness",Medium
+Arrhythmia,"dizziness,palpitations,shortness of breath",Medium
+Arrhythmia,"palpitations,dizziness,fainting,chest pain,shortness of breath",Medium
+Arrhythmia,"chest pain,dizziness,shortness of breath,fainting,palpitations",Medium
+Arrhythmia,"palpitations,fainting,dizziness,shortness of breath",Medium
+Arrhythmia,"palpitations,fainting,dizziness",Medium
+Arrhythmia,"dizziness,fainting,palpitations",Medium
+Arrhythmia,"palpitations,dizziness,shortness of breath",Medium
+Arrhythmia,"fainting,palpitations,chest pain,shortness of breath,dizziness",Medium
+Arrhythmia,"palpitations,dizziness,shortness of breath",Medium
+Arrhythmia,"dizziness,fainting,chest pain,shortness of breath,palpitations",Medium
+Arrhythmia,"fainting,dizziness,palpitations",Medium
+Arrhythmia,"shortness of breath,fainting,chest pain,palpitations,dizziness",Medium
+Arrhythmia,"shortness of breath,palpitations,dizziness",Medium
+Arrhythmia,"chest pain,palpitations,dizziness,fainting",Medium
+Arrhythmia,"dizziness,fainting,palpitations,chest pain,shortness of breath",Medium
+Arrhythmia,"dizziness,shortness of breath,chest pain,palpitations,fainting",Medium
+Arrhythmia,"fainting,palpitations,dizziness,chest pain,shortness of breath",Medium
+Arrhythmia,"shortness of breath,chest pain,dizziness,fainting,palpitations",Medium
+Arrhythmia,"fainting,dizziness,shortness of breath,palpitations",Medium
+Stroke,"difficulty speaking,numbness,paralysis,loss of balance,confusion,blurred vision",Critical
+Stroke,"difficulty speaking,numbness,loss of balance",Critical
+Stroke,"numbness,loss of balance,blurred vision,paralysis,confusion,difficulty speaking",Critical
+Stroke,"difficulty speaking,paralysis,confusion,blurred vision,numbness",Critical
+Stroke,"numbness,loss of balance,paralysis,difficulty speaking,blurred vision",Critical
+Stroke,"loss of balance,numbness,difficulty speaking",Critical
+Stroke,"difficulty speaking,confusion,paralysis,blurred vision,numbness",Critical
+Stroke,"blurred vision,paralysis,difficulty speaking,numbness",Critical
+Stroke,"paralysis,confusion,blurred vision,loss of balance,numbness,difficulty speaking",Critical
+Stroke,"numbness,confusion,difficulty speaking",Critical
+Stroke,"confusion,blurred vision,difficulty speaking,numbness,paralysis,loss of balance",Critical
+Stroke,"loss of balance,paralysis,confusion,blurred vision,difficulty speaking,numbness",Critical
+Stroke,"numbness,loss of balance,confusion,paralysis,difficulty speaking,blurred vision",Critical
+Stroke,"blurred vision,loss of balance,difficulty speaking,numbness,paralysis,confusion",Critical
+Stroke,"blurred vision,confusion,difficulty speaking,paralysis,numbness",Critical
+Stroke,"numbness,difficulty speaking,loss of balance",Critical
+Stroke,"loss of balance,numbness,difficulty speaking,blurred vision,confusion",Critical
+Stroke,"blurred vision,loss of balance,numbness,paralysis,difficulty speaking",Critical
+Stroke,"blurred vision,loss of balance,confusion,difficulty speaking,numbness",Critical
+Stroke,"numbness,difficulty speaking,confusion,loss of balance",Critical
+Stroke,"difficulty speaking,paralysis,confusion,blurred vision,numbness,loss of balance",Critical
+Stroke,"confusion,numbness,paralysis,loss of balance,blurred vision,difficulty speaking",Critical
+Stroke,"confusion,paralysis,blurred vision,numbness,difficulty speaking,loss of balance",Critical
+Stroke,"paralysis,blurred vision,loss of balance,numbness,difficulty speaking,confusion",Critical
+Stroke,"confusion,difficulty speaking,numbness",Critical
+Stroke,"loss of balance,numbness,confusion,difficulty speaking",Critical
+Stroke,"blurred vision,numbness,difficulty speaking",Critical
+Stroke,"numbness,difficulty speaking,loss of balance",Critical
+Stroke,"paralysis,confusion,difficulty speaking,numbness",Critical
+Stroke,"numbness,confusion,difficulty speaking,loss of balance",Critical
+Stroke,"numbness,difficulty speaking,confusion",Critical
+Stroke,"difficulty speaking,numbness,paralysis,confusion,loss of balance,blurred vision",Critical
+Stroke,"difficulty speaking,numbness,loss of balance,blurred vision",Critical
+Stroke,"numbness,loss of balance,difficulty speaking,confusion,paralysis",Critical
+Stroke,"confusion,difficulty speaking,numbness,blurred vision",Critical
+Stroke,"loss of balance,numbness,difficulty speaking,blurred vision,paralysis,confusion",Critical
+Stroke,"difficulty speaking,numbness,loss of balance,blurred vision",Critical
+Stroke,"numbness,confusion,difficulty speaking,paralysis",Critical
+Stroke,"numbness,blurred vision,difficulty speaking,loss of balance,confusion",Critical
+Stroke,"difficulty speaking,numbness,loss of balance,blurred vision,paralysis,confusion",Critical
+Stroke,"loss of balance,numbness,difficulty speaking,confusion",Critical
+Stroke,"paralysis,numbness,confusion,difficulty speaking",Critical
+Stroke,"numbness,difficulty speaking,loss of balance,paralysis",Critical
+Stroke,"loss of balance,numbness,difficulty speaking,paralysis,confusion",Critical
+Stroke,"numbness,confusion,paralysis,difficulty speaking",Critical
+Stroke,"loss of balance,difficulty speaking,numbness",Critical
+Stroke,"blurred vision,numbness,difficulty speaking,confusion",Critical
+Stroke,"numbness,blurred vision,difficulty speaking",Critical
+Stroke,"difficulty speaking,confusion,loss of balance,numbness,paralysis,blurred vision",Critical
+Stroke,"numbness,blurred vision,difficulty speaking,confusion",Critical
+Epilepsy,"memory loss,confusion,loss of consciousness,fatigue,seizures",High
+Epilepsy,"loss of consciousness,confusion,fatigue,memory loss,seizures",High
+Epilepsy,"fatigue,seizures,confusion",High
+Epilepsy,"seizures,memory loss,confusion",High
+Epilepsy,"fatigue,memory loss,loss of consciousness,confusion,seizures",High
+Epilepsy,"fatigue,memory loss,confusion,seizures",High
+Epilepsy,"confusion,loss of consciousness,memory loss,seizures",High
+Epilepsy,"fatigue,seizures,confusion",High
+Epilepsy,"memory loss,seizures,confusion",High
+Epilepsy,"seizures,fatigue,confusion,memory loss,loss of consciousness",High
+Epilepsy,"fatigue,confusion,loss of consciousness,seizures,memory loss",High
+Epilepsy,"confusion,seizures,loss of consciousness,memory loss",High
+Epilepsy,"memory loss,confusion,loss of consciousness,seizures,fatigue",High
+Epilepsy,"fatigue,confusion,seizures,loss of consciousness,memory loss",High
+Epilepsy,"fatigue,seizures,loss of consciousness,confusion,memory loss",High
+Epilepsy,"loss of consciousness,confusion,seizures",High
+Epilepsy,"seizures,loss of consciousness,fatigue,memory loss,confusion",High
+Epilepsy,"confusion,seizures,memory loss",High
+Epilepsy,"seizures,fatigue,confusion,loss of consciousness",High
+Epilepsy,"fatigue,confusion,seizures,memory loss,loss of consciousness",High
+Epilepsy,"seizures,memory loss,confusion,loss of consciousness",High
+Epilepsy,"seizures,memory loss,confusion,fatigue,loss of consciousness",High
+Epilepsy,"fatigue,confusion,seizures",High
+Epilepsy,"fatigue,seizures,confusion,loss of consciousness",High
+Epilepsy,"memory loss,confusion,seizures,fatigue,loss of consciousness",High
+Epilepsy,"loss of consciousness,seizures,confusion",High
+Epilepsy,"fatigue,seizures,memory loss,confusion,loss of consciousness",High
+Epilepsy,"seizures,confusion,loss of consciousness",High
+Epilepsy,"confusion,fatigue,loss of consciousness,seizures",High
+Epilepsy,"loss of consciousness,memory loss,seizures,confusion,fatigue",High
+Epilepsy,"loss of consciousness,seizures,memory loss,confusion,fatigue",High
+Epilepsy,"seizures,fatigue,confusion",High
+Epilepsy,"fatigue,seizures,confusion",High
+Epilepsy,"loss of consciousness,seizures,confusion",High
+Epilepsy,"confusion,loss of consciousness,seizures",High
+Epilepsy,"loss of consciousness,fatigue,confusion,seizures",High
+Epilepsy,"loss of consciousness,seizures,memory loss,confusion",High
+Epilepsy,"loss of consciousness,confusion,fatigue,seizures",High
+Epilepsy,"seizures,loss of consciousness,memory loss,confusion,fatigue",High
+Epilepsy,"memory loss,fatigue,loss of consciousness,seizures,confusion",High
+Epilepsy,"confusion,loss of consciousness,seizures",High
+Epilepsy,"memory loss,loss of consciousness,seizures,fatigue,confusion",High
+Epilepsy,"confusion,memory loss,seizures",High
+Epilepsy,"seizures,memory loss,confusion,loss of consciousness",High
+Epilepsy,"confusion,seizures,memory loss,fatigue",High
+Epilepsy,"seizures,confusion,loss of consciousness",High
+Epilepsy,"loss of consciousness,fatigue,confusion,seizures,memory loss",High
+Epilepsy,"confusion,fatigue,memory loss,seizures",High
+Epilepsy,"memory loss,seizures,confusion",High
+Epilepsy,"loss of consciousness,confusion,fatigue,memory loss,seizures",High
+Parkinson's Disease,"tremors,difficulty walking,muscle stiffness,loss of balance",High
+Parkinson's Disease,"muscle stiffness,difficulty walking,tremors,loss of balance",High
+Parkinson's Disease,"tremors,loss of balance,difficulty walking",High
+Parkinson's Disease,"loss of balance,difficulty walking,muscle stiffness,tremors",High
+Parkinson's Disease,"muscle stiffness,difficulty walking,tremors",High
+Parkinson's Disease,"difficulty walking,loss of balance,muscle stiffness,tremors",High
+Parkinson's Disease,"muscle stiffness,tremors,loss of balance,difficulty walking",High
+Parkinson's Disease,"loss of balance,difficulty walking,tremors",High
+Parkinson's Disease,"muscle stiffness,difficulty walking,tremors",High
+Parkinson's Disease,"loss of balance,difficulty walking,tremors,muscle stiffness",High
+Parkinson's Disease,"difficulty walking,muscle stiffness,tremors",High
+Parkinson's Disease,"muscle stiffness,difficulty walking,tremors",High
+Parkinson's Disease,"tremors,muscle stiffness,difficulty walking",High
+Parkinson's Disease,"muscle stiffness,tremors,loss of balance,difficulty walking",High
+Parkinson's Disease,"tremors,muscle stiffness,difficulty walking",High
+Parkinson's Disease,"muscle stiffness,tremors,difficulty walking,loss of balance",High
+Parkinson's Disease,"loss of balance,tremors,difficulty walking",High
+Parkinson's Disease,"tremors,difficulty walking,loss of balance,muscle stiffness",High
+Parkinson's Disease,"muscle stiffness,loss of balance,difficulty walking,tremors",High
+Parkinson's Disease,"difficulty walking,tremors,muscle stiffness,loss of balance",High
+Parkinson's Disease,"difficulty walking,tremors,muscle stiffness",High
+Parkinson's Disease,"tremors,difficulty walking,loss of balance",High
+Parkinson's Disease,"loss of balance,tremors,muscle stiffness,difficulty walking",High
+Parkinson's Disease,"tremors,loss of balance,difficulty walking",High
+Parkinson's Disease,"tremors,muscle stiffness,difficulty walking",High
+Parkinson's Disease,"loss of balance,difficulty walking,muscle stiffness,tremors",High
+Parkinson's Disease,"loss of balance,tremors,muscle stiffness,difficulty walking",High
+Parkinson's Disease,"loss of balance,difficulty walking,muscle stiffness,tremors",High
+Parkinson's Disease,"tremors,difficulty walking,muscle stiffness,loss of balance",High
+Parkinson's Disease,"difficulty walking,muscle stiffness,tremors",High
+Parkinson's Disease,"muscle stiffness,tremors,difficulty walking",High
+Parkinson's Disease,"tremors,loss of balance,difficulty walking,muscle stiffness",High
+Parkinson's Disease,"difficulty walking,loss of balance,tremors,muscle stiffness",High
+Parkinson's Disease,"muscle stiffness,difficulty walking,tremors,loss of balance",High
+Parkinson's Disease,"muscle stiffness,loss of balance,difficulty walking,tremors",High
+Parkinson's Disease,"difficulty walking,loss of balance,tremors",High
+Parkinson's Disease,"difficulty walking,loss of balance,muscle stiffness,tremors",High
+Parkinson's Disease,"difficulty walking,muscle stiffness,tremors",High
+Parkinson's Disease,"loss of balance,difficulty walking,muscle stiffness,tremors",High
+Parkinson's Disease,"loss of balance,muscle stiffness,difficulty walking,tremors",High
+Parkinson's Disease,"difficulty walking,muscle stiffness,loss of balance,tremors",High
+Parkinson's Disease,"tremors,loss of balance,difficulty walking",High
+Parkinson's Disease,"tremors,difficulty walking,loss of balance,muscle stiffness",High
+Parkinson's Disease,"loss of balance,muscle stiffness,difficulty walking,tremors",High
+Parkinson's Disease,"loss of balance,tremors,difficulty walking",High
+Parkinson's Disease,"muscle stiffness,loss of balance,tremors,difficulty walking",High
+Parkinson's Disease,"tremors,difficulty walking,loss of balance",High
+Parkinson's Disease,"muscle stiffness,difficulty walking,tremors",High
+Parkinson's Disease,"difficulty walking,loss of balance,muscle stiffness,tremors",High
+Parkinson's Disease,"muscle stiffness,tremors,difficulty walking",High
+Alzheimer's Disease,"memory loss,confusion,difficulty walking",High
+Alzheimer's Disease,"confusion,memory loss,difficulty speaking",High
+Alzheimer's Disease,"memory loss,difficulty speaking,confusion",High
+Alzheimer's Disease,"difficulty speaking,memory loss,confusion",High
+Alzheimer's Disease,"difficulty walking,memory loss,confusion",High
+Alzheimer's Disease,"memory loss,difficulty speaking,confusion,difficulty walking",High
+Alzheimer's Disease,"memory loss,confusion,difficulty walking",High
+Alzheimer's Disease,"difficulty speaking,memory loss,confusion",High
+Alzheimer's Disease,"difficulty speaking,memory loss,difficulty walking,confusion",High
+Alzheimer's Disease,"confusion,difficulty speaking,memory loss,difficulty walking",High
+Alzheimer's Disease,"difficulty walking,confusion,memory loss,difficulty speaking",High
+Alzheimer's Disease,"difficulty speaking,memory loss,confusion,difficulty walking",High
+Alzheimer's Disease,"confusion,memory loss,difficulty walking,difficulty speaking",High
+Alzheimer's Disease,"memory loss,difficulty speaking,confusion",High
+Alzheimer's Disease,"confusion,difficulty speaking,memory loss",High
+Alzheimer's Disease,"memory loss,difficulty walking,confusion,difficulty speaking",High
+Alzheimer's Disease,"confusion,memory loss,difficulty walking",High
+Alzheimer's Disease,"memory loss,confusion,difficulty speaking,difficulty walking",High
+Alzheimer's Disease,"confusion,memory loss,difficulty walking",High
+Alzheimer's Disease,"memory loss,difficulty speaking,difficulty walking,confusion",High
+Alzheimer's Disease,"difficulty speaking,memory loss,difficulty walking,confusion",High
+Alzheimer's Disease,"confusion,memory loss,difficulty walking,difficulty speaking",High
+Alzheimer's Disease,"memory loss,difficulty speaking,confusion",High
+Alzheimer's Disease,"difficulty speaking,memory loss,confusion",High
+Alzheimer's Disease,"confusion,difficulty walking,memory loss",High
+Alzheimer's Disease,"confusion,difficulty speaking,difficulty walking,memory loss",High
+Alzheimer's Disease,"difficulty walking,confusion,memory loss,difficulty speaking",High
+Alzheimer's Disease,"memory loss,difficulty walking,confusion,difficulty speaking",High
+Alzheimer's Disease,"confusion,memory loss,difficulty walking",High
+Alzheimer's Disease,"memory loss,difficulty speaking,difficulty walking,confusion",High
+Alzheimer's Disease,"memory loss,difficulty walking,difficulty speaking,confusion",High
+Alzheimer's Disease,"difficulty walking,difficulty speaking,memory loss,confusion",High
+Alzheimer's Disease,"memory loss,difficulty speaking,confusion",High
+Alzheimer's Disease,"confusion,difficulty speaking,memory loss",High
+Alzheimer's Disease,"confusion,memory loss,difficulty walking",High
+Alzheimer's Disease,"confusion,difficulty walking,difficulty speaking,memory loss",High
+Alzheimer's Disease,"difficulty speaking,confusion,memory loss,difficulty walking",High
+Alzheimer's Disease,"difficulty speaking,confusion,memory loss",High
+Alzheimer's Disease,"confusion,difficulty speaking,memory loss",High
+Alzheimer's Disease,"difficulty walking,confusion,difficulty speaking,memory loss",High
+Alzheimer's Disease,"difficulty walking,memory loss,confusion",High
+Alzheimer's Disease,"confusion,memory loss,difficulty walking",High
+Alzheimer's Disease,"confusion,memory loss,difficulty speaking,difficulty walking",High
+Alzheimer's Disease,"memory loss,difficulty speaking,confusion,difficulty walking",High
+Alzheimer's Disease,"difficulty speaking,memory loss,confusion,difficulty walking",High
+Alzheimer's Disease,"difficulty speaking,confusion,memory loss",High
+Alzheimer's Disease,"confusion,difficulty speaking,difficulty walking,memory loss",High
+Alzheimer's Disease,"difficulty walking,confusion,difficulty speaking,memory loss",High
+Alzheimer's Disease,"difficulty walking,difficulty speaking,confusion,memory loss",High
+Alzheimer's Disease,"memory loss,difficulty speaking,confusion",High
+Multiple Sclerosis,"tingling,numbness,fatigue",High
+Multiple Sclerosis,"blurred vision,numbness,loss of balance,fatigue,tingling",High
+Multiple Sclerosis,"numbness,loss of balance,tingling,fatigue",High
+Multiple Sclerosis,"fatigue,tingling,numbness",High
+Multiple Sclerosis,"blurred vision,tingling,loss of balance,fatigue,numbness",High
+Multiple Sclerosis,"fatigue,tingling,numbness",High
+Multiple Sclerosis,"blurred vision,tingling,numbness,loss of balance",High
+Multiple Sclerosis,"loss of balance,fatigue,numbness,tingling,blurred vision",High
+Multiple Sclerosis,"blurred vision,tingling,numbness",High
+Multiple Sclerosis,"loss of balance,numbness,tingling",High
+Multiple Sclerosis,"blurred vision,tingling,fatigue,numbness",High
+Multiple Sclerosis,"tingling,numbness,loss of balance,blurred vision",High
+Multiple Sclerosis,"tingling,blurred vision,numbness,fatigue",High
+Multiple Sclerosis,"tingling,blurred vision,numbness",High
+Multiple Sclerosis,"tingling,numbness,blurred vision",High
+Multiple Sclerosis,"numbness,loss of balance,blurred vision,tingling",High
+Multiple Sclerosis,"numbness,loss of balance,blurred vision,tingling,fatigue",High
+Multiple Sclerosis,"fatigue,loss of balance,numbness,tingling",High
+Multiple Sclerosis,"numbness,tingling,blurred vision,loss of balance",High
+Multiple Sclerosis,"fatigue,numbness,tingling",High
+Multiple Sclerosis,"fatigue,blurred vision,tingling,loss of balance,numbness",High
+Multiple Sclerosis,"numbness,loss of balance,blurred vision,tingling",High
+Multiple Sclerosis,"fatigue,tingling,numbness",High
+Multiple Sclerosis,"tingling,fatigue,numbness,loss of balance,blurred vision",High
+Multiple Sclerosis,"tingling,fatigue,numbness,blurred vision,loss of balance",High
+Multiple Sclerosis,"numbness,fatigue,tingling",High
+Multiple Sclerosis,"numbness,loss of balance,tingling,blurred vision",High
+Multiple Sclerosis,"numbness,fatigue,loss of balance,tingling,blurred vision",High
+Multiple Sclerosis,"loss of balance,tingling,numbness",High
+Multiple Sclerosis,"numbness,fatigue,loss of balance,tingling",High
+Multiple Sclerosis,"tingling,fatigue,numbness,blurred vision",High
+Multiple Sclerosis,"numbness,tingling,loss of balance,fatigue,blurred vision",High
+Multiple Sclerosis,"blurred vision,tingling,numbness",High
+Multiple Sclerosis,"tingling,numbness,fatigue,loss of balance,blurred vision",High
+Multiple Sclerosis,"blurred vision,numbness,tingling",High
+Multiple Sclerosis,"tingling,numbness,blurred vision,loss of balance",High
+Multiple Sclerosis,"numbness,loss of balance,tingling",High
+Multiple Sclerosis,"fatigue,blurred vision,tingling,numbness",High
+Multiple Sclerosis,"fatigue,tingling,numbness,loss of balance,blurred vision",High
+Multiple Sclerosis,"numbness,tingling,blurred vision,fatigue",High
+Multiple Sclerosis,"numbness,loss of balance,fatigue,tingling",High
+Multiple Sclerosis,"fatigue,tingling,numbness,blurred vision",High
+Multiple Sclerosis,"blurred vision,fatigue,tingling,numbness,loss of balance",High
+Multiple Sclerosis,"tingling,numbness,blurred vision,loss of balance,fatigue",High
+Multiple Sclerosis,"tingling,numbness,loss of balance",High
+Multiple Sclerosis,"loss of balance,numbness,tingling",High
+Multiple Sclerosis,"loss of balance,tingling,blurred vision,numbness",High
+Multiple Sclerosis,"loss of balance,fatigue,tingling,numbness",High
+Multiple Sclerosis,"blurred vision,tingling,fatigue,numbness",High
+Multiple Sclerosis,"tingling,loss of balance,numbness",High
+Meningitis,"confusion,headache,stiff neck,high fever",Critical
+Meningitis,"headache,vomiting,confusion,stiff neck,high fever",Critical
+Meningitis,"high fever,stiff neck,headache",Critical
+Meningitis,"confusion,headache,high fever,vomiting,stiff neck",Critical
+Meningitis,"stiff neck,confusion,headache,vomiting,high fever",Critical
+Meningitis,"high fever,vomiting,headache",Critical
+Meningitis,"high fever,vomiting,headache",Critical
+Meningitis,"stiff neck,headache,high fever",Critical
+Meningitis,"headache,high fever,vomiting",Critical
+Meningitis,"stiff neck,high fever,confusion,headache",Critical
+Meningitis,"headache,high fever,confusion,vomiting",Critical
+Meningitis,"headache,vomiting,high fever,confusion",Critical
+Meningitis,"headache,confusion,high fever,stiff neck,vomiting",Critical
+Meningitis,"high fever,confusion,headache,vomiting",Critical
+Meningitis,"confusion,headache,vomiting,high fever",Critical
+Meningitis,"stiff neck,confusion,high fever,headache",Critical
+Meningitis,"high fever,vomiting,headache",Critical
+Meningitis,"high fever,headache,vomiting,stiff neck,confusion",Critical
+Meningitis,"headache,high fever,stiff neck",Critical
+Meningitis,"headache,high fever,confusion,vomiting,stiff neck",Critical
+Meningitis,"headache,stiff neck,high fever,vomiting",Critical
+Meningitis,"stiff neck,headache,high fever",Critical
+Meningitis,"vomiting,headache,stiff neck,high fever,confusion",Critical
+Meningitis,"vomiting,headache,high fever",Critical
+Meningitis,"confusion,vomiting,headache,high fever",Critical
+Meningitis,"stiff neck,confusion,headache,high fever",Critical
+Meningitis,"headache,vomiting,confusion,stiff neck,high fever",Critical
+Meningitis,"high fever,headache,stiff neck,vomiting",Critical
+Meningitis,"confusion,vomiting,high fever,stiff neck,headache",Critical
+Meningitis,"headache,high fever,vomiting",Critical
+Meningitis,"headache,confusion,high fever,vomiting",Critical
+Meningitis,"confusion,headache,vomiting,high fever,stiff neck",Critical
+Meningitis,"high fever,vomiting,headache,confusion,stiff neck",Critical
+Meningitis,"stiff neck,headache,vomiting,high fever,confusion",Critical
+Meningitis,"confusion,stiff neck,headache,vomiting,high fever",Critical
+Meningitis,"stiff neck,headache,high fever,confusion",Critical
+Meningitis,"headache,confusion,stiff neck,vomiting,high fever",Critical
+Meningitis,"high fever,headache,vomiting,stiff neck",Critical
+Meningitis,"vomiting,headache,high fever",Critical
+Meningitis,"confusion,vomiting,headache,high fever,stiff neck",Critical
+Meningitis,"headache,high fever,stiff neck,confusion,vomiting",Critical
+Meningitis,"vomiting,headache,confusion,high fever,stiff neck",Critical
+Meningitis,"stiff neck,headache,confusion,high fever,vomiting",Critical
+Meningitis,"confusion,headache,high fever",Critical
+Meningitis,"confusion,vomiting,headache,high fever,stiff neck",Critical
+Meningitis,"headache,vomiting,high fever",Critical
+Meningitis,"vomiting,headache,confusion,stiff neck,high fever",Critical
+Meningitis,"headache,confusion,high fever",Critical
+Meningitis,"high fever,vomiting,confusion,stiff neck,headache",Critical
+Meningitis,"vomiting,headache,high fever",Critical
+Hyperthyroidism,"increased appetite,weight loss,fatigue",Medium
+Hyperthyroidism,"fatigue,weight loss,increased appetite,sweating",Medium
+Hyperthyroidism,"increased appetite,tremors,weight loss,fatigue",Medium
+Hyperthyroidism,"increased appetite,sweating,fatigue,weight loss",Medium
+Hyperthyroidism,"weight loss,tremors,increased appetite",Medium
+Hyperthyroidism,"weight loss,fatigue,increased appetite",Medium
+Hyperthyroidism,"weight loss,sweating,increased appetite,tremors",Medium
+Hyperthyroidism,"sweating,increased appetite,weight loss",Medium
+Hyperthyroidism,"fatigue,weight loss,sweating,increased appetite",Medium
+Hyperthyroidism,"increased appetite,weight loss,tremors,sweating",Medium
+Hyperthyroidism,"weight loss,increased appetite,sweating,tremors",Medium
+Hyperthyroidism,"sweating,tremors,increased appetite,weight loss",Medium
+Hyperthyroidism,"increased appetite,sweating,weight loss,tremors",Medium
+Hyperthyroidism,"weight loss,increased appetite,sweating,fatigue",Medium
+Hyperthyroidism,"fatigue,sweating,increased appetite,tremors,weight loss",Medium
+Hyperthyroidism,"increased appetite,sweating,fatigue,tremors,weight loss",Medium
+Hyperthyroidism,"increased appetite,tremors,fatigue,weight loss,sweating",Medium
+Hyperthyroidism,"fatigue,increased appetite,weight loss",Medium
+Hyperthyroidism,"increased appetite,weight loss,tremors",Medium
+Hyperthyroidism,"increased appetite,weight loss,fatigue",Medium
+Hyperthyroidism,"weight loss,increased appetite,fatigue",Medium
+Hyperthyroidism,"sweating,fatigue,weight loss,increased appetite,tremors",Medium
+Hyperthyroidism,"weight loss,increased appetite,tremors",Medium
+Hyperthyroidism,"weight loss,tremors,increased appetite",Medium
+Hyperthyroidism,"weight loss,sweating,fatigue,increased appetite",Medium
+Hyperthyroidism,"sweating,weight loss,tremors,increased appetite",Medium
+Hyperthyroidism,"weight loss,tremors,fatigue,increased appetite,sweating",Medium
+Hyperthyroidism,"increased appetite,sweating,fatigue,weight loss",Medium
+Hyperthyroidism,"fatigue,sweating,tremors,weight loss,increased appetite",Medium
+Hyperthyroidism,"increased appetite,weight loss,fatigue",Medium
+Hyperthyroidism,"sweating,weight loss,increased appetite",Medium
+Hyperthyroidism,"weight loss,increased appetite,tremors,sweating",Medium
+Hyperthyroidism,"weight loss,increased appetite,fatigue",Medium
+Hyperthyroidism,"sweating,increased appetite,weight loss,tremors",Medium
+Hyperthyroidism,"increased appetite,weight loss,sweating",Medium
+Hyperthyroidism,"weight loss,fatigue,sweating,increased appetite",Medium
+Hyperthyroidism,"sweating,tremors,increased appetite,weight loss,fatigue",Medium
+Hyperthyroidism,"weight loss,fatigue,increased appetite,tremors",Medium
+Hyperthyroidism,"fatigue,weight loss,sweating,tremors,increased appetite",Medium
+Hyperthyroidism,"fatigue,increased appetite,weight loss,tremors",Medium
+Hyperthyroidism,"sweating,increased appetite,weight loss",Medium
+Hyperthyroidism,"sweating,increased appetite,weight loss,fatigue,tremors",Medium
+Hyperthyroidism,"increased appetite,weight loss,fatigue,sweating",Medium
+Hyperthyroidism,"sweating,increased appetite,fatigue,weight loss",Medium
+Hyperthyroidism,"sweating,tremors,fatigue,weight loss,increased appetite",Medium
+Hyperthyroidism,"increased appetite,sweating,weight loss,fatigue",Medium
+Hyperthyroidism,"increased appetite,tremors,weight loss",Medium
+Hyperthyroidism,"tremors,weight loss,fatigue,increased appetite",Medium
+Hyperthyroidism,"increased appetite,sweating,tremors,weight loss",Medium
+Hyperthyroidism,"tremors,sweating,weight loss,increased appetite",Medium
+Hypothyroidism,"weight gain,constipation,fatigue,hair loss,dry skin",Medium
+Hypothyroidism,"constipation,weight gain,fatigue",Medium
+Hypothyroidism,"constipation,weight gain,fatigue",Medium
+Hypothyroidism,"fatigue,constipation,weight gain,hair loss",Medium
+Hypothyroidism,"dry skin,constipation,weight gain,fatigue",Medium
+Hypothyroidism,"hair loss,fatigue,dry skin,weight gain,constipation",Medium
+Hypothyroidism,"weight gain,hair loss,dry skin,constipation,fatigue",Medium
+Hypothyroidism,"weight gain,dry skin,fatigue",Medium
+Hypothyroidism,"weight gain,fatigue,dry skin",Medium
+Hypothyroidism,"weight gain,fatigue,constipation,dry skin,hair loss",Medium
+Hypothyroidism,"fatigue,weight gain,hair loss",Medium
+Hypothyroidism,"fatigue,hair loss,weight gain,constipation",Medium
+Hypothyroidism,"constipation,hair loss,dry skin,fatigue,weight gain",Medium
+Hypothyroidism,"weight gain,dry skin,fatigue",Medium
+Hypothyroidism,"fatigue,hair loss,dry skin,weight gain",Medium
+Hypothyroidism,"constipation,weight gain,fatigue,dry skin,hair loss",Medium
+Hypothyroidism,"hair loss,weight gain,fatigue,constipation",Medium
+Hypothyroidism,"fatigue,dry skin,weight gain",Medium
+Hypothyroidism,"fatigue,dry skin,hair loss,weight gain",Medium
+Hypothyroidism,"weight gain,constipation,fatigue,dry skin,hair loss",Medium
+Hypothyroidism,"weight gain,constipation,fatigue",Medium
+Hypothyroidism,"fatigue,constipation,weight gain,dry skin",Medium
+Hypothyroidism,"weight gain,fatigue,constipation,hair loss",Medium
+Hypothyroidism,"fatigue,weight gain,dry skin,hair loss",Medium
+Hypothyroidism,"weight gain,hair loss,constipation,fatigue",Medium
+Hypothyroidism,"dry skin,weight gain,fatigue",Medium
+Hypothyroidism,"fatigue,hair loss,weight gain,constipation,dry skin",Medium
+Hypothyroidism,"weight gain,fatigue,hair loss,dry skin,constipation",Medium
+Hypothyroidism,"hair loss,fatigue,dry skin,weight gain",Medium
+Hypothyroidism,"fatigue,weight gain,constipation,hair loss",Medium
+Hypothyroidism,"dry skin,fatigue,hair loss,weight gain,constipation",Medium
+Hypothyroidism,"weight gain,constipation,dry skin,fatigue",Medium
+Hypothyroidism,"weight gain,hair loss,constipation,fatigue",Medium
+Hypothyroidism,"weight gain,constipation,fatigue",Medium
+Hypothyroidism,"constipation,weight gain,fatigue",Medium
+Hypothyroidism,"hair loss,dry skin,fatigue,constipation,weight gain",Medium
+Hypothyroidism,"constipation,hair loss,weight gain,dry skin,fatigue",Medium
+Hypothyroidism,"weight gain,dry skin,constipation,fatigue",Medium
+Hypothyroidism,"hair loss,constipation,weight gain,fatigue",Medium
+Hypothyroidism,"weight gain,hair loss,constipation,fatigue",Medium
+Hypothyroidism,"weight gain,fatigue,dry skin",Medium
+Hypothyroidism,"fatigue,hair loss,dry skin,weight gain",Medium
+Hypothyroidism,"fatigue,hair loss,weight gain,dry skin",Medium
+Hypothyroidism,"dry skin,weight gain,fatigue,constipation,hair loss",Medium
+Hypothyroidism,"fatigue,weight gain,constipation",Medium
+Hypothyroidism,"hair loss,fatigue,dry skin,weight gain,constipation",Medium
+Hypothyroidism,"fatigue,hair loss,weight gain",Medium
+Hypothyroidism,"hair loss,fatigue,weight gain",Medium
+Hypothyroidism,"weight gain,constipation,fatigue,hair loss,dry skin",Medium
+Hypothyroidism,"weight gain,fatigue,dry skin,hair loss,constipation",Medium
+Cushing Syndrome,"fatigue,weight gain,muscle weakness",High
+Cushing Syndrome,"high blood pressure,muscle weakness,weight gain,fatigue",High
+Cushing Syndrome,"weight gain,high blood pressure,fatigue",High
+Cushing Syndrome,"muscle weakness,fatigue,weight gain",High
+Cushing Syndrome,"high blood pressure,fatigue,weight gain",High
+Cushing Syndrome,"high blood pressure,muscle weakness,weight gain,fatigue",High
+Cushing Syndrome,"fatigue,muscle weakness,weight gain",High
+Cushing Syndrome,"muscle weakness,high blood pressure,fatigue,weight gain",High
+Cushing Syndrome,"fatigue,weight gain,high blood pressure",High
+Cushing Syndrome,"weight gain,muscle weakness,fatigue",High
+Cushing Syndrome,"muscle weakness,weight gain,fatigue,high blood pressure",High
+Cushing Syndrome,"muscle weakness,high blood pressure,weight gain,fatigue",High
+Cushing Syndrome,"high blood pressure,muscle weakness,weight gain,fatigue",High
+Cushing Syndrome,"fatigue,high blood pressure,weight gain",High
+Cushing Syndrome,"high blood pressure,fatigue,muscle weakness,weight gain",High
+Cushing Syndrome,"weight gain,fatigue,high blood pressure",High
+Cushing Syndrome,"muscle weakness,weight gain,fatigue,high blood pressure",High
+Cushing Syndrome,"fatigue,weight gain,high blood pressure",High
+Cushing Syndrome,"fatigue,weight gain,high blood pressure",High
+Cushing Syndrome,"weight gain,fatigue,muscle weakness,high blood pressure",High
+Cushing Syndrome,"high blood pressure,fatigue,muscle weakness,weight gain",High
+Cushing Syndrome,"weight gain,fatigue,high blood pressure",High
+Cushing Syndrome,"fatigue,weight gain,muscle weakness",High
+Cushing Syndrome,"fatigue,high blood pressure,weight gain",High
+Cushing Syndrome,"high blood pressure,fatigue,weight gain",High
+Cushing Syndrome,"fatigue,weight gain,muscle weakness",High
+Cushing Syndrome,"weight gain,muscle weakness,high blood pressure,fatigue",High
+Cushing Syndrome,"high blood pressure,muscle weakness,fatigue,weight gain",High
+Cushing Syndrome,"weight gain,fatigue,muscle weakness",High
+Cushing Syndrome,"muscle weakness,high blood pressure,fatigue,weight gain",High
+Cushing Syndrome,"weight gain,high blood pressure,fatigue",High
+Cushing Syndrome,"fatigue,weight gain,muscle weakness,high blood pressure",High
+Cushing Syndrome,"fatigue,high blood pressure,weight gain",High
+Cushing Syndrome,"weight gain,fatigue,high blood pressure,muscle weakness",High
+Cushing Syndrome,"muscle weakness,weight gain,fatigue",High
+Cushing Syndrome,"fatigue,muscle weakness,weight gain,high blood pressure",High
+Cushing Syndrome,"fatigue,weight gain,muscle weakness",High
+Cushing Syndrome,"muscle weakness,fatigue,weight gain",High
+Cushing Syndrome,"fatigue,muscle weakness,weight gain",High
+Cushing Syndrome,"weight gain,high blood pressure,fatigue",High
+Cushing Syndrome,"muscle weakness,fatigue,weight gain,high blood pressure",High
+Cushing Syndrome,"weight gain,fatigue,high blood pressure",High
+Cushing Syndrome,"weight gain,high blood pressure,fatigue",High
+Cushing Syndrome,"weight gain,fatigue,muscle weakness,high blood pressure",High
+Cushing Syndrome,"fatigue,high blood pressure,weight gain,muscle weakness",High
+Cushing Syndrome,"high blood pressure,weight gain,fatigue,muscle weakness",High
+Cushing Syndrome,"fatigue,high blood pressure,muscle weakness,weight gain",High
+Cushing Syndrome,"high blood pressure,fatigue,weight gain",High
+Cushing Syndrome,"weight gain,fatigue,high blood pressure",High
+Cushing Syndrome,"muscle weakness,weight gain,high blood pressure,fatigue",High
+Addison Disease,"dizziness,fatigue,weight loss",High
+Addison Disease,"weight loss,dizziness,fatigue",High
+Addison Disease,"dizziness,fatigue,low blood pressure,weight loss",High
+Addison Disease,"dizziness,weight loss,fatigue,low blood pressure",High
+Addison Disease,"dizziness,weight loss,fatigue,low blood pressure",High
+Addison Disease,"fatigue,dizziness,low blood pressure,weight loss",High
+Addison Disease,"dizziness,fatigue,weight loss,low blood pressure",High
+Addison Disease,"weight loss,fatigue,dizziness",High
+Addison Disease,"weight loss,dizziness,low blood pressure,fatigue",High
+Addison Disease,"weight loss,fatigue,dizziness,low blood pressure",High
+Addison Disease,"weight loss,fatigue,dizziness",High
+Addison Disease,"fatigue,weight loss,dizziness",High
+Addison Disease,"low blood pressure,weight loss,fatigue,dizziness",High
+Addison Disease,"low blood pressure,dizziness,fatigue,weight loss",High
+Addison Disease,"fatigue,weight loss,dizziness",High
+Addison Disease,"weight loss,dizziness,low blood pressure,fatigue",High
+Addison Disease,"weight loss,fatigue,dizziness",High
+Addison Disease,"dizziness,low blood pressure,weight loss,fatigue",High
+Addison Disease,"dizziness,weight loss,fatigue,low blood pressure",High
+Addison Disease,"dizziness,fatigue,low blood pressure,weight loss",High
+Addison Disease,"weight loss,dizziness,fatigue",High
+Addison Disease,"low blood pressure,weight loss,fatigue",High
+Addison Disease,"low blood pressure,weight loss,fatigue,dizziness",High
+Addison Disease,"dizziness,low blood pressure,weight loss,fatigue",High
+Addison Disease,"fatigue,weight loss,dizziness,low blood pressure",High
+Addison Disease,"dizziness,fatigue,weight loss",High
+Addison Disease,"dizziness,fatigue,weight loss",High
+Addison Disease,"low blood pressure,dizziness,weight loss,fatigue",High
+Addison Disease,"low blood pressure,weight loss,fatigue",High
+Addison Disease,"fatigue,dizziness,weight loss",High
+Addison Disease,"low blood pressure,fatigue,weight loss",High
+Addison Disease,"weight loss,fatigue,dizziness,low blood pressure",High
+Addison Disease,"dizziness,fatigue,weight loss",High
+Addison Disease,"dizziness,fatigue,low blood pressure,weight loss",High
+Addison Disease,"low blood pressure,weight loss,fatigue",High
+Addison Disease,"fatigue,dizziness,weight loss,low blood pressure",High
+Addison Disease,"low blood pressure,weight loss,fatigue",High
+Addison Disease,"fatigue,weight loss,dizziness",High
+Addison Disease,"weight loss,dizziness,fatigue",High
+Addison Disease,"weight loss,fatigue,low blood pressure,dizziness",High
+Addison Disease,"weight loss,dizziness,fatigue",High
+Addison Disease,"weight loss,dizziness,low blood pressure,fatigue",High
+Addison Disease,"fatigue,dizziness,weight loss,low blood pressure",High
+Addison Disease,"low blood pressure,fatigue,weight loss",High
+Addison Disease,"dizziness,weight loss,low blood pressure,fatigue",High
+Addison Disease,"dizziness,fatigue,weight loss,low blood pressure",High
+Addison Disease,"weight loss,fatigue,dizziness",High
+Addison Disease,"dizziness,low blood pressure,fatigue,weight loss",High
+Addison Disease,"fatigue,weight loss,low blood pressure,dizziness",High
+Addison Disease,"low blood pressure,weight loss,fatigue",High
+Kidney Stones,"nausea,blood in urine,vomiting,flank pain,burning urination",High
+Kidney Stones,"flank pain,vomiting,blood in urine",High
+Kidney Stones,"flank pain,nausea,burning urination,blood in urine,vomiting",High
+Kidney Stones,"nausea,burning urination,flank pain,blood in urine",High
+Kidney Stones,"vomiting,flank pain,blood in urine,nausea,burning urination",High
+Kidney Stones,"vomiting,blood in urine,burning urination,flank pain",High
+Kidney Stones,"flank pain,burning urination,nausea,vomiting,blood in urine",High
+Kidney Stones,"nausea,flank pain,burning urination,blood in urine,vomiting",High
+Kidney Stones,"flank pain,nausea,blood in urine",High
+Kidney Stones,"vomiting,flank pain,blood in urine",High
+Kidney Stones,"nausea,flank pain,blood in urine",High
+Kidney Stones,"burning urination,blood in urine,vomiting,flank pain,nausea",High
+Kidney Stones,"blood in urine,flank pain,burning urination,nausea",High
+Kidney Stones,"flank pain,blood in urine,burning urination,nausea",High
+Kidney Stones,"vomiting,flank pain,blood in urine",High
+Kidney Stones,"flank pain,nausea,vomiting,blood in urine",High
+Kidney Stones,"vomiting,burning urination,nausea,flank pain,blood in urine",High
+Kidney Stones,"burning urination,nausea,blood in urine,flank pain,vomiting",High
+Kidney Stones,"flank pain,blood in urine,vomiting,burning urination",High
+Kidney Stones,"blood in urine,burning urination,flank pain",High
+Kidney Stones,"vomiting,nausea,burning urination,blood in urine,flank pain",High
+Kidney Stones,"flank pain,blood in urine,vomiting",High
+Kidney Stones,"flank pain,nausea,blood in urine",High
+Kidney Stones,"nausea,flank pain,blood in urine,burning urination",High
+Kidney Stones,"vomiting,flank pain,nausea,blood in urine",High
+Kidney Stones,"blood in urine,vomiting,nausea,flank pain",High
+Kidney Stones,"blood in urine,nausea,vomiting,flank pain",High
+Kidney Stones,"nausea,blood in urine,burning urination,vomiting,flank pain",High
+Kidney Stones,"flank pain,blood in urine,nausea,vomiting,burning urination",High
+Kidney Stones,"nausea,burning urination,vomiting,flank pain,blood in urine",High
+Kidney Stones,"blood in urine,burning urination,flank pain",High
+Kidney Stones,"flank pain,burning urination,blood in urine,vomiting",High
+Kidney Stones,"flank pain,burning urination,blood in urine,vomiting",High
+Kidney Stones,"flank pain,blood in urine,burning urination,nausea,vomiting",High
+Kidney Stones,"flank pain,vomiting,blood in urine",High
+Kidney Stones,"flank pain,vomiting,blood in urine,burning urination",High
+Kidney Stones,"flank pain,blood in urine,burning urination",High
+Kidney Stones,"flank pain,burning urination,blood in urine",High
+Kidney Stones,"flank pain,blood in urine,vomiting",High
+Kidney Stones,"blood in urine,flank pain,burning urination,vomiting,nausea",High
+Kidney Stones,"flank pain,burning urination,nausea,blood in urine,vomiting",High
+Kidney Stones,"blood in urine,flank pain,vomiting",High
+Kidney Stones,"flank pain,nausea,blood in urine",High
+Kidney Stones,"flank pain,burning urination,blood in urine,vomiting,nausea",High
+Kidney Stones,"blood in urine,burning urination,vomiting,flank pain",High
+Kidney Stones,"burning urination,flank pain,blood in urine",High
+Kidney Stones,"vomiting,blood in urine,flank pain",High
+Kidney Stones,"blood in urine,nausea,flank pain,vomiting",High
+Kidney Stones,"nausea,vomiting,burning urination,flank pain,blood in urine",High
+Kidney Stones,"nausea,flank pain,burning urination,blood in urine,vomiting",High
+Kidney Infection,"fever,frequent urination,flank pain,burning urination",High
+Kidney Infection,"burning urination,frequent urination,flank pain,fever",High
+Kidney Infection,"frequent urination,fever,flank pain,burning urination",High
+Kidney Infection,"burning urination,frequent urination,fever,flank pain",High
+Kidney Infection,"frequent urination,fever,flank pain",High
+Kidney Infection,"burning urination,flank pain,fever",High
+Kidney Infection,"fever,flank pain,frequent urination,burning urination",High
+Kidney Infection,"flank pain,fever,burning urination",High
+Kidney Infection,"burning urination,fever,frequent urination,flank pain",High
+Kidney Infection,"burning urination,flank pain,frequent urination,fever",High
+Kidney Infection,"fever,burning urination,frequent urination,flank pain",High
+Kidney Infection,"fever,flank pain,burning urination,frequent urination",High
+Kidney Infection,"frequent urination,fever,flank pain",High
+Kidney Infection,"flank pain,frequent urination,fever",High
+Kidney Infection,"burning urination,flank pain,fever",High
+Kidney Infection,"frequent urination,fever,flank pain",High
+Kidney Infection,"flank pain,fever,burning urination,frequent urination",High
+Kidney Infection,"burning urination,frequent urination,flank pain,fever",High
+Kidney Infection,"frequent urination,flank pain,fever,burning urination",High
+Kidney Infection,"frequent urination,fever,flank pain,burning urination",High
+Kidney Infection,"fever,flank pain,burning urination",High
+Kidney Infection,"fever,frequent urination,burning urination,flank pain",High
+Kidney Infection,"burning urination,flank pain,frequent urination,fever",High
+Kidney Infection,"flank pain,burning urination,fever",High
+Kidney Infection,"fever,flank pain,burning urination",High
+Kidney Infection,"burning urination,flank pain,fever,frequent urination",High
+Kidney Infection,"fever,flank pain,frequent urination,burning urination",High
+Kidney Infection,"burning urination,fever,flank pain",High
+Kidney Infection,"frequent urination,fever,burning urination,flank pain",High
+Kidney Infection,"frequent urination,flank pain,fever,burning urination",High
+Kidney Infection,"flank pain,fever,frequent urination,burning urination",High
+Kidney Infection,"frequent urination,fever,flank pain",High
+Kidney Infection,"frequent urination,flank pain,fever",High
+Kidney Infection,"frequent urination,fever,flank pain,burning urination",High
+Kidney Infection,"frequent urination,fever,flank pain,burning urination",High
+Kidney Infection,"burning urination,flank pain,frequent urination,fever",High
+Kidney Infection,"fever,flank pain,burning urination,frequent urination",High
+Kidney Infection,"frequent urination,burning urination,flank pain,fever",High
+Kidney Infection,"fever,flank pain,frequent urination",High
+Kidney Infection,"frequent urination,fever,flank pain",High
+Kidney Infection,"frequent urination,fever,flank pain",High
+Kidney Infection,"frequent urination,burning urination,fever,flank pain",High
+Kidney Infection,"flank pain,fever,burning urination",High
+Kidney Infection,"burning urination,frequent urination,flank pain,fever",High
+Kidney Infection,"flank pain,fever,burning urination",High
+Kidney Infection,"fever,flank pain,frequent urination",High
+Kidney Infection,"burning urination,fever,flank pain",High
+Kidney Infection,"frequent urination,flank pain,fever",High
+Kidney Infection,"flank pain,frequent urination,burning urination,fever",High
+Kidney Infection,"fever,flank pain,frequent urination",High
+Chronic Kidney Disease,"nausea,shortness of breath,fatigue,swelling",High
+Chronic Kidney Disease,"shortness of breath,swelling,nausea,fatigue",High
+Chronic Kidney Disease,"swelling,shortness of breath,fatigue",High
+Chronic Kidney Disease,"swelling,nausea,fatigue",High
+Chronic Kidney Disease,"shortness of breath,swelling,fatigue,nausea",High
+Chronic Kidney Disease,"shortness of breath,swelling,nausea,fatigue",High
+Chronic Kidney Disease,"fatigue,swelling,shortness of breath,nausea",High
+Chronic Kidney Disease,"shortness of breath,fatigue,swelling,nausea",High
+Chronic Kidney Disease,"fatigue,swelling,nausea",High
+Chronic Kidney Disease,"swelling,fatigue,nausea",High
+Chronic Kidney Disease,"fatigue,nausea,swelling",High
+Chronic Kidney Disease,"fatigue,swelling,shortness of breath",High
+Chronic Kidney Disease,"fatigue,shortness of breath,nausea,swelling",High
+Chronic Kidney Disease,"swelling,nausea,shortness of breath,fatigue",High
+Chronic Kidney Disease,"swelling,fatigue,shortness of breath,nausea",High
+Chronic Kidney Disease,"shortness of breath,nausea,swelling,fatigue",High
+Chronic Kidney Disease,"swelling,nausea,fatigue,shortness of breath",High
+Chronic Kidney Disease,"fatigue,swelling,nausea,shortness of breath",High
+Chronic Kidney Disease,"nausea,shortness of breath,fatigue,swelling",High
+Chronic Kidney Disease,"shortness of breath,nausea,fatigue,swelling",High
+Chronic Kidney Disease,"nausea,shortness of breath,fatigue,swelling",High
+Chronic Kidney Disease,"swelling,shortness of breath,fatigue",High
+Chronic Kidney Disease,"swelling,nausea,shortness of breath,fatigue",High
+Chronic Kidney Disease,"fatigue,shortness of breath,swelling",High
+Chronic Kidney Disease,"fatigue,swelling,shortness of breath",High
+Chronic Kidney Disease,"fatigue,swelling,shortness of breath",High
+Chronic Kidney Disease,"swelling,shortness of breath,nausea,fatigue",High
+Chronic Kidney Disease,"shortness of breath,swelling,fatigue",High
+Chronic Kidney Disease,"nausea,shortness of breath,swelling,fatigue",High
+Chronic Kidney Disease,"swelling,shortness of breath,nausea,fatigue",High
+Chronic Kidney Disease,"swelling,shortness of breath,fatigue",High
+Chronic Kidney Disease,"swelling,shortness of breath,fatigue,nausea",High
+Chronic Kidney Disease,"swelling,fatigue,nausea,shortness of breath",High
+Chronic Kidney Disease,"swelling,fatigue,shortness of breath",High
+Chronic Kidney Disease,"fatigue,nausea,swelling,shortness of breath",High
+Chronic Kidney Disease,"swelling,fatigue,shortness of breath,nausea",High
+Chronic Kidney Disease,"swelling,fatigue,nausea",High
+Chronic Kidney Disease,"shortness of breath,swelling,fatigue",High
+Chronic Kidney Disease,"shortness of breath,fatigue,swelling,nausea",High
+Chronic Kidney Disease,"nausea,swelling,fatigue",High
+Chronic Kidney Disease,"fatigue,shortness of breath,swelling,nausea",High
+Chronic Kidney Disease,"swelling,fatigue,nausea",High
+Chronic Kidney Disease,"swelling,fatigue,nausea,shortness of breath",High
+Chronic Kidney Disease,"shortness of breath,fatigue,swelling",High
+Chronic Kidney Disease,"shortness of breath,fatigue,swelling,nausea",High
+Chronic Kidney Disease,"shortness of breath,fatigue,swelling",High
+Chronic Kidney Disease,"swelling,shortness of breath,nausea,fatigue",High
+Chronic Kidney Disease,"fatigue,shortness of breath,swelling",High
+Chronic Kidney Disease,"nausea,fatigue,swelling",High
+Chronic Kidney Disease,"fatigue,shortness of breath,nausea,swelling",High
+Urinary Tract Infection,"frequent urination,pelvic pain,blood in urine,burning urination",Medium
+Urinary Tract Infection,"frequent urination,burning urination,blood in urine,pelvic pain",Medium
+Urinary Tract Infection,"pelvic pain,frequent urination,burning urination,blood in urine",Medium
+Urinary Tract Infection,"pelvic pain,blood in urine,frequent urination,burning urination",Medium
+Urinary Tract Infection,"pelvic pain,blood in urine,burning urination,frequent urination",Medium
+Urinary Tract Infection,"frequent urination,burning urination,blood in urine",Medium
+Urinary Tract Infection,"pelvic pain,burning urination,blood in urine,frequent urination",Medium
+Urinary Tract Infection,"pelvic pain,blood in urine,burning urination,frequent urination",Medium
+Urinary Tract Infection,"frequent urination,burning urination,blood in urine,pelvic pain",Medium
+Urinary Tract Infection,"blood in urine,pelvic pain,frequent urination,burning urination",Medium
+Urinary Tract Infection,"frequent urination,burning urination,blood in urine",Medium
+Urinary Tract Infection,"frequent urination,blood in urine,burning urination",Medium
+Urinary Tract Infection,"blood in urine,pelvic pain,burning urination,frequent urination",Medium
+Urinary Tract Infection,"burning urination,pelvic pain,frequent urination,blood in urine",Medium
+Urinary Tract Infection,"burning urination,pelvic pain,frequent urination",Medium
+Urinary Tract Infection,"blood in urine,frequent urination,burning urination,pelvic pain",Medium
+Urinary Tract Infection,"pelvic pain,blood in urine,frequent urination,burning urination",Medium
+Urinary Tract Infection,"blood in urine,burning urination,frequent urination",Medium
+Urinary Tract Infection,"pelvic pain,blood in urine,frequent urination,burning urination",Medium
+Urinary Tract Infection,"burning urination,blood in urine,frequent urination",Medium
+Urinary Tract Infection,"burning urination,frequent urination,pelvic pain",Medium
+Urinary Tract Infection,"frequent urination,pelvic pain,burning urination,blood in urine",Medium
+Urinary Tract Infection,"burning urination,frequent urination,pelvic pain",Medium
+Urinary Tract Infection,"burning urination,blood in urine,frequent urination",Medium
+Urinary Tract Infection,"frequent urination,blood in urine,burning urination,pelvic pain",Medium
+Urinary Tract Infection,"burning urination,pelvic pain,frequent urination",Medium
+Urinary Tract Infection,"burning urination,frequent urination,blood in urine",Medium
+Urinary Tract Infection,"frequent urination,pelvic pain,burning urination,blood in urine",Medium
+Urinary Tract Infection,"pelvic pain,frequent urination,blood in urine,burning urination",Medium
+Urinary Tract Infection,"pelvic pain,frequent urination,burning urination",Medium
+Urinary Tract Infection,"blood in urine,burning urination,frequent urination,pelvic pain",Medium
+Urinary Tract Infection,"pelvic pain,frequent urination,blood in urine,burning urination",Medium
+Urinary Tract Infection,"blood in urine,frequent urination,pelvic pain,burning urination",Medium
+Urinary Tract Infection,"blood in urine,pelvic pain,frequent urination,burning urination",Medium
+Urinary Tract Infection,"pelvic pain,frequent urination,blood in urine,burning urination",Medium
+Urinary Tract Infection,"blood in urine,burning urination,frequent urination,pelvic pain",Medium
+Urinary Tract Infection,"frequent urination,pelvic pain,blood in urine,burning urination",Medium
+Urinary Tract Infection,"pelvic pain,frequent urination,burning urination",Medium
+Urinary Tract Infection,"frequent urination,pelvic pain,burning urination,blood in urine",Medium
+Urinary Tract Infection,"blood in urine,frequent urination,burning urination",Medium
+Urinary Tract Infection,"blood in urine,frequent urination,burning urination",Medium
+Urinary Tract Infection,"pelvic pain,blood in urine,frequent urination,burning urination",Medium
+Urinary Tract Infection,"frequent urination,burning urination,blood in urine,pelvic pain",Medium
+Urinary Tract Infection,"frequent urination,burning urination,pelvic pain",Medium
+Urinary Tract Infection,"burning urination,frequent urination,pelvic pain",Medium
+Urinary Tract Infection,"blood in urine,frequent urination,burning urination,pelvic pain",Medium
+Urinary Tract Infection,"frequent urination,pelvic pain,burning urination",Medium
+Urinary Tract Infection,"pelvic pain,burning urination,frequent urination,blood in urine",Medium
+Urinary Tract Infection,"burning urination,blood in urine,frequent urination,pelvic pain",Medium
+Urinary Tract Infection,"burning urination,pelvic pain,frequent urination",Medium
+Prostate Enlargement,"urinary retention,pelvic pain,frequent urination",Medium
+Prostate Enlargement,"pelvic pain,frequent urination,urinary retention",Medium
+Prostate Enlargement,"urinary retention,frequent urination,weak urine flow",Medium
+Prostate Enlargement,"urinary retention,frequent urination,pelvic pain",Medium
+Prostate Enlargement,"weak urine flow,frequent urination,pelvic pain,urinary retention",Medium
+Prostate Enlargement,"pelvic pain,urinary retention,frequent urination,weak urine flow",Medium
+Prostate Enlargement,"frequent urination,urinary retention,pelvic pain,weak urine flow",Medium
+Prostate Enlargement,"frequent urination,urinary retention,pelvic pain",Medium
+Prostate Enlargement,"frequent urination,pelvic pain,urinary retention",Medium
+Prostate Enlargement,"pelvic pain,weak urine flow,frequent urination,urinary retention",Medium
+Prostate Enlargement,"weak urine flow,urinary retention,frequent urination,pelvic pain",Medium
+Prostate Enlargement,"frequent urination,pelvic pain,weak urine flow,urinary retention",Medium
+Prostate Enlargement,"frequent urination,pelvic pain,urinary retention",Medium
+Prostate Enlargement,"urinary retention,frequent urination,pelvic pain,weak urine flow",Medium
+Prostate Enlargement,"urinary retention,weak urine flow,frequent urination,pelvic pain",Medium
+Prostate Enlargement,"pelvic pain,weak urine flow,urinary retention,frequent urination",Medium
+Prostate Enlargement,"frequent urination,pelvic pain,weak urine flow,urinary retention",Medium
+Prostate Enlargement,"urinary retention,frequent urination,weak urine flow,pelvic pain",Medium
+Prostate Enlargement,"frequent urination,urinary retention,pelvic pain,weak urine flow",Medium
+Prostate Enlargement,"pelvic pain,frequent urination,weak urine flow,urinary retention",Medium
+Prostate Enlargement,"urinary retention,weak urine flow,frequent urination,pelvic pain",Medium
+Prostate Enlargement,"frequent urination,weak urine flow,urinary retention",Medium
+Prostate Enlargement,"pelvic pain,urinary retention,weak urine flow,frequent urination",Medium
+Prostate Enlargement,"pelvic pain,frequent urination,urinary retention",Medium
+Prostate Enlargement,"frequent urination,urinary retention,pelvic pain",Medium
+Prostate Enlargement,"urinary retention,weak urine flow,frequent urination",Medium
+Prostate Enlargement,"frequent urination,urinary retention,pelvic pain",Medium
+Prostate Enlargement,"urinary retention,frequent urination,weak urine flow,pelvic pain",Medium
+Prostate Enlargement,"urinary retention,pelvic pain,weak urine flow,frequent urination",Medium
+Prostate Enlargement,"frequent urination,weak urine flow,urinary retention,pelvic pain",Medium
+Prostate Enlargement,"weak urine flow,frequent urination,urinary retention",Medium
+Prostate Enlargement,"frequent urination,pelvic pain,weak urine flow,urinary retention",Medium
+Prostate Enlargement,"urinary retention,frequent urination,pelvic pain",Medium
+Prostate Enlargement,"pelvic pain,urinary retention,frequent urination",Medium
+Prostate Enlargement,"frequent urination,weak urine flow,urinary retention",Medium
+Prostate Enlargement,"urinary retention,frequent urination,weak urine flow",Medium
+Prostate Enlargement,"pelvic pain,urinary retention,weak urine flow,frequent urination",Medium
+Prostate Enlargement,"urinary retention,pelvic pain,weak urine flow,frequent urination",Medium
+Prostate Enlargement,"pelvic pain,urinary retention,weak urine flow,frequent urination",Medium
+Prostate Enlargement,"frequent urination,weak urine flow,pelvic pain,urinary retention",Medium
+Prostate Enlargement,"frequent urination,pelvic pain,weak urine flow,urinary retention",Medium
+Prostate Enlargement,"frequent urination,pelvic pain,urinary retention,weak urine flow",Medium
+Prostate Enlargement,"weak urine flow,urinary retention,frequent urination,pelvic pain",Medium
+Prostate Enlargement,"pelvic pain,urinary retention,frequent urination,weak urine flow",Medium
+Prostate Enlargement,"pelvic pain,urinary retention,frequent urination",Medium
+Prostate Enlargement,"frequent urination,weak urine flow,urinary retention",Medium
+Prostate Enlargement,"weak urine flow,frequent urination,pelvic pain,urinary retention",Medium
+Prostate Enlargement,"urinary retention,frequent urination,weak urine flow",Medium
+Prostate Enlargement,"pelvic pain,frequent urination,urinary retention",Medium
+Prostate Enlargement,"weak urine flow,urinary retention,frequent urination",Medium
+Bladder Infection,"blood in urine,pelvic pain,burning urination,frequent urination",Medium
+Bladder Infection,"frequent urination,burning urination,blood in urine,pelvic pain",Medium
+Bladder Infection,"burning urination,blood in urine,pelvic pain",Medium
+Bladder Infection,"burning urination,blood in urine,frequent urination,pelvic pain",Medium
+Bladder Infection,"pelvic pain,blood in urine,burning urination,frequent urination",Medium
+Bladder Infection,"frequent urination,blood in urine,pelvic pain,burning urination",Medium
+Bladder Infection,"frequent urination,pelvic pain,burning urination",Medium
+Bladder Infection,"burning urination,frequent urination,pelvic pain",Medium
+Bladder Infection,"frequent urination,pelvic pain,burning urination",Medium
+Bladder Infection,"pelvic pain,burning urination,frequent urination,blood in urine",Medium
+Bladder Infection,"burning urination,pelvic pain,blood in urine,frequent urination",Medium
+Bladder Infection,"blood in urine,frequent urination,pelvic pain,burning urination",Medium
+Bladder Infection,"pelvic pain,burning urination,blood in urine,frequent urination",Medium
+Bladder Infection,"burning urination,pelvic pain,blood in urine",Medium
+Bladder Infection,"burning urination,blood in urine,frequent urination,pelvic pain",Medium
+Bladder Infection,"burning urination,blood in urine,frequent urination,pelvic pain",Medium
+Bladder Infection,"blood in urine,burning urination,pelvic pain",Medium
+Bladder Infection,"pelvic pain,blood in urine,burning urination",Medium
+Bladder Infection,"burning urination,blood in urine,pelvic pain",Medium
+Bladder Infection,"burning urination,pelvic pain,blood in urine",Medium
+Bladder Infection,"frequent urination,pelvic pain,blood in urine,burning urination",Medium
+Bladder Infection,"blood in urine,burning urination,frequent urination,pelvic pain",Medium
+Bladder Infection,"pelvic pain,frequent urination,burning urination,blood in urine",Medium
+Bladder Infection,"pelvic pain,frequent urination,burning urination",Medium
+Bladder Infection,"burning urination,blood in urine,pelvic pain",Medium
+Bladder Infection,"pelvic pain,burning urination,blood in urine,frequent urination",Medium
+Bladder Infection,"pelvic pain,burning urination,frequent urination",Medium
+Bladder Infection,"pelvic pain,burning urination,frequent urination,blood in urine",Medium
+Bladder Infection,"pelvic pain,burning urination,blood in urine,frequent urination",Medium
+Bladder Infection,"frequent urination,pelvic pain,burning urination,blood in urine",Medium
+Bladder Infection,"burning urination,blood in urine,frequent urination,pelvic pain",Medium
+Bladder Infection,"frequent urination,burning urination,pelvic pain",Medium
+Bladder Infection,"frequent urination,burning urination,pelvic pain,blood in urine",Medium
+Bladder Infection,"frequent urination,blood in urine,burning urination,pelvic pain",Medium
+Bladder Infection,"burning urination,blood in urine,pelvic pain",Medium
+Bladder Infection,"pelvic pain,burning urination,blood in urine",Medium
+Bladder Infection,"blood in urine,frequent urination,pelvic pain,burning urination",Medium
+Bladder Infection,"pelvic pain,burning urination,frequent urination",Medium
+Bladder Infection,"pelvic pain,frequent urination,blood in urine,burning urination",Medium
+Bladder Infection,"frequent urination,pelvic pain,blood in urine,burning urination",Medium
+Bladder Infection,"burning urination,blood in urine,frequent urination,pelvic pain",Medium
+Bladder Infection,"frequent urination,pelvic pain,burning urination,blood in urine",Medium
+Bladder Infection,"blood in urine,pelvic pain,frequent urination,burning urination",Medium
+Bladder Infection,"pelvic pain,burning urination,frequent urination",Medium
+Bladder Infection,"frequent urination,pelvic pain,blood in urine,burning urination",Medium
+Bladder Infection,"frequent urination,pelvic pain,blood in urine,burning urination",Medium
+Bladder Infection,"burning urination,pelvic pain,frequent urination",Medium
+Bladder Infection,"pelvic pain,blood in urine,burning urination",Medium
+Bladder Infection,"burning urination,pelvic pain,frequent urination,blood in urine",Medium
+Bladder Infection,"blood in urine,burning urination,pelvic pain,frequent urination",Medium
+Gallstones,"nausea,abdominal pain,vomiting,bloating",High
+Gallstones,"abdominal pain,bloating,fever,nausea",High
+Gallstones,"nausea,vomiting,abdominal pain,bloating",High
+Gallstones,"abdominal pain,vomiting,nausea,bloating",High
+Gallstones,"nausea,abdominal pain,fever",High
+Gallstones,"abdominal pain,nausea,bloating,fever,vomiting",High
+Gallstones,"abdominal pain,fever,bloating,nausea,vomiting",High
+Gallstones,"abdominal pain,vomiting,bloating,nausea",High
+Gallstones,"nausea,fever,abdominal pain,bloating",High
+Gallstones,"nausea,vomiting,abdominal pain",High
+Gallstones,"nausea,abdominal pain,bloating,fever,vomiting",High
+Gallstones,"abdominal pain,vomiting,nausea,bloating,fever",High
+Gallstones,"nausea,fever,abdominal pain,vomiting",High
+Gallstones,"nausea,abdominal pain,fever",High
+Gallstones,"abdominal pain,vomiting,nausea",High
+Gallstones,"bloating,vomiting,nausea,fever,abdominal pain",High
+Gallstones,"bloating,abdominal pain,vomiting,nausea,fever",High
+Gallstones,"nausea,bloating,fever,abdominal pain",High
+Gallstones,"abdominal pain,nausea,fever,bloating",High
+Gallstones,"bloating,nausea,abdominal pain",High
+Gallstones,"nausea,fever,abdominal pain",High
+Gallstones,"bloating,vomiting,abdominal pain,fever,nausea",High
+Gallstones,"bloating,abdominal pain,vomiting,nausea,fever",High
+Gallstones,"bloating,abdominal pain,fever,nausea",High
+Gallstones,"abdominal pain,fever,nausea,vomiting",High
+Gallstones,"vomiting,nausea,abdominal pain",High
+Gallstones,"fever,vomiting,abdominal pain,nausea,bloating",High
+Gallstones,"nausea,abdominal pain,bloating,vomiting,fever",High
+Gallstones,"vomiting,abdominal pain,nausea",High
+Gallstones,"nausea,abdominal pain,fever",High
+Gallstones,"nausea,fever,bloating,abdominal pain,vomiting",High
+Gallstones,"nausea,bloating,abdominal pain",High
+Gallstones,"vomiting,abdominal pain,bloating,fever,nausea",High
+Gallstones,"fever,bloating,vomiting,nausea,abdominal pain",High
+Gallstones,"bloating,fever,vomiting,nausea,abdominal pain",High
+Gallstones,"nausea,abdominal pain,bloating,vomiting",High
+Gallstones,"nausea,fever,bloating,abdominal pain,vomiting",High
+Gallstones,"fever,abdominal pain,nausea",High
+Gallstones,"fever,vomiting,abdominal pain,nausea",High
+Gallstones,"fever,abdominal pain,bloating,vomiting,nausea",High
+Gallstones,"abdominal pain,vomiting,nausea,bloating",High
+Gallstones,"bloating,fever,abdominal pain,nausea",High
+Gallstones,"abdominal pain,nausea,vomiting",High
+Gallstones,"nausea,abdominal pain,vomiting",High
+Gallstones,"nausea,bloating,abdominal pain,vomiting,fever",High
+Gallstones,"fever,bloating,nausea,abdominal pain",High
+Gallstones,"nausea,fever,abdominal pain",High
+Gallstones,"nausea,vomiting,abdominal pain,bloating",High
+Gallstones,"vomiting,fever,nausea,abdominal pain",High
+Gallstones,"nausea,vomiting,abdominal pain",High
+Pancreatitis,"nausea,vomiting,abdominal pain",High
+Pancreatitis,"bloating,fever,abdominal pain,vomiting,nausea",High
+Pancreatitis,"vomiting,abdominal pain,nausea",High
+Pancreatitis,"fever,nausea,abdominal pain,bloating,vomiting",High
+Pancreatitis,"vomiting,abdominal pain,nausea,fever",High
+Pancreatitis,"vomiting,fever,abdominal pain",High
+Pancreatitis,"vomiting,bloating,nausea,abdominal pain",High
+Pancreatitis,"nausea,vomiting,abdominal pain",High
+Pancreatitis,"fever,bloating,vomiting,abdominal pain",High
+Pancreatitis,"abdominal pain,vomiting,nausea,bloating,fever",High
+Pancreatitis,"bloating,nausea,vomiting,abdominal pain,fever",High
+Pancreatitis,"nausea,abdominal pain,fever,bloating,vomiting",High
+Pancreatitis,"vomiting,bloating,nausea,fever,abdominal pain",High
+Pancreatitis,"nausea,vomiting,abdominal pain,bloating,fever",High
+Pancreatitis,"bloating,nausea,abdominal pain,fever,vomiting",High
+Pancreatitis,"bloating,fever,vomiting,abdominal pain",High
+Pancreatitis,"bloating,fever,abdominal pain,vomiting",High
+Pancreatitis,"vomiting,nausea,abdominal pain,fever",High
+Pancreatitis,"abdominal pain,bloating,vomiting,nausea,fever",High
+Pancreatitis,"abdominal pain,nausea,bloating,vomiting",High
+Pancreatitis,"abdominal pain,fever,vomiting,nausea",High
+Pancreatitis,"vomiting,fever,bloating,abdominal pain",High
+Pancreatitis,"fever,nausea,abdominal pain,bloating,vomiting",High
+Pancreatitis,"vomiting,nausea,fever,abdominal pain,bloating",High
+Pancreatitis,"bloating,fever,abdominal pain,vomiting",High
+Pancreatitis,"fever,abdominal pain,bloating,vomiting",High
+Pancreatitis,"vomiting,nausea,abdominal pain",High
+Pancreatitis,"abdominal pain,fever,vomiting",High
+Pancreatitis,"abdominal pain,fever,vomiting,nausea",High
+Pancreatitis,"abdominal pain,fever,vomiting",High
+Pancreatitis,"bloating,nausea,vomiting,fever,abdominal pain",High
+Pancreatitis,"vomiting,bloating,abdominal pain,nausea",High
+Pancreatitis,"nausea,bloating,vomiting,abdominal pain",High
+Pancreatitis,"abdominal pain,vomiting,bloating",High
+Pancreatitis,"fever,abdominal pain,vomiting,bloating,nausea",High
+Pancreatitis,"vomiting,abdominal pain,bloating",High
+Pancreatitis,"bloating,nausea,abdominal pain,fever,vomiting",High
+Pancreatitis,"abdominal pain,nausea,vomiting",High
+Pancreatitis,"fever,bloating,vomiting,abdominal pain",High
+Pancreatitis,"fever,bloating,abdominal pain,vomiting,nausea",High
+Pancreatitis,"vomiting,bloating,abdominal pain,fever",High
+Pancreatitis,"nausea,fever,abdominal pain,vomiting",High
+Pancreatitis,"abdominal pain,fever,bloating,nausea,vomiting",High
+Pancreatitis,"fever,abdominal pain,vomiting,bloating",High
+Pancreatitis,"vomiting,nausea,bloating,abdominal pain",High
+Pancreatitis,"nausea,abdominal pain,vomiting",High
+Pancreatitis,"bloating,nausea,abdominal pain,vomiting,fever",High
+Pancreatitis,"bloating,abdominal pain,nausea,vomiting,fever",High
+Pancreatitis,"vomiting,bloating,fever,abdominal pain",High
+Pancreatitis,"nausea,bloating,vomiting,abdominal pain",High
+Liver Cirrhosis,"jaundice,fatigue,abdominal pain,swelling",High
+Liver Cirrhosis,"abdominal pain,fatigue,jaundice",High
+Liver Cirrhosis,"jaundice,fatigue,swelling",High
+Liver Cirrhosis,"abdominal pain,fatigue,jaundice,swelling",High
+Liver Cirrhosis,"jaundice,fatigue,abdominal pain",High
+Liver Cirrhosis,"jaundice,fatigue,abdominal pain,swelling",High
+Liver Cirrhosis,"jaundice,fatigue,swelling,abdominal pain",High
+Liver Cirrhosis,"jaundice,abdominal pain,fatigue",High
+Liver Cirrhosis,"abdominal pain,jaundice,fatigue",High
+Liver Cirrhosis,"fatigue,swelling,jaundice",High
+Liver Cirrhosis,"swelling,abdominal pain,fatigue,jaundice",High
+Liver Cirrhosis,"abdominal pain,fatigue,jaundice,swelling",High
+Liver Cirrhosis,"fatigue,swelling,jaundice,abdominal pain",High
+Liver Cirrhosis,"swelling,jaundice,fatigue",High
+Liver Cirrhosis,"jaundice,swelling,fatigue,abdominal pain",High
+Liver Cirrhosis,"jaundice,abdominal pain,fatigue",High
+Liver Cirrhosis,"jaundice,swelling,fatigue",High
+Liver Cirrhosis,"fatigue,abdominal pain,jaundice",High
+Liver Cirrhosis,"fatigue,swelling,jaundice,abdominal pain",High
+Liver Cirrhosis,"fatigue,swelling,jaundice,abdominal pain",High
+Liver Cirrhosis,"jaundice,swelling,abdominal pain,fatigue",High
+Liver Cirrhosis,"swelling,fatigue,jaundice",High
+Liver Cirrhosis,"abdominal pain,swelling,jaundice,fatigue",High
+Liver Cirrhosis,"fatigue,swelling,jaundice",High
+Liver Cirrhosis,"swelling,fatigue,jaundice",High
+Liver Cirrhosis,"swelling,abdominal pain,fatigue,jaundice",High
+Liver Cirrhosis,"fatigue,swelling,abdominal pain,jaundice",High
+Liver Cirrhosis,"abdominal pain,fatigue,jaundice,swelling",High
+Liver Cirrhosis,"jaundice,fatigue,abdominal pain",High
+Liver Cirrhosis,"swelling,jaundice,abdominal pain,fatigue",High
+Liver Cirrhosis,"jaundice,fatigue,swelling",High
+Liver Cirrhosis,"fatigue,jaundice,swelling",High
+Liver Cirrhosis,"swelling,abdominal pain,fatigue,jaundice",High
+Liver Cirrhosis,"swelling,abdominal pain,fatigue,jaundice",High
+Liver Cirrhosis,"jaundice,swelling,fatigue",High
+Liver Cirrhosis,"fatigue,jaundice,abdominal pain",High
+Liver Cirrhosis,"jaundice,swelling,fatigue,abdominal pain",High
+Liver Cirrhosis,"abdominal pain,jaundice,fatigue",High
+Liver Cirrhosis,"fatigue,abdominal pain,jaundice",High
+Liver Cirrhosis,"swelling,fatigue,jaundice",High
+Liver Cirrhosis,"jaundice,fatigue,abdominal pain",High
+Liver Cirrhosis,"swelling,abdominal pain,fatigue,jaundice",High
+Liver Cirrhosis,"fatigue,jaundice,swelling,abdominal pain",High
+Liver Cirrhosis,"fatigue,jaundice,swelling,abdominal pain",High
+Liver Cirrhosis,"fatigue,abdominal pain,jaundice,swelling",High
+Liver Cirrhosis,"jaundice,fatigue,swelling,abdominal pain",High
+Liver Cirrhosis,"jaundice,swelling,abdominal pain,fatigue",High
+Liver Cirrhosis,"jaundice,fatigue,swelling",High
+Liver Cirrhosis,"swelling,fatigue,jaundice,abdominal pain",High
+Liver Cirrhosis,"fatigue,abdominal pain,jaundice",High
+Crohn's Disease,"fatigue,diarrhea,abdominal pain",High
+Crohn's Disease,"abdominal pain,fatigue,weight loss,diarrhea",High
+Crohn's Disease,"fatigue,diarrhea,abdominal pain,weight loss",High
+Crohn's Disease,"abdominal pain,fatigue,diarrhea,weight loss",High
+Crohn's Disease,"abdominal pain,weight loss,diarrhea",High
+Crohn's Disease,"fatigue,abdominal pain,weight loss,diarrhea",High
+Crohn's Disease,"weight loss,diarrhea,abdominal pain",High
+Crohn's Disease,"abdominal pain,fatigue,weight loss,diarrhea",High
+Crohn's Disease,"weight loss,diarrhea,abdominal pain",High
+Crohn's Disease,"fatigue,weight loss,abdominal pain,diarrhea",High
+Crohn's Disease,"diarrhea,fatigue,weight loss,abdominal pain",High
+Crohn's Disease,"fatigue,abdominal pain,weight loss,diarrhea",High
+Crohn's Disease,"diarrhea,fatigue,abdominal pain,weight loss",High
+Crohn's Disease,"weight loss,abdominal pain,diarrhea",High
+Crohn's Disease,"abdominal pain,weight loss,fatigue,diarrhea",High
+Crohn's Disease,"diarrhea,abdominal pain,fatigue",High
+Crohn's Disease,"weight loss,fatigue,abdominal pain,diarrhea",High
+Crohn's Disease,"abdominal pain,fatigue,weight loss,diarrhea",High
+Crohn's Disease,"weight loss,abdominal pain,diarrhea",High
+Crohn's Disease,"diarrhea,fatigue,weight loss,abdominal pain",High
+Crohn's Disease,"abdominal pain,diarrhea,weight loss",High
+Crohn's Disease,"diarrhea,fatigue,weight loss,abdominal pain",High
+Crohn's Disease,"weight loss,diarrhea,abdominal pain,fatigue",High
+Crohn's Disease,"diarrhea,fatigue,abdominal pain,weight loss",High
+Crohn's Disease,"abdominal pain,fatigue,diarrhea",High
+Crohn's Disease,"weight loss,fatigue,diarrhea,abdominal pain",High
+Crohn's Disease,"fatigue,diarrhea,abdominal pain",High
+Crohn's Disease,"fatigue,diarrhea,abdominal pain,weight loss",High
+Crohn's Disease,"abdominal pain,fatigue,diarrhea,weight loss",High
+Crohn's Disease,"abdominal pain,diarrhea,fatigue",High
+Crohn's Disease,"weight loss,diarrhea,abdominal pain,fatigue",High
+Crohn's Disease,"abdominal pain,diarrhea,weight loss",High
+Crohn's Disease,"abdominal pain,weight loss,fatigue,diarrhea",High
+Crohn's Disease,"diarrhea,weight loss,abdominal pain",High
+Crohn's Disease,"fatigue,diarrhea,weight loss,abdominal pain",High
+Crohn's Disease,"abdominal pain,diarrhea,weight loss",High
+Crohn's Disease,"weight loss,abdominal pain,diarrhea,fatigue",High
+Crohn's Disease,"weight loss,diarrhea,abdominal pain",High
+Crohn's Disease,"diarrhea,abdominal pain,fatigue",High
+Crohn's Disease,"diarrhea,fatigue,weight loss,abdominal pain",High
+Crohn's Disease,"weight loss,fatigue,abdominal pain,diarrhea",High
+Crohn's Disease,"abdominal pain,weight loss,diarrhea",High
+Crohn's Disease,"abdominal pain,weight loss,fatigue,diarrhea",High
+Crohn's Disease,"fatigue,abdominal pain,diarrhea",High
+Crohn's Disease,"fatigue,diarrhea,abdominal pain,weight loss",High
+Crohn's Disease,"fatigue,weight loss,diarrhea,abdominal pain",High
+Crohn's Disease,"abdominal pain,diarrhea,weight loss",High
+Crohn's Disease,"abdominal pain,fatigue,diarrhea,weight loss",High
+Crohn's Disease,"diarrhea,abdominal pain,weight loss,fatigue",High
+Crohn's Disease,"abdominal pain,fatigue,diarrhea",High
+Ulcerative Colitis,"abdominal pain,diarrhea,bloody stool",High
+Ulcerative Colitis,"fatigue,diarrhea,bloody stool,abdominal pain",High
+Ulcerative Colitis,"diarrhea,abdominal pain,fatigue,bloody stool",High
+Ulcerative Colitis,"bloody stool,fatigue,abdominal pain,diarrhea",High
+Ulcerative Colitis,"fatigue,bloody stool,abdominal pain,diarrhea",High
+Ulcerative Colitis,"bloody stool,diarrhea,abdominal pain",High
+Ulcerative Colitis,"fatigue,bloody stool,abdominal pain",High
+Ulcerative Colitis,"fatigue,diarrhea,abdominal pain,bloody stool",High
+Ulcerative Colitis,"diarrhea,fatigue,abdominal pain,bloody stool",High
+Ulcerative Colitis,"bloody stool,abdominal pain,diarrhea",High
+Ulcerative Colitis,"bloody stool,fatigue,abdominal pain,diarrhea",High
+Ulcerative Colitis,"diarrhea,abdominal pain,bloody stool",High
+Ulcerative Colitis,"bloody stool,abdominal pain,fatigue",High
+Ulcerative Colitis,"bloody stool,diarrhea,abdominal pain",High
+Ulcerative Colitis,"diarrhea,abdominal pain,bloody stool",High
+Ulcerative Colitis,"abdominal pain,bloody stool,fatigue",High
+Ulcerative Colitis,"bloody stool,abdominal pain,fatigue,diarrhea",High
+Ulcerative Colitis,"bloody stool,diarrhea,fatigue,abdominal pain",High
+Ulcerative Colitis,"bloody stool,abdominal pain,diarrhea",High
+Ulcerative Colitis,"bloody stool,fatigue,abdominal pain",High
+Ulcerative Colitis,"fatigue,abdominal pain,bloody stool",High
+Ulcerative Colitis,"fatigue,bloody stool,abdominal pain,diarrhea",High
+Ulcerative Colitis,"diarrhea,abdominal pain,bloody stool",High
+Ulcerative Colitis,"fatigue,abdominal pain,bloody stool,diarrhea",High
+Ulcerative Colitis,"abdominal pain,diarrhea,bloody stool",High
+Ulcerative Colitis,"diarrhea,bloody stool,abdominal pain",High
+Ulcerative Colitis,"fatigue,diarrhea,abdominal pain,bloody stool",High
+Ulcerative Colitis,"abdominal pain,fatigue,diarrhea,bloody stool",High
+Ulcerative Colitis,"fatigue,bloody stool,abdominal pain",High
+Ulcerative Colitis,"abdominal pain,diarrhea,bloody stool",High
+Ulcerative Colitis,"diarrhea,abdominal pain,bloody stool",High
+Ulcerative Colitis,"abdominal pain,diarrhea,fatigue,bloody stool",High
+Ulcerative Colitis,"bloody stool,diarrhea,abdominal pain,fatigue",High
+Ulcerative Colitis,"bloody stool,fatigue,diarrhea,abdominal pain",High
+Ulcerative Colitis,"abdominal pain,diarrhea,fatigue,bloody stool",High
+Ulcerative Colitis,"bloody stool,diarrhea,fatigue,abdominal pain",High
+Ulcerative Colitis,"abdominal pain,diarrhea,fatigue,bloody stool",High
+Ulcerative Colitis,"fatigue,abdominal pain,bloody stool",High
+Ulcerative Colitis,"abdominal pain,diarrhea,bloody stool,fatigue",High
+Ulcerative Colitis,"abdominal pain,fatigue,bloody stool,diarrhea",High
+Ulcerative Colitis,"bloody stool,abdominal pain,fatigue",High
+Ulcerative Colitis,"fatigue,abdominal pain,bloody stool,diarrhea",High
+Ulcerative Colitis,"abdominal pain,fatigue,bloody stool",High
+Ulcerative Colitis,"abdominal pain,bloody stool,diarrhea",High
+Ulcerative Colitis,"bloody stool,abdominal pain,fatigue",High
+Ulcerative Colitis,"diarrhea,abdominal pain,bloody stool,fatigue",High
+Ulcerative Colitis,"fatigue,diarrhea,abdominal pain,bloody stool",High
+Ulcerative Colitis,"fatigue,abdominal pain,bloody stool,diarrhea",High
+Ulcerative Colitis,"abdominal pain,bloody stool,diarrhea,fatigue",High
+Ulcerative Colitis,"fatigue,bloody stool,diarrhea,abdominal pain",High
