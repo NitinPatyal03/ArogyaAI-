@@ -1297,9 +1297,9 @@ def google_fit_data():
 # -----------------------------------
 @app.route("/predict", methods=["POST"])
 def predict():
-   load_model()
-    try:
+    load_model()
 
+    try:
         data = request.get_json()
 
         symptoms = data.get("symptoms", [])
@@ -1308,33 +1308,20 @@ def predict():
             symptoms = symptoms.split(",")
 
         symptoms = [
-
             symptom.strip().lower()
-
             for symptom in symptoms
-
             if symptom.strip()
-
         ]
 
         if len(symptoms) == 0:
-
             return jsonify({
-
                 "disease": "No Symptoms",
-
                 "doctor": "General Physician",
-
                 "medicine": "Not Available",
-
                 "diet": "Not Available",
-
                 "precaution": "Please enter symptoms.",
-
                 "severity": "Unknown",
-
                 "alert": "No symptoms provided."
-
             })
 
         print("Symptoms :", symptoms)
@@ -1342,13 +1329,11 @@ def predict():
         # -----------------------------------
         # Encode Symptoms
         # -----------------------------------
-
         input_data = mlb.transform([symptoms])
 
         # -----------------------------------
         # Predict Disease
         # -----------------------------------
-
         prediction = model.predict(input_data)[0]
 
         probabilities = model.predict_proba(input_data)[0]
@@ -1358,63 +1343,41 @@ def predict():
         disease = str(prediction).strip()
 
         print("Predicted Disease :", disease)
-
         print("Confidence :", confidence)
 
         # -----------------------------------
         # Top 3 Predictions
         # -----------------------------------
-
         top3_index = probabilities.argsort()[-3:][::-1]
 
         predictions = []
 
         for i in top3_index:
-
             predictions.append({
-
                 "disease": model.classes_[i],
-
                 "confidence": round(probabilities[i] * 100, 2)
-
             })
 
         # -----------------------------------
         # Find Disease Details
         # -----------------------------------
-
         disease_data = df[
-
             df["Disease"].str.strip().str.lower()
-
             ==
-
             disease.strip().lower()
-
         ]
 
         if disease_data.empty:
-
             return jsonify({
-
                 "disease": disease,
-
                 "confidence": confidence,
-
                 "doctor": "General Physician",
-
                 "medicine": "Not Available",
-
                 "diet": "Not Available",
-
                 "precaution": "Not Available",
-
                 "severity": "Unknown",
-
                 "alert": "Disease information not found",
-
                 "predictions": predictions
-
             })
 
         disease_data = disease_data.iloc[0]
@@ -1422,97 +1385,60 @@ def predict():
         # -----------------------------------
         # Severity
         # -----------------------------------
-
         severity_result = detect_severity(symptoms)
 
         # -----------------------------------
         # Doctor Recommendation
         # -----------------------------------
-
         doctor = recommend_doctor(disease)
 
         # -----------------------------------
         # Save Prediction History
         # -----------------------------------
-
         try:
-
             prediction_history_collection.insert_one({
-
                 "email": data.get("email", ""),
-
                 "symptoms": symptoms,
-
                 "disease": disease,
-
                 "confidence": confidence,
-
                 "doctor": doctor,
-
                 "medicine": disease_data["Medicine"],
-
                 "severity": severity_result["level"],
-
                 "date": datetime.now().strftime("%d-%m-%Y %H:%M")
-
             })
 
         except Exception as mongo_error:
-
             print("MongoDB Error :", mongo_error)
 
         # -----------------------------------
         # Final Response
         # -----------------------------------
-
         return jsonify({
-
             "disease": disease,
-
             "confidence": confidence,
-
             "doctor": doctor,
-
             "medicine": disease_data["Medicine"],
-
             "diet": disease_data["Diet"],
-
             "precaution": disease_data["Precaution"],
-
             "severity": severity_result["level"],
-
             "alert": severity_result["alert"],
-
             "predictions": predictions
-
         })
 
     except Exception as e:
-
         print("Prediction Error :", str(e))
 
         return jsonify({
-
             "disease": "Prediction Failed",
-
             "confidence": 0,
-
             "doctor": "General Physician",
-
             "medicine": "Not Available",
-
             "diet": "Not Available",
-
             "precaution": "Not Available",
-
             "severity": "Unknown",
-
             "alert": str(e),
-
             "predictions": []
-
-        }), 500
-    
+        }), 500  
 
 # -----------------------------------
 # AI Chat API (OpenRouter FREE)
