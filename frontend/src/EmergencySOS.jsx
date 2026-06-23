@@ -1,5 +1,6 @@
 import { useState } from "react";
 import toast from "react-hot-toast";
+import emailjs from "@emailjs/browser";
 
 function EmergencySOS() {
   const [location, setLocation] = useState(null);
@@ -22,25 +23,16 @@ function EmergencySOS() {
       });
 
       // Emergency Email
-      await fetch(
-        "https://arogyaai-backend-dic1.onrender.com/send-sos-email",
-
-        {
-          method: "POST",
-
-          headers: {
-            "Content-Type": "application/json",
-          },
-
-          body: JSON.stringify({
-            email,
-
-            latitude: lat,
-
-            longitude: lng,
-          }),
-        },
-      );
+      await emailjs.send(
+  "service_4lem5x6",
+  "template_76q5vzl",
+  {
+    to_email: email,
+    latitude: lat,
+    longitude: lng,
+  },
+  "f01zWD660_mrvhWsx"
+);
 
       // Alarm Sound
       const audio = new Audio("/alert.mp3");
