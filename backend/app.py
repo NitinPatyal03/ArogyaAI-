@@ -791,88 +791,60 @@ def update_user(id):
 # -----------------------------------
 @app.route("/send-sos-email", methods=["POST"])
 def send_sos_email():
-
     try:
-
         data = request.json
 
         receiver_email = data["email"]
-
         latitude = data["latitude"]
-
         longitude = data["longitude"]
 
-        sender_email = "patyalnitin69@gmail.com"
+        api_key = os.getenv("RESEND_API_KEY")
 
-        sender_password = "umls icnq lbny ocze"
+        html_content = f"""
+        <h2>🚨 Emergency SOS Alert</h2>
 
-        message = MIMEMultipart()
+        <p>User needs immediate medical assistance.</p>
 
-        message["From"] = sender_email
+        <p>
+            <b>Location:</b><br>
+            <a href="https://maps.google.com/?q={latitude},{longitude}">
+                Open Location
+            </a>
+        </p>
 
-        message["To"] = receiver_email
+        <p>Please respond immediately.</p>
 
-        message["Subject"] = "🚨 Emergency SOS Alert"
+        <hr>
 
-        body = f"""
+        <p>ArogyaAI Emergency System</p>
+        """
 
-Emergency Alert!
-
-User needs immediate medical assistance.
-
-📍 Location:
-https://maps.google.com/?q={latitude},{longitude}
-
-Please respond immediately.
-
-ArogyaAI Emergency System
-"""
-
-        message.attach(
-
-            MIMEText(body, "plain")
-
+        response = requests.post(
+            "https://api.resend.com/emails",
+            headers={
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json"
+            },
+            json={
+                "from": "onboarding@resend.dev",
+                "to": [receiver_email],
+                "subject": "🚨 Emergency SOS Alert",
+                "html": html_content
+            }
         )
 
-        server = smtplib.SMTP(
-    "smtp.gmail.com",
-    587,
-    timeout=10
-)
-
-        server.starttls()
-
-        server.login(
-
-            sender_email,
-            sender_password
-
-        )
-
-        server.sendmail(
-
-            sender_email,
-            receiver_email,
-            message.as_string()
-
-        )
-
-        server.quit()
+        if response.status_code in [200, 201]:
+            return jsonify({
+                "message": "SOS Email Sent Successfully"
+            })
 
         return jsonify({
-
-            "message":
-            "SOS Email Sent"
-
-        })
+            "error": response.text
+        }), 500
 
     except Exception as e:
-
         return jsonify({
-
-            "error":
-            str(e)
-
+            "error": str(e)
         }), 500
 
 @app.route("/save-health", methods=["POST"])
