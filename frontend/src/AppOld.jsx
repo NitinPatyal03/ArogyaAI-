@@ -157,7 +157,7 @@ function App() {
     }
 
     try {
-      await fetch("http://127.0.0.1:5000/generate-report", {
+      await fetch("https://arogyaai-backend-dic1.onrender.com/generate-report", {
         method: "POST",
 
         headers: {
@@ -194,7 +194,7 @@ function App() {
 
       // Open PDF
       window.open(
-        "http://127.0.0.1:5000/medical_report.pdf",
+        "https://arogyaai-backend-dic1.onrender.com/medical_report.pdf",
 
         "_blank",
       );
@@ -211,7 +211,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/send-email",
+        "https://arogyaai-backend-dic1.onrender.com/send-email",
 
         {
           method: "POST",
@@ -250,7 +250,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/ai-chat",
+        "https://arogyaai-backend-dic1.onrender.com/ai-chat",
 
         {
           method: "POST",
@@ -300,7 +300,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/scan-prescription",
+        "https://arogyaai-backend-dic1.onrender.com/scan-prescription",
 
         {
           method: "POST",
@@ -321,7 +321,7 @@ function App() {
   const explainMedicine = async (text) => {
     try {
       const response = await fetch(
-        "http://127.0.0.1:5000/explain-medicine",
+        "https://arogyaai-backend-dic1.onrender.com/explain-medicine",
 
         {
           method: "POST",
@@ -376,7 +376,7 @@ function App() {
     try {
       // API Request
       const response = await fetch(
-        "http://127.0.0.1:5000/predict",
+        "https://arogyaai-backend-dic1.onrender.com/predict",
 
         {
           method: "POST",

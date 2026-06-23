@@ -113,7 +113,7 @@ function Navbar() {
           <img
             src={
               profileImage
-                ? `http://127.0.0.1:5000/profile-image/${profileImage}`
+                ? `https://arogyaai-backend-dic1.onrender.com/profile-image/${profileImage}`
                 : `https://ui-avatars.com/api/?name=${userName}`
             }
             alt="Profile"

@@ -9,7 +9,7 @@ export const fetchUsers = async (setUsers) => {
 
     const response = await fetch(
 
-      "http://127.0.0.1:5000/admin/users"
+      "https://arogyaai-backend-dic1.onrender.com/admin/users"
 
     );
 
@@ -38,7 +38,7 @@ export const fetchAppointments = async (setAppointments) => {
 
     const response = await fetch(
 
-      "http://127.0.0.1:5000/appointment"
+      "https://arogyaai-backend-dic1.onrender.com/appointment"
 
     );
 
@@ -65,7 +65,7 @@ export const fetchHistory = async (setHistory) => {
 
     const response = await fetch(
 
-      "http://127.0.0.1:5000/history"
+      "https://arogyaai-backend-dic1.onrender.com/history"
 
     );
 
@@ -110,7 +110,7 @@ export const deleteUser = async (
 
     const response = await fetch(
 
-      `http://127.0.0.1:5000/admin/delete-user/${id}`,
+      `https://arogyaai-backend-dic1.onrender.com/admin/delete-user/${id}`,
 
       {
 
@@ -157,7 +157,7 @@ export const blockUser = async (
 
     const response = await fetch(
 
-      `http://127.0.0.1:5000/admin/block-user/${id}`,
+      `https://arogyaai-backend-dic1.onrender.com/admin/block-user/${id}`,
 
       {
 
@@ -204,7 +204,7 @@ export const unblockUser = async (
 
     const response = await fetch(
 
-      `http://127.0.0.1:5000/admin/unblock-user/${id}`,
+      `https://arogyaai-backend-dic1.onrender.com/admin/unblock-user/${id}`,
 
       {
 
@@ -253,7 +253,7 @@ export const updateUser = async (
 
     const response = await fetch(
 
-      `http://127.0.0.1:5000/admin/update-user/${editUser._id}`,
+      `https://arogyaai-backend-dic1.onrender.com/admin/update-user/${editUser._id}`,
 
       {
 
