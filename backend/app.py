@@ -1445,14 +1445,11 @@ def ai_chat():
             url="https://openrouter.ai/api/v1/chat/completions",
 
             headers={
-
-                # "Authorization": uncomment and add your OpenRouter API key here
-                # "Bearer YOUR_OPENROUTER_API_KEY",
-
-                "Content-Type":
-                "application/json"
-
-            },
+    "Authorization": f"Bearer {os.getenv('OPENROUTER_API_KEY')}",
+    "Content-Type": "application/json",
+    "HTTP-Referer": "https://arogyaaiv2.netlify.app",
+    "X-Title": "ArogyaAI"
+},
 
             json={
 
@@ -1513,7 +1510,14 @@ Rules:
 
         result = response.json()
 
-        ai_reply = result["choices"][0]["message"]["content"]
+print(result)
+
+if "choices" not in result:
+    return jsonify({
+        "reply": f"OpenRouter Error: {result}"
+    }), 500
+
+ai_reply = result["choices"][0]["message"]["content"]
 
         print(ai_reply)
 
@@ -2242,13 +2246,11 @@ Prescription:
             url="https://openrouter.ai/api/v1/chat/completions",
 
             headers={
-
-                # "Authorization": uncomment and add your OpenRouter API key here
-
-                "Content-Type": 
-                "application/json"
-
-            },
+    "Authorization": f"Bearer {os.getenv('OPENROUTER_API_KEY')}",
+    "Content-Type": "application/json",
+    "HTTP-Referer": "https://arogyaaiv2.netlify.app",
+    "X-Title": "ArogyaAI"
+},
 
             json={
 
