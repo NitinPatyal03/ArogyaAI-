@@ -835,11 +835,10 @@ ArogyaAI Emergency System
         )
 
         server = smtplib.SMTP(
-
-            "smtp.gmail.com",
-            587
-
-        )
+    "smtp.gmail.com",
+    587,
+    timeout=10
+)
 
         server.starttls()
 
@@ -1714,9 +1713,10 @@ Thank you for using ArogyaAI.
 
         # Gmail SMTP
         server = smtplib.SMTP(
-            "smtp.gmail.com",
-            587
-        )
+    "smtp.gmail.com",
+    587,
+    timeout=10
+)
 
         server.starttls()
 
@@ -2119,9 +2119,10 @@ ArogyaAI Team
 
         # Gmail SMTP
         server = smtplib.SMTP(
-            "smtp.gmail.com",
-            587
-        )
+    "smtp.gmail.com",
+    587,
+    timeout=10
+)
 
         server.starttls()
 
@@ -2438,11 +2439,10 @@ ArogyaAI
 
         # SMTP
         server = smtplib.SMTP(
-
-            "smtp.gmail.com",
-            587
-
-        )
+    "smtp.gmail.com",
+    587,
+    timeout=10
+)
 
         server.starttls()
 
