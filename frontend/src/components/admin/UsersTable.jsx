@@ -88,7 +88,7 @@ function UsersTable({
                       <img
                         src={
                           user.profileImage
-                            ? `http://127.0.0.1:5000/profile-image/${user.profileImage}`
+                            ? `https://arogyaai-backend-dic1.onrender.com/profile-image/${user.profileImage}`
                             : `https://ui-avatars.com/api/?name=${encodeURIComponent(user.name || "User")}&background=2563eb&color=fff`
                         }
                         alt="user"
