@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import toast from "react-hot-toast";
+import emailjs from "@emailjs/browser";
 
 function MedicineReminder() {
   const [medicine, setMedicine] = useState("");
@@ -36,44 +37,46 @@ function MedicineReminder() {
         hour12: false,
       });
 
-      reminders.forEach((reminder) => {
-        if (reminder.time === currentTime) {
-          // Notification
-          if (Notification.permission === "granted") {
-            new Notification(
-              "💊 Medicine Reminder",
+      reminders.forEach(async (reminder) => {
+  const sentKey = `medicine-${reminder.id}-${currentTime}`;
 
-              {
-                body: `Time to take ${reminder.medicine}`,
-              },
-            );
-          }
+  if (
+    reminder.time === currentTime &&
+    !sessionStorage.getItem(sentKey)
+  ) {
+    // Mark as sent
+    sessionStorage.setItem(sentKey, "true");
 
-          // Alarm Sound
-          const audio = new Audio("/alert.mp3");
-
-          audio.play();
-
-          // Email API
-          fetch(
-            "https://arogyaai-backend-dic1.onrender.com/send-medicine-email",
-
-            {
-              method: "POST",
-
-              headers: {
-                "Content-Type": "application/json",
-              },
-
-              body: JSON.stringify({
-                medicine: reminder.medicine,
-
-                email: reminder.email,
-              }),
-            },
-          );
-        }
+    // Notification
+    if (Notification.permission === "granted") {
+      new Notification("💊 Medicine Reminder", {
+        body: `Time to take ${reminder.medicine}`,
       });
+    }
+
+    // Alarm
+    const audio = new Audio("/alert.mp3");
+    audio.play();
+
+    // EmailJS
+    try {
+      await emailjs.send(
+        "service_4lem5x6",
+        "template_jfyq4p9",
+        {
+          to_email: reminder.email,
+          medicine: reminder.medicine,
+          time: reminder.time,
+        },
+        "f01zWD660_mrvhWsx"
+      );
+
+      console.log("Medicine email sent");
+    } catch (error) {
+      console.error(error);
+    }
+  }
+});
     }, 1000);
 
     return () => clearInterval(interval);
