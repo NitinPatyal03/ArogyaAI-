@@ -1510,14 +1510,7 @@ Rules:
 
         result = response.json()
 
-print(result)
-
-if "choices" not in result:
-    return jsonify({
-        "reply": f"OpenRouter Error: {result}"
-    }), 500
-
-ai_reply = result["choices"][0]["message"]["content"]
+        ai_reply = result["choices"][0]["message"]["content"]
 
         print(ai_reply)
 
