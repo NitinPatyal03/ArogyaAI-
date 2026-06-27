@@ -847,6 +847,7 @@ def send_sos_email():
             "error": str(e)
         }), 500
 
+
 @app.route("/save-health", methods=["POST"])
 def save_health():
 
@@ -2363,89 +2364,64 @@ def send_medicine_email():
 
         data = request.get_json()
 
-        medicine = data["medicine"]
+        email = data.get("email")
+        medicine = data.get("medicine")
 
-        receiver_email = data["email"]
+        payload = {
 
-        # Sender Email
-        sender_email = "patyalnitin69@gmail.com"
+            "service_id": os.getenv("EMAILJS_SERVICE_ID"),
 
-        # Gmail App Password
-        sender_password = "umls icnq lbny ocze"
+            "template_id": os.getenv("EMAILJS_MEDICINE_TEMPLATE_ID"),
 
-        # Email Message
-        message = MIMEMultipart()
+            "user_id": os.getenv("EMAILJS_PUBLIC_KEY"),
 
-        message["From"] = sender_email
+            "template_params": {
 
-        message["To"] = receiver_email
+                "to_email": email,
 
-        message["Subject"] = "Medicine Reminder - ArogyaAI"
+                "medicine": medicine,
 
-        body = f"""
+                "app_name": "ArogyaAI"
 
-Hello,
+            }
 
-This is your medicine reminder.
+        }
 
-💊 Medicine:
-{medicine}
+        response = requests.post(
 
-Please take your medicine on time.
+            "https://api.emailjs.com/api/v1.0/email/send",
 
-Stay healthy.
+            json=payload,
 
-ArogyaAI
-"""
+            headers={
+                "Content-Type": "application/json"
+            },
 
-        message.attach(
-
-            MIMEText(body, "plain")
+            timeout=15
 
         )
 
-        # SMTP
-        server = smtplib.SMTP(
-    "smtp.gmail.com",
-    587,
-    timeout=10
-)
+        if response.status_code == 200:
 
-        server.starttls()
+            return jsonify({
 
-        server.login(
+                "message": "Reminder email sent successfully"
 
-            sender_email,
-            sender_password
-
-        )
-
-        server.sendmail(
-
-            sender_email,
-            receiver_email,
-            message.as_string()
-
-        )
-
-        server.quit()
+            })
 
         return jsonify({
 
-            "message":
-            "Reminder email sent"
+            "error": response.text
 
-        })
+        }), response.status_code
 
     except Exception as e:
 
         return jsonify({
 
-            "error":
-            str(e)
+            "error": str(e)
 
         }), 500
-
 # -----------------------------------
 # Run Flask App
 # -----------------------------------
