@@ -794,7 +794,9 @@ def send_sos_email():
     try:
         data = request.json
 
-        receiver_email = data["email"]
+        receiver_email = data["emergencyEmail"]
+
+        sender_email = data["email"]
         latitude = data["latitude"]
         longitude = data["longitude"]
 
