@@ -44,6 +44,14 @@ import time
 # -----------------------------------
 app = Flask(__name__)
 
+data["createdAt"] = datetime.now().strftime(
+
+    "%d %b %Y %I:%M %p"
+
+)
+
+health_collection.insert_one(data)
+
 CORS(
     app,
     resources={r"/*": {"origins": "*"}},
@@ -1805,7 +1813,54 @@ def get_appointments():
 #             str(e)
 
 #         }), 500
-    
+    \
+
+# ============================================
+# HEALTH HISTORY
+# ============================================
+
+@app.route("/health-history/<email>", methods=["GET"])
+def get_health_history(email):
+
+    try:
+
+        records = list(
+
+            health_collection.find(
+
+                {
+
+                    "email": email
+
+                },
+
+                {
+
+                    "_id": 0
+
+                }
+
+            ).sort(
+
+                "createdAt",
+
+                -1
+
+            )
+
+        )
+
+        return jsonify(records)
+
+    except Exception as e:
+
+        return jsonify({
+
+            "error": str(e)
+
+        }),500
+
+
     # -----------------------------------
 # Delete Appointment API
 # -----------------------------------
