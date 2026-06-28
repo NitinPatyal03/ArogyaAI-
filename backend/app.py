@@ -44,9 +44,6 @@ import time
 # -----------------------------------
 app = Flask(__name__)
 
-
-health_collection.insert_one(data)
-
 CORS(
     app,
     resources={r"/*": {"origins": "*"}},
@@ -881,10 +878,10 @@ def save_health():
             "error": str(e)
 
         }), 500
-        
+
     
-@app.route("/health-history", methods=["GET"])
-def health_history():
+# @app.route("/health-history", methods=["GET"])
+# def health_history():
 
     try:
 
@@ -919,6 +916,27 @@ def health_history():
 
         }), 500
     
+@app.route("/delete-health/<email>/<date>", methods=["DELETE"])
+def delete_health(email, date):
+
+    try:
+
+        health_collection.delete_one({
+            "email": email,
+            "createdAt": date
+        })
+
+        return jsonify({
+            "message": "Deleted Successfully"
+        })
+
+    except Exception as e:
+
+        return jsonify({
+            "error": str(e)
+        }), 500
+        
+            
 @app.route(
     "/history/delete/<id>",
     methods=["DELETE"]
