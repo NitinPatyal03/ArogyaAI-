@@ -44,11 +44,6 @@ import time
 # -----------------------------------
 app = Flask(__name__)
 
-data["createdAt"] = datetime.now().strftime(
-
-    "%d %b %Y %I:%M %p"
-
-)
 
 health_collection.insert_one(data)
 
@@ -863,28 +858,19 @@ def save_health():
 
     try:
 
-        data = request.json
+        data = request.get_json()
 
-        health_collection.insert_one({
+        from datetime import datetime
 
-            "heartRate":
-            data["heartRate"],
+        data["createdAt"] = datetime.now().strftime(
+            "%d %b %Y %I:%M %p"
+        )
 
-            "steps":
-            data["steps"],
-
-            "calories":
-            data["calories"],
-
-            "sleep":
-            data["sleep"]
-
-        })
+        health_collection.insert_one(data)
 
         return jsonify({
 
-            "message":
-            "Health data saved"
+            "message": "Health data saved"
 
         })
 
@@ -892,10 +878,10 @@ def save_health():
 
         return jsonify({
 
-            "error":
-            str(e)
+            "error": str(e)
 
         }), 500
+        
     
 @app.route("/health-history", methods=["GET"])
 def health_history():
