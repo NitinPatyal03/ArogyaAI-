@@ -935,8 +935,8 @@ def delete_health(email, date):
         return jsonify({
             "error": str(e)
         }), 500
-        
-            
+
+
 @app.route(
     "/history/delete/<id>",
     methods=["DELETE"]
@@ -951,6 +951,8 @@ def delete_history(id):
             ObjectId(id)
 
         })
+
+
 
         return jsonify({
 
@@ -1287,9 +1289,11 @@ def google_fit_data():
 # -----------------------------------
 @app.route("/predict", methods=["POST"])
 def predict():
+
     load_model()
 
     try:
+
         data = request.get_json()
 
         symptoms = data.get("symptoms", [])
@@ -1303,15 +1307,35 @@ def predict():
             if symptom.strip()
         ]
 
+        # -----------------------------------
+        # No Symptoms
+        # -----------------------------------
+
         if len(symptoms) == 0:
+
             return jsonify({
+
                 "disease": "No Symptoms",
+
+                "confidence": 0,
+
                 "doctor": "General Physician",
+
                 "medicine": "Not Available",
+
                 "diet": "Not Available",
+
                 "precaution": "Please enter symptoms.",
+
                 "severity": "Unknown",
-                "alert": "No symptoms provided."
+
+                "alert": "No symptoms provided.",
+
+                "aiRecommendation":
+                    "Please enter at least one symptom to receive a prediction.",
+
+                "predictions": []
+
             })
 
         print("Symptoms :", symptoms)
@@ -1319,11 +1343,13 @@ def predict():
         # -----------------------------------
         # Encode Symptoms
         # -----------------------------------
+
         input_data = mlb.transform([symptoms])
 
         # -----------------------------------
         # Predict Disease
         # -----------------------------------
+
         prediction = model.predict(input_data)[0]
 
         probabilities = model.predict_proba(input_data)[0]
@@ -1333,41 +1359,66 @@ def predict():
         disease = str(prediction).strip()
 
         print("Predicted Disease :", disease)
+
         print("Confidence :", confidence)
 
         # -----------------------------------
         # Top 3 Predictions
         # -----------------------------------
+
         top3_index = probabilities.argsort()[-3:][::-1]
 
         predictions = []
 
         for i in top3_index:
+
             predictions.append({
+
                 "disease": model.classes_[i],
+
                 "confidence": round(probabilities[i] * 100, 2)
+
             })
 
         # -----------------------------------
-        # Find Disease Details
+        # Disease Details
         # -----------------------------------
+
         disease_data = df[
             df["Disease"].str.strip().str.lower()
             ==
             disease.strip().lower()
         ]
 
+        # -----------------------------------
+        # Disease Not Found
+        # -----------------------------------
+
         if disease_data.empty:
+
             return jsonify({
+
                 "disease": disease,
+
                 "confidence": confidence,
+
                 "doctor": "General Physician",
+
                 "medicine": "Not Available",
+
                 "diet": "Not Available",
+
                 "precaution": "Not Available",
+
                 "severity": "Unknown",
-                "alert": "Disease information not found",
+
+                "alert": "Disease information not found.",
+
+                "aiRecommendation":
+                    "Please consult a qualified healthcare professional.",
+
                 "predictions": predictions
+
             })
 
         disease_data = disease_data.iloc[0]
@@ -1375,61 +1426,151 @@ def predict():
         # -----------------------------------
         # Severity
         # -----------------------------------
+
         severity_result = detect_severity(symptoms)
 
         # -----------------------------------
         # Doctor Recommendation
         # -----------------------------------
+
         doctor = recommend_doctor(disease)
+
+        # -----------------------------------
+        # AI Recommendation
+        # -----------------------------------
+
+        disease_lower = disease.lower()
+
+        if "diabetes" in disease_lower:
+
+            ai_recommendation = (
+                "Monitor your blood sugar regularly, "
+                "avoid sugary foods, exercise daily, "
+                "and follow your doctor's advice."
+            )
+
+        elif "hypertension" in disease_lower:
+
+            ai_recommendation = (
+                "Reduce salt intake, manage stress, "
+                "exercise regularly, and monitor blood pressure."
+            )
+
+        elif "dengue" in disease_lower:
+
+            ai_recommendation = (
+                "Drink plenty of fluids, rest well, "
+                "monitor platelet count, and seek medical care immediately if symptoms worsen."
+            )
+
+        elif "malaria" in disease_lower:
+
+            ai_recommendation = (
+                "Complete the prescribed medication course, "
+                "stay hydrated, and avoid mosquito exposure."
+            )
+
+        elif "covid" in disease_lower:
+
+            ai_recommendation = (
+                "Isolate if necessary, stay hydrated, "
+                "monitor oxygen levels, and seek medical attention if breathing becomes difficult."
+            )
+
+        else:
+
+            ai_recommendation = (
+                "Drink plenty of water, eat nutritious food, "
+                "take adequate rest, follow your prescribed medication, "
+                "and consult a doctor if symptoms worsen."
+            )
 
         # -----------------------------------
         # Save Prediction History
         # -----------------------------------
+
         try:
+
             prediction_history_collection.insert_one({
+
                 "email": data.get("email", ""),
+
                 "symptoms": symptoms,
+
                 "disease": disease,
+
                 "confidence": confidence,
+
                 "doctor": doctor,
+
                 "medicine": disease_data["Medicine"],
+
                 "severity": severity_result["level"],
+
                 "date": datetime.now().strftime("%d-%m-%Y %H:%M")
+
             })
 
         except Exception as mongo_error:
+
             print("MongoDB Error :", mongo_error)
 
         # -----------------------------------
         # Final Response
         # -----------------------------------
+
         return jsonify({
+
             "disease": disease,
+
             "confidence": confidence,
+
             "doctor": doctor,
+
             "medicine": disease_data["Medicine"],
+
             "diet": disease_data["Diet"],
+
             "precaution": disease_data["Precaution"],
+
             "severity": severity_result["level"],
+
             "alert": severity_result["alert"],
+
+            "aiRecommendation": ai_recommendation,
+
             "predictions": predictions
+
         })
 
     except Exception as e:
+
         print("Prediction Error :", str(e))
 
         return jsonify({
-            "disease": "Prediction Failed",
-            "confidence": 0,
-            "doctor": "General Physician",
-            "medicine": "Not Available",
-            "diet": "Not Available",
-            "precaution": "Not Available",
-            "severity": "Unknown",
-            "alert": str(e),
-            "predictions": []
-        }), 500  
 
+            "disease": "Prediction Failed",
+
+            "confidence": 0,
+
+            "doctor": "General Physician",
+
+            "medicine": "Not Available",
+
+            "diet": "Not Available",
+
+            "precaution": "Not Available",
+
+            "severity": "Unknown",
+
+            "alert": str(e),
+
+            "aiRecommendation":
+                "Unable to generate recommendation at this time.",
+
+            "predictions": []
+
+        }), 500
 # -----------------------------------
 # AI Chat API (OpenRouter FREE)
 # -----------------------------------
