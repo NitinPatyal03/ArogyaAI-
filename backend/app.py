@@ -1104,6 +1104,41 @@ def dashboard():
             "error": str(e)
 
         }),500
+
+@app.route("/admin/dashboard", methods=["GET"])
+def admin_dashboard():
+
+    try:
+
+        return jsonify({
+
+            "totalUsers":
+            users_collection.count_documents({}),
+
+            "totalPredictions":
+            prediction_history_collection.count_documents({}),
+
+            "totalAppointments":
+            appointments_collection.count_documents({}),
+
+            "totalHealthRecords":
+            health_collection.count_documents({}),
+
+            "totalSOS":
+            sos_collection.count_documents({}),
+
+            "totalAIChats":
+            ai_chat_collection.count_documents({})
+
+        })
+
+    except Exception as e:
+
+        return jsonify({
+
+            "error": str(e)
+
+        }),500
     
 @app.route("/update-profile", methods=["POST"])
 def update_profile():
