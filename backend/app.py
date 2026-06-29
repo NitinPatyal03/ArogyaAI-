@@ -319,7 +319,7 @@ def get_users():
 
             users.append({
 
-                "_id": str(user["_id"]),
+                "id": str(user["_id"]),
 
                 "name": user.get("name", ""),
 
