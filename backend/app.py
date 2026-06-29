@@ -1122,13 +1122,8 @@ def admin_dashboard():
             appointments_collection.count_documents({}),
 
             "totalHealthRecords":
-            health_collection.count_documents({}),
+            health_collection.count_documents({})
 
-            "totalSOS":
-            sos_collection.count_documents({}),
-
-            "totalAIChats":
-            ai_chat_collection.count_documents({})
 
         })
 
